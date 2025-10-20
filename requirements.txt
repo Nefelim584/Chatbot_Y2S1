@@ -1,0 +1,23 @@
+# PDF Parsing System Dependencies
+
+# Core PDF processing libraries
+PyMuPDF==1.23.8
+pdfplumber==0.10.3
+
+# Image processing
+Pillow==10.1.0
+
+# Data handling
+dataclasses-json==0.6.1
+
+# Optional: For advanced OCR capabilities (uncomment if needed)
+# pytesseract==0.3.10
+# opencv-python==4.8.1.78
+
+# Optional: For better table extraction (uncomment if needed)
+# camelot-py[cv]==0.10.1
+# tabula-py==2.7.0
+
+# Development and testing
+pytest==7.4.3
+pytest-cov==4.1.0
