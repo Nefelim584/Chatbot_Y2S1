@@ -2,6 +2,7 @@ from __future__ import annotations
 from pathlib import Path
 from pipelines.Extraction import extract_text
 from ML.completion import MistralAPIError, generate_candidate_profile
+from loguru import logger
 
 
 def _pick_first_pdf(db_directory: Path) -> Path:
@@ -29,10 +30,11 @@ def main() -> None:
     except MistralAPIError as exc:
         raise RuntimeError(f"Failed to generate candidate profile: {exc}") from exc
 
-    print(f"Candidate profile extracted from '{pdf_path.name}':\n")
-    print(profile.model_dump_json(by_alias=True, indent=2))
+    logger.info(f"Candidate profile extracted from '{pdf_path.name}':")
+    logger.info(profile.model_dump_json(by_alias=True, indent=2))
 
 
 if __name__ == "__main__":
     main()
+
 
