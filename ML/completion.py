@@ -119,24 +119,7 @@ def completion(
     safe_prompt: bool = False,
     timeout: float = 30.0,
 ) -> str:
-    """
-    Call Mistral chat completions API with the specified model.
 
-    Args:
-        model: The model tag to use (e.g., "mistral-medium", "mistral-large-latest")
-        system_prompt: The system prompt string
-        prompt: The user prompt string
-        temperature: Sampling temperature (default: 0.7)
-        max_tokens: Maximum number of tokens to generate (optional)
-        safe_prompt: Whether to use safe prompt filtering (default: False)
-        timeout: Request timeout in seconds (default: 30.0)
-
-    Returns:
-        The assistant message content as a string.
-
-    Raises:
-        MistralAPIError: If the API call fails or returns an error.
-    """
     api_key = _get_mistral_api_key()
 
     messages = [
@@ -201,18 +184,7 @@ def generate_candidate_profile(
     temperature: float = 0.0,
     max_tokens: Optional[int] =None,
 ) -> CandidateProfile:
-    """
-    Generate a structured candidate profile from extracted resume text.
 
-    Args:
-        extracted_text: Raw textual content extracted from the document.
-        model: Mistral model identifier to use for completion.
-        temperature: Sampling temperature for generation.
-        max_tokens: Optional token limit for the response.
-
-    Returns:
-        CandidateProfile populated from the model output.
-    """
     system_prompt = (
         "You are an assistant that extracts resume information and responds strictly in JSON. "
         "Return keys exactly as Education, Experience, Location, Skills. "
