@@ -6,7 +6,7 @@ from sqlalchemy.orm import declarative_base, relationship, sessionmaker
 # ---------------------------------------------------------------------------
 
 # Update this URL with real credentials/environment variables when deploying.
-DATABASE_URL = "postgresql+psycopg://user:password@localhost:5432/ai_clinic"
+DATABASE_URL = "postgresql+psycopg2://postgres:postgres@localhost:5432/postgres"
 
 engine = create_engine(DATABASE_URL, echo=False, future=True)
 SessionLocal = sessionmaker(bind=engine, autoflush=False, autocommit=False, future=True)

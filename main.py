@@ -17,7 +17,7 @@ def _pick_first_pdf(db_directory: Path) -> Path:
 
 def main() -> None:
     project_root = Path(__file__).resolve().parent
-    db_directory = project_root / "DB"
+    db_directory = project_root / "data/dataset_1"
 
     if not db_directory.exists() or not db_directory.is_dir():
         raise FileNotFoundError(f"Database directory not found: {db_directory}")
