@@ -1,5 +1,6 @@
 from sqlalchemy import Column, ForeignKey, Integer, String, Text, create_engine
 from sqlalchemy.orm import declarative_base, relationship, sessionmaker
+from loguru import logger
 
 # ---------------------------------------------------------------------------
 # Database configuration
@@ -85,3 +86,10 @@ def init_db() -> None:
 
     Base.metadata.create_all(bind=engine)
 
+def main() -> None:
+    logger.info("Starting data models")
+    init_db()
+    logger.info("Data models initialized")
+
+if __name__ == "__main__":
+    main()
