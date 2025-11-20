@@ -13,3 +13,4 @@ node_modules/
 dist/
 pyproject.toml
 .python-version
+ML/test_embed.py
