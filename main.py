@@ -2,6 +2,7 @@ from __future__ import annotations
 from pathlib import Path
 from pipelines.Extraction import extract_text
 from ML.completion import MistralAPIError, generate_candidate_profile
+from loguru import logger
 
 
 def _pick_first_pdf(db_directory: Path) -> Path:
@@ -16,7 +17,7 @@ def _pick_first_pdf(db_directory: Path) -> Path:
 
 def main() -> None:
     project_root = Path(__file__).resolve().parent
-    db_directory = project_root / "DB"
+    db_directory = project_root / "data/dataset_1"
 
     if not db_directory.exists() or not db_directory.is_dir():
         raise FileNotFoundError(f"Database directory not found: {db_directory}")
@@ -29,10 +30,11 @@ def main() -> None:
     except MistralAPIError as exc:
         raise RuntimeError(f"Failed to generate candidate profile: {exc}") from exc
 
-    print(f"Candidate profile extracted from '{pdf_path.name}':\n")
-    print(profile.model_dump_json(by_alias=True, indent=2))
+    logger.info(f"Candidate profile extracted from '{pdf_path.name}':")
+    logger.info(profile.model_dump_json(by_alias=True, indent=2))
 
 
 if __name__ == "__main__":
     main()
+
 

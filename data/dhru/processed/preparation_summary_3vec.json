@@ -1,0 +1,37 @@
+{
+  "cv_samples": [
+    {
+      "cv_id": 0,
+      "skills_text": "Big Data, Hadoop, Hive, Python, Mapreduce, Spark, Java, Machine Learning, Cloud, Hdfs, YARN, Core Java, Data Science, C++, Data Structures, DBMS, RDBMS, Informatica, Talend, Amazon Redshift, Microsoft Azure ['Big Data']",
+      "technical_text": "EDUCATION: B.Tech in Electronics from The Amity School of Engineering & Technology (ASET), Noida (2019). EXPERIENCE: Big Data Analyst at Coca-COla (Nov 2019 - Till Date).",
+      "context_text": "CAREER OBJECTIVE: Big data analytics working and database warehouse manager with robust experience in handling all kinds of data. I have also used multiple cloud infrastructure services and am well acquainted with them. Currently in search of role that offers more of development. RESPONSIBILITIES: Technical Support Troubleshooting Collaboration Documentation System Monitoring Software Deployment Training & Mentorship Industry Trends Field Visits",
+      "has_skills": true,
+      "has_technical": true,
+      "has_context": true
+    },
+    {
+      "cv_id": 1,
+      "skills_text": "Data Analysis, Data Analytics, Business Analysis, R, SAS, PowerBi, Tableau, Data Visualization, Business Analytics, Machine Learning [['Data Analysis', 'Business Analysis', 'Machine Learning']]",
+      "technical_text": "EDUCATION: B.Sc (Maths) in Mathematics from Delhi University - Hansraj College (2015). M.Sc (Science) (Statistics) in Statistics from Delhi University - Hansraj College (2018). EXPERIENCE: Business Analyst at BIB Consultancy (Sep 2019 - Till Date).",
+      "context_text": "CAREER OBJECTIVE: Fresher looking to join as a data analyst and junior data scientist. Experienced in creating meaningful data dashboards and evaluation models. RESPONSIBILITIES: Machine Learning Leadership Cross-Functional Collaboration Strategy Development ML/NLP Infrastructure Prototype Transformation ML System Design Algorithm Research Application Development Dataset Selection ML Testing Statistical Analysis R&D in ML/NLP Text Representation Data Pipeline Design Statistical Data Analysis Model Training Team Collaboration Research Reporting Algorithm Analysis",
+      "has_skills": true,
+      "has_technical": true,
+      "has_context": true
+    }
+  ],
+  "job_samples": [],
+  "statistics": {
+    "total_cvs_prepared": 344,
+    "total_jobs_prepared": 0,
+    "vectors_per_item": 3,
+    "vector_names": [
+      "skills",
+      "technical",
+      "context"
+    ],
+    "avg_cv_skills_length": 501,
+    "avg_cv_technical_length": 322,
+    "avg_cv_context_length": 350,
+    "na_filtering": "Complete - no N/A values in vectors"
+  }
+}
