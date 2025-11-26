@@ -199,6 +199,86 @@ def completion(
     return content
 
 
+def embed_words(
+        words: list[str],
+        *,
+        model: str = "mistral-embed",
+        timeout: float = 30.0,
+) -> list[list[float]]:
+    """
+    Generate embedding vectors for a list of words using the Mistral embeddings API.
+
+    Args:
+        words: List of words or short phrases to embed.
+        model: Embedding model identifier (default: "mistral-embed").
+        timeout: Request timeout in seconds (default: 30.0).
+
+    Returns:
+        List of embedding vectors in the same order as the input words.
+
+    Raises:
+        MistralAPIError: If the API call fails or the response payload is invalid.
+    """
+    if not isinstance(words, list):
+        raise MistralAPIError("`words` must be provided as a list of strings.")
+    if not words:
+        logger.info("No words provided for embedding; returning empty list.")
+        return []
+
+    normalized_words: list[str] = []
+    for index, word in enumerate(words):
+        if not isinstance(word, str):
+            raise MistralAPIError(f"All items must be strings. Invalid item at index {index}.")
+        sanitized = word.strip()
+        if not sanitized:
+            raise MistralAPIError(f"Word at index {index} is empty after stripping.")
+        normalized_words.append(sanitized)
+
+    logger.info(f"Requesting embeddings for {len(normalized_words)} words using model: {model}")
+    api_key = _get_mistral_api_key()
+    payload = {
+        "model": model,
+        "inputs": normalized_words,
+    }
+    headers = {
+        "Authorization": f"Bearer {api_key}",
+        "Content-Type": "application/json",
+    }
+    url = f"{MISTRAL_API_BASE_URL}/embeddings"
+
+    try:
+        response = requests.post(url, json=payload, headers=headers, timeout=timeout)
+    except requests.RequestException as exc:
+        logger.error(f"Network error calling Mistral embeddings API: {exc}")
+        raise MistralAPIError(f"Network error calling Mistral embeddings API: {exc}") from None
+
+    if response.status_code >= 400:
+        logger.error(f"Mistral embeddings API error {response.status_code}: {response.text}")
+        raise MistralAPIError(
+            f"Mistral embeddings API error {response.status_code}: {response.text}"
+        )
+
+    data = response.json()
+    embeddings = data.get("data")
+    if not isinstance(embeddings, list):
+        logger.error("Embeddings API response missing `data` list")
+        raise MistralAPIError("Embeddings API response missing `data` list.")
+    if len(embeddings) != len(normalized_words):
+        logger.error("Embeddings API returned a mismatched number of vectors")
+        raise MistralAPIError("Embeddings API returned a mismatched number of vectors.")
+
+    vectors: list[list[float]] = []
+    for idx, item in enumerate(embeddings):
+        vector = item.get("embedding")
+        if not isinstance(vector, list):
+            logger.error(f"Embedding at index {idx} missing or invalid")
+            raise MistralAPIError("Embeddings API response contains invalid embedding values.")
+        vectors.append(vector)
+
+    logger.info("Successfully retrieved embeddings from Mistral API")
+    return vectors
+
+
 def _extract_json_object(text: str) -> str:
     """Extract the first JSON object found in a text blob."""
     logger.debug("Extracting JSON object from response text")
