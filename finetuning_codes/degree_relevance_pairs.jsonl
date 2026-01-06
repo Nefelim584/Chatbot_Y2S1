@@ -1,0 +1,523 @@
+{"degree": "Computer Science", "role": "Software Engineer", "score": 0.95}
+{"degree": "BTech Computer Science", "role": "Software Engineer", "score": 0.95}
+{"degree": "BSc Computer Science", "role": "Software Engineer", "score": 0.95}
+{"degree": "BEng Computer Science", "role": "Software Engineer", "score": 0.95}
+{"degree": "Computer Science", "role": "Backend Developer", "score": 0.95}
+{"degree": "BTech Computer Science", "role": "Backend Developer", "score": 0.95}
+{"degree": "BSc Computer Science", "role": "Backend Developer", "score": 0.95}
+{"degree": "BEng Computer Science", "role": "Backend Developer", "score": 0.95}
+{"degree": "Computer Science", "role": "Frontend Developer", "score": 0.95}
+{"degree": "BTech Computer Science", "role": "Frontend Developer", "score": 0.95}
+{"degree": "BSc Computer Science", "role": "Frontend Developer", "score": 0.95}
+{"degree": "BEng Computer Science", "role": "Frontend Developer", "score": 0.95}
+{"degree": "Computer Science", "role": "Full Stack Developer", "score": 0.95}
+{"degree": "BTech Computer Science", "role": "Full Stack Developer", "score": 0.95}
+{"degree": "BSc Computer Science", "role": "Full Stack Developer", "score": 0.95}
+{"degree": "BEng Computer Science", "role": "Full Stack Developer", "score": 0.95}
+{"degree": "Computer Science", "role": "Software Developer", "score": 0.95}
+{"degree": "BTech Computer Science", "role": "Software Developer", "score": 0.95}
+{"degree": "BSc Computer Science", "role": "Software Developer", "score": 0.95}
+{"degree": "BEng Computer Science", "role": "Software Developer", "score": 0.95}
+{"degree": "Computer Science", "role": "DevOps Engineer", "score": 0.95}
+{"degree": "BTech Computer Science", "role": "DevOps Engineer", "score": 0.95}
+{"degree": "BSc Computer Science", "role": "DevOps Engineer", "score": 0.95}
+{"degree": "BEng Computer Science", "role": "DevOps Engineer", "score": 0.95}
+{"degree": "Computer Science", "role": "SRE", "score": 0.95}
+{"degree": "BTech Computer Science", "role": "SRE", "score": 0.95}
+{"degree": "BSc Computer Science", "role": "SRE", "score": 0.95}
+{"degree": "BEng Computer Science", "role": "SRE", "score": 0.95}
+{"degree": "Computer Science", "role": "Mobile Engineer", "score": 0.95}
+{"degree": "BTech Computer Science", "role": "Mobile Engineer", "score": 0.95}
+{"degree": "BSc Computer Science", "role": "Mobile Engineer", "score": 0.95}
+{"degree": "BEng Computer Science", "role": "Mobile Engineer", "score": 0.95}
+{"degree": "Computer Science", "role": "iOS Engineer", "score": 0.95}
+{"degree": "BTech Computer Science", "role": "iOS Engineer", "score": 0.95}
+{"degree": "BSc Computer Science", "role": "iOS Engineer", "score": 0.95}
+{"degree": "BEng Computer Science", "role": "iOS Engineer", "score": 0.95}
+{"degree": "Computer Science", "role": "Android Engineer", "score": 0.95}
+{"degree": "BTech Computer Science", "role": "Android Engineer", "score": 0.95}
+{"degree": "BSc Computer Science", "role": "Android Engineer", "score": 0.95}
+{"degree": "BEng Computer Science", "role": "Android Engineer", "score": 0.95}
+{"degree": "Software Engineering", "role": "Software Engineer", "score": 0.98}
+{"degree": "BTech Software Engineering", "role": "Software Engineer", "score": 0.98}
+{"degree": "BSc Software Engineering", "role": "Software Engineer", "score": 0.98}
+{"degree": "BEng Software Engineering", "role": "Software Engineer", "score": 0.98}
+{"degree": "Software Engineering", "role": "Backend Developer", "score": 0.98}
+{"degree": "BTech Software Engineering", "role": "Backend Developer", "score": 0.98}
+{"degree": "BSc Software Engineering", "role": "Backend Developer", "score": 0.98}
+{"degree": "BEng Software Engineering", "role": "Backend Developer", "score": 0.98}
+{"degree": "Software Engineering", "role": "Frontend Developer", "score": 0.98}
+{"degree": "BTech Software Engineering", "role": "Frontend Developer", "score": 0.98}
+{"degree": "BSc Software Engineering", "role": "Frontend Developer", "score": 0.98}
+{"degree": "BEng Software Engineering", "role": "Frontend Developer", "score": 0.98}
+{"degree": "Software Engineering", "role": "Full Stack Developer", "score": 0.98}
+{"degree": "BTech Software Engineering", "role": "Full Stack Developer", "score": 0.98}
+{"degree": "BSc Software Engineering", "role": "Full Stack Developer", "score": 0.98}
+{"degree": "BEng Software Engineering", "role": "Full Stack Developer", "score": 0.98}
+{"degree": "Software Engineering", "role": "Software Developer", "score": 0.98}
+{"degree": "BTech Software Engineering", "role": "Software Developer", "score": 0.98}
+{"degree": "BSc Software Engineering", "role": "Software Developer", "score": 0.98}
+{"degree": "BEng Software Engineering", "role": "Software Developer", "score": 0.98}
+{"degree": "Software Engineering", "role": "DevOps Engineer", "score": 0.98}
+{"degree": "BTech Software Engineering", "role": "DevOps Engineer", "score": 0.98}
+{"degree": "BSc Software Engineering", "role": "DevOps Engineer", "score": 0.98}
+{"degree": "BEng Software Engineering", "role": "DevOps Engineer", "score": 0.98}
+{"degree": "Software Engineering", "role": "SRE", "score": 0.98}
+{"degree": "BTech Software Engineering", "role": "SRE", "score": 0.98}
+{"degree": "BSc Software Engineering", "role": "SRE", "score": 0.98}
+{"degree": "BEng Software Engineering", "role": "SRE", "score": 0.98}
+{"degree": "Software Engineering", "role": "Mobile Engineer", "score": 0.98}
+{"degree": "BTech Software Engineering", "role": "Mobile Engineer", "score": 0.98}
+{"degree": "BSc Software Engineering", "role": "Mobile Engineer", "score": 0.98}
+{"degree": "BEng Software Engineering", "role": "Mobile Engineer", "score": 0.98}
+{"degree": "Software Engineering", "role": "iOS Engineer", "score": 0.98}
+{"degree": "BTech Software Engineering", "role": "iOS Engineer", "score": 0.98}
+{"degree": "BSc Software Engineering", "role": "iOS Engineer", "score": 0.98}
+{"degree": "BEng Software Engineering", "role": "iOS Engineer", "score": 0.98}
+{"degree": "Software Engineering", "role": "Android Engineer", "score": 0.98}
+{"degree": "BTech Software Engineering", "role": "Android Engineer", "score": 0.98}
+{"degree": "BSc Software Engineering", "role": "Android Engineer", "score": 0.98}
+{"degree": "BEng Software Engineering", "role": "Android Engineer", "score": 0.98}
+{"degree": "Computer Engineering", "role": "Software Engineer", "score": 0.92}
+{"degree": "BTech Computer Engineering", "role": "Software Engineer", "score": 0.92}
+{"degree": "BSc Computer Engineering", "role": "Software Engineer", "score": 0.92}
+{"degree": "BEng Computer Engineering", "role": "Software Engineer", "score": 0.92}
+{"degree": "Computer Engineering", "role": "Backend Developer", "score": 0.92}
+{"degree": "BTech Computer Engineering", "role": "Backend Developer", "score": 0.92}
+{"degree": "BSc Computer Engineering", "role": "Backend Developer", "score": 0.92}
+{"degree": "BEng Computer Engineering", "role": "Backend Developer", "score": 0.92}
+{"degree": "Computer Engineering", "role": "Frontend Developer", "score": 0.92}
+{"degree": "BTech Computer Engineering", "role": "Frontend Developer", "score": 0.92}
+{"degree": "BSc Computer Engineering", "role": "Frontend Developer", "score": 0.92}
+{"degree": "BEng Computer Engineering", "role": "Frontend Developer", "score": 0.92}
+{"degree": "Computer Engineering", "role": "Full Stack Developer", "score": 0.92}
+{"degree": "BTech Computer Engineering", "role": "Full Stack Developer", "score": 0.92}
+{"degree": "BSc Computer Engineering", "role": "Full Stack Developer", "score": 0.92}
+{"degree": "BEng Computer Engineering", "role": "Full Stack Developer", "score": 0.92}
+{"degree": "Computer Engineering", "role": "Software Developer", "score": 0.92}
+{"degree": "BTech Computer Engineering", "role": "Software Developer", "score": 0.92}
+{"degree": "BSc Computer Engineering", "role": "Software Developer", "score": 0.92}
+{"degree": "BEng Computer Engineering", "role": "Software Developer", "score": 0.92}
+{"degree": "Computer Engineering", "role": "DevOps Engineer", "score": 0.92}
+{"degree": "BTech Computer Engineering", "role": "DevOps Engineer", "score": 0.92}
+{"degree": "BSc Computer Engineering", "role": "DevOps Engineer", "score": 0.92}
+{"degree": "BEng Computer Engineering", "role": "DevOps Engineer", "score": 0.92}
+{"degree": "Computer Engineering", "role": "SRE", "score": 0.92}
+{"degree": "BTech Computer Engineering", "role": "SRE", "score": 0.92}
+{"degree": "BSc Computer Engineering", "role": "SRE", "score": 0.92}
+{"degree": "BEng Computer Engineering", "role": "SRE", "score": 0.92}
+{"degree": "Computer Engineering", "role": "Mobile Engineer", "score": 0.92}
+{"degree": "BTech Computer Engineering", "role": "Mobile Engineer", "score": 0.92}
+{"degree": "BSc Computer Engineering", "role": "Mobile Engineer", "score": 0.92}
+{"degree": "BEng Computer Engineering", "role": "Mobile Engineer", "score": 0.92}
+{"degree": "Computer Engineering", "role": "iOS Engineer", "score": 0.92}
+{"degree": "BTech Computer Engineering", "role": "iOS Engineer", "score": 0.92}
+{"degree": "BSc Computer Engineering", "role": "iOS Engineer", "score": 0.92}
+{"degree": "BEng Computer Engineering", "role": "iOS Engineer", "score": 0.92}
+{"degree": "Computer Engineering", "role": "Android Engineer", "score": 0.92}
+{"degree": "BTech Computer Engineering", "role": "Android Engineer", "score": 0.92}
+{"degree": "BSc Computer Engineering", "role": "Android Engineer", "score": 0.92}
+{"degree": "BEng Computer Engineering", "role": "Android Engineer", "score": 0.92}
+{"degree": "Information Technology", "role": "Software Engineer", "score": 0.9}
+{"degree": "BTech Information Technology", "role": "Software Engineer", "score": 0.9}
+{"degree": "BSc Information Technology", "role": "Software Engineer", "score": 0.9}
+{"degree": "BEng Information Technology", "role": "Software Engineer", "score": 0.9}
+{"degree": "Information Technology", "role": "Backend Developer", "score": 0.9}
+{"degree": "BTech Information Technology", "role": "Backend Developer", "score": 0.9}
+{"degree": "BSc Information Technology", "role": "Backend Developer", "score": 0.9}
+{"degree": "BEng Information Technology", "role": "Backend Developer", "score": 0.9}
+{"degree": "Information Technology", "role": "Frontend Developer", "score": 0.9}
+{"degree": "BTech Information Technology", "role": "Frontend Developer", "score": 0.9}
+{"degree": "BSc Information Technology", "role": "Frontend Developer", "score": 0.9}
+{"degree": "BEng Information Technology", "role": "Frontend Developer", "score": 0.9}
+{"degree": "Information Technology", "role": "Full Stack Developer", "score": 0.9}
+{"degree": "BTech Information Technology", "role": "Full Stack Developer", "score": 0.9}
+{"degree": "BSc Information Technology", "role": "Full Stack Developer", "score": 0.9}
+{"degree": "BEng Information Technology", "role": "Full Stack Developer", "score": 0.9}
+{"degree": "Information Technology", "role": "Software Developer", "score": 0.9}
+{"degree": "BTech Information Technology", "role": "Software Developer", "score": 0.9}
+{"degree": "BSc Information Technology", "role": "Software Developer", "score": 0.9}
+{"degree": "BEng Information Technology", "role": "Software Developer", "score": 0.9}
+{"degree": "Information Technology", "role": "DevOps Engineer", "score": 0.9}
+{"degree": "BTech Information Technology", "role": "DevOps Engineer", "score": 0.9}
+{"degree": "BSc Information Technology", "role": "DevOps Engineer", "score": 0.9}
+{"degree": "BEng Information Technology", "role": "DevOps Engineer", "score": 0.9}
+{"degree": "Information Technology", "role": "SRE", "score": 0.9}
+{"degree": "BTech Information Technology", "role": "SRE", "score": 0.9}
+{"degree": "BSc Information Technology", "role": "SRE", "score": 0.9}
+{"degree": "BEng Information Technology", "role": "SRE", "score": 0.9}
+{"degree": "Information Technology", "role": "Mobile Engineer", "score": 0.9}
+{"degree": "BTech Information Technology", "role": "Mobile Engineer", "score": 0.9}
+{"degree": "BSc Information Technology", "role": "Mobile Engineer", "score": 0.9}
+{"degree": "BEng Information Technology", "role": "Mobile Engineer", "score": 0.9}
+{"degree": "Information Technology", "role": "iOS Engineer", "score": 0.9}
+{"degree": "BTech Information Technology", "role": "iOS Engineer", "score": 0.9}
+{"degree": "BSc Information Technology", "role": "iOS Engineer", "score": 0.9}
+{"degree": "BEng Information Technology", "role": "iOS Engineer", "score": 0.9}
+{"degree": "Information Technology", "role": "Android Engineer", "score": 0.9}
+{"degree": "BTech Information Technology", "role": "Android Engineer", "score": 0.9}
+{"degree": "BSc Information Technology", "role": "Android Engineer", "score": 0.9}
+{"degree": "BEng Information Technology", "role": "Android Engineer", "score": 0.9}
+{"degree": "Computer Applications", "role": "Software Engineer", "score": 0.88}
+{"degree": "BTech Computer Applications", "role": "Software Engineer", "score": 0.88}
+{"degree": "BSc Computer Applications", "role": "Software Engineer", "score": 0.88}
+{"degree": "BEng Computer Applications", "role": "Software Engineer", "score": 0.88}
+{"degree": "Computer Applications", "role": "Backend Developer", "score": 0.88}
+{"degree": "BTech Computer Applications", "role": "Backend Developer", "score": 0.88}
+{"degree": "BSc Computer Applications", "role": "Backend Developer", "score": 0.88}
+{"degree": "BEng Computer Applications", "role": "Backend Developer", "score": 0.88}
+{"degree": "Computer Applications", "role": "Frontend Developer", "score": 0.88}
+{"degree": "BTech Computer Applications", "role": "Frontend Developer", "score": 0.88}
+{"degree": "BSc Computer Applications", "role": "Frontend Developer", "score": 0.88}
+{"degree": "BEng Computer Applications", "role": "Frontend Developer", "score": 0.88}
+{"degree": "Computer Applications", "role": "Full Stack Developer", "score": 0.88}
+{"degree": "BTech Computer Applications", "role": "Full Stack Developer", "score": 0.88}
+{"degree": "BSc Computer Applications", "role": "Full Stack Developer", "score": 0.88}
+{"degree": "BEng Computer Applications", "role": "Full Stack Developer", "score": 0.88}
+{"degree": "Computer Applications", "role": "Software Developer", "score": 0.88}
+{"degree": "BTech Computer Applications", "role": "Software Developer", "score": 0.88}
+{"degree": "BSc Computer Applications", "role": "Software Developer", "score": 0.88}
+{"degree": "BEng Computer Applications", "role": "Software Developer", "score": 0.88}
+{"degree": "Computer Applications", "role": "DevOps Engineer", "score": 0.88}
+{"degree": "BTech Computer Applications", "role": "DevOps Engineer", "score": 0.88}
+{"degree": "BSc Computer Applications", "role": "DevOps Engineer", "score": 0.88}
+{"degree": "BEng Computer Applications", "role": "DevOps Engineer", "score": 0.88}
+{"degree": "Computer Applications", "role": "SRE", "score": 0.88}
+{"degree": "BTech Computer Applications", "role": "SRE", "score": 0.88}
+{"degree": "BSc Computer Applications", "role": "SRE", "score": 0.88}
+{"degree": "BEng Computer Applications", "role": "SRE", "score": 0.88}
+{"degree": "Computer Applications", "role": "Mobile Engineer", "score": 0.88}
+{"degree": "BTech Computer Applications", "role": "Mobile Engineer", "score": 0.88}
+{"degree": "BSc Computer Applications", "role": "Mobile Engineer", "score": 0.88}
+{"degree": "BEng Computer Applications", "role": "Mobile Engineer", "score": 0.88}
+{"degree": "Computer Applications", "role": "iOS Engineer", "score": 0.88}
+{"degree": "BTech Computer Applications", "role": "iOS Engineer", "score": 0.88}
+{"degree": "BSc Computer Applications", "role": "iOS Engineer", "score": 0.88}
+{"degree": "BEng Computer Applications", "role": "iOS Engineer", "score": 0.88}
+{"degree": "Computer Applications", "role": "Android Engineer", "score": 0.88}
+{"degree": "BTech Computer Applications", "role": "Android Engineer", "score": 0.88}
+{"degree": "BSc Computer Applications", "role": "Android Engineer", "score": 0.88}
+{"degree": "BEng Computer Applications", "role": "Android Engineer", "score": 0.88}
+{"degree": "BSc Science", "role": "Software Engineer", "score": 0.6}
+{"degree": "Bachelor's Science", "role": "Software Engineer", "score": 0.6}
+{"degree": "BSc Science", "role": "Backend Developer", "score": 0.6}
+{"degree": "Bachelor's Science", "role": "Backend Developer", "score": 0.6}
+{"degree": "BSc Science", "role": "Frontend Developer", "score": 0.6}
+{"degree": "Bachelor's Science", "role": "Frontend Developer", "score": 0.6}
+{"degree": "BSc Science", "role": "Full Stack Developer", "score": 0.6}
+{"degree": "Bachelor's Science", "role": "Full Stack Developer", "score": 0.6}
+{"degree": "BSc Science", "role": "Software Developer", "score": 0.6}
+{"degree": "Bachelor's Science", "role": "Software Developer", "score": 0.6}
+{"degree": "BSc Mathematics", "role": "Software Engineer", "score": 0.7}
+{"degree": "Bachelor's Mathematics", "role": "Software Engineer", "score": 0.7}
+{"degree": "BSc Mathematics", "role": "Backend Developer", "score": 0.7}
+{"degree": "Bachelor's Mathematics", "role": "Backend Developer", "score": 0.7}
+{"degree": "BSc Mathematics", "role": "Frontend Developer", "score": 0.7}
+{"degree": "Bachelor's Mathematics", "role": "Frontend Developer", "score": 0.7}
+{"degree": "BSc Mathematics", "role": "Full Stack Developer", "score": 0.7}
+{"degree": "Bachelor's Mathematics", "role": "Full Stack Developer", "score": 0.7}
+{"degree": "BSc Mathematics", "role": "Software Developer", "score": 0.7}
+{"degree": "Bachelor's Mathematics", "role": "Software Developer", "score": 0.7}
+{"degree": "BSc Physics", "role": "Software Engineer", "score": 0.65}
+{"degree": "Bachelor's Physics", "role": "Software Engineer", "score": 0.65}
+{"degree": "BSc Physics", "role": "Backend Developer", "score": 0.65}
+{"degree": "Bachelor's Physics", "role": "Backend Developer", "score": 0.65}
+{"degree": "BSc Physics", "role": "Frontend Developer", "score": 0.65}
+{"degree": "Bachelor's Physics", "role": "Frontend Developer", "score": 0.65}
+{"degree": "BSc Physics", "role": "Full Stack Developer", "score": 0.65}
+{"degree": "Bachelor's Physics", "role": "Full Stack Developer", "score": 0.65}
+{"degree": "BSc Physics", "role": "Software Developer", "score": 0.65}
+{"degree": "Bachelor's Physics", "role": "Software Developer", "score": 0.65}
+{"degree": "BSc Statistics", "role": "Software Engineer", "score": 0.75}
+{"degree": "Bachelor's Statistics", "role": "Software Engineer", "score": 0.75}
+{"degree": "BSc Statistics", "role": "Backend Developer", "score": 0.75}
+{"degree": "Bachelor's Statistics", "role": "Backend Developer", "score": 0.75}
+{"degree": "BSc Statistics", "role": "Frontend Developer", "score": 0.75}
+{"degree": "Bachelor's Statistics", "role": "Frontend Developer", "score": 0.75}
+{"degree": "BSc Statistics", "role": "Full Stack Developer", "score": 0.75}
+{"degree": "Bachelor's Statistics", "role": "Full Stack Developer", "score": 0.75}
+{"degree": "BSc Statistics", "role": "Software Developer", "score": 0.75}
+{"degree": "Bachelor's Statistics", "role": "Software Developer", "score": 0.75}
+{"degree": "BSc Applied Mathematics", "role": "Software Engineer", "score": 0.72}
+{"degree": "Bachelor's Applied Mathematics", "role": "Software Engineer", "score": 0.72}
+{"degree": "BSc Applied Mathematics", "role": "Backend Developer", "score": 0.72}
+{"degree": "Bachelor's Applied Mathematics", "role": "Backend Developer", "score": 0.72}
+{"degree": "BSc Applied Mathematics", "role": "Frontend Developer", "score": 0.72}
+{"degree": "Bachelor's Applied Mathematics", "role": "Frontend Developer", "score": 0.72}
+{"degree": "BSc Applied Mathematics", "role": "Full Stack Developer", "score": 0.72}
+{"degree": "Bachelor's Applied Mathematics", "role": "Full Stack Developer", "score": 0.72}
+{"degree": "BSc Applied Mathematics", "role": "Software Developer", "score": 0.72}
+{"degree": "Bachelor's Applied Mathematics", "role": "Software Developer", "score": 0.72}
+{"degree": "Data Science", "role": "Data Scientist", "score": 0.95}
+{"degree": "Master's Data Science", "role": "Data Scientist", "score": 0.95}
+{"degree": "Data Science", "role": "ML Engineer", "score": 0.95}
+{"degree": "Master's Data Science", "role": "ML Engineer", "score": 0.95}
+{"degree": "Data Science", "role": "Machine Learning Engineer", "score": 0.95}
+{"degree": "Master's Data Science", "role": "Machine Learning Engineer", "score": 0.95}
+{"degree": "Data Science", "role": "AI Engineer", "score": 0.95}
+{"degree": "Master's Data Science", "role": "AI Engineer", "score": 0.95}
+{"degree": "Statistics", "role": "Data Scientist", "score": 0.88}
+{"degree": "Master's Statistics", "role": "Data Scientist", "score": 0.88}
+{"degree": "Statistics", "role": "ML Engineer", "score": 0.88}
+{"degree": "Master's Statistics", "role": "ML Engineer", "score": 0.88}
+{"degree": "Statistics", "role": "Machine Learning Engineer", "score": 0.88}
+{"degree": "Master's Statistics", "role": "Machine Learning Engineer", "score": 0.88}
+{"degree": "Statistics", "role": "AI Engineer", "score": 0.88}
+{"degree": "Master's Statistics", "role": "AI Engineer", "score": 0.88}
+{"degree": "Mathematics", "role": "Data Scientist", "score": 0.85}
+{"degree": "Master's Mathematics", "role": "Data Scientist", "score": 0.85}
+{"degree": "Mathematics", "role": "ML Engineer", "score": 0.85}
+{"degree": "Master's Mathematics", "role": "ML Engineer", "score": 0.85}
+{"degree": "Mathematics", "role": "Machine Learning Engineer", "score": 0.85}
+{"degree": "Master's Mathematics", "role": "Machine Learning Engineer", "score": 0.85}
+{"degree": "Mathematics", "role": "AI Engineer", "score": 0.85}
+{"degree": "Master's Mathematics", "role": "AI Engineer", "score": 0.85}
+{"degree": "Computer Science", "role": "Data Scientist", "score": 0.9}
+{"degree": "Master's Computer Science", "role": "Data Scientist", "score": 0.9}
+{"degree": "Computer Science", "role": "ML Engineer", "score": 0.9}
+{"degree": "Master's Computer Science", "role": "ML Engineer", "score": 0.9}
+{"degree": "Computer Science", "role": "Machine Learning Engineer", "score": 0.9}
+{"degree": "Master's Computer Science", "role": "Machine Learning Engineer", "score": 0.9}
+{"degree": "Computer Science", "role": "AI Engineer", "score": 0.9}
+{"degree": "Master's Computer Science", "role": "AI Engineer", "score": 0.9}
+{"degree": "Applied Mathematics", "role": "Data Scientist", "score": 0.88}
+{"degree": "Master's Applied Mathematics", "role": "Data Scientist", "score": 0.88}
+{"degree": "Applied Mathematics", "role": "ML Engineer", "score": 0.88}
+{"degree": "Master's Applied Mathematics", "role": "ML Engineer", "score": 0.88}
+{"degree": "Applied Mathematics", "role": "Machine Learning Engineer", "score": 0.88}
+{"degree": "Master's Applied Mathematics", "role": "Machine Learning Engineer", "score": 0.88}
+{"degree": "Applied Mathematics", "role": "AI Engineer", "score": 0.88}
+{"degree": "Master's Applied Mathematics", "role": "AI Engineer", "score": 0.88}
+{"degree": "BTech Electrical Engineering", "role": "Software Engineer", "score": 0.7}
+{"degree": "BTech Electrical Engineering", "role": "Backend Developer", "score": 0.7}
+{"degree": "BTech Electrical Engineering", "role": "Frontend Developer", "score": 0.7}
+{"degree": "BTech Electronics Engineering", "role": "Software Engineer", "score": 0.75}
+{"degree": "BTech Electronics Engineering", "role": "Backend Developer", "score": 0.75}
+{"degree": "BTech Electronics Engineering", "role": "Frontend Developer", "score": 0.75}
+{"degree": "BTech Electronics and Communication", "role": "Software Engineer", "score": 0.78}
+{"degree": "BTech Electronics and Communication", "role": "Backend Developer", "score": 0.78}
+{"degree": "BTech Electronics and Communication", "role": "Frontend Developer", "score": 0.78}
+{"degree": "BTech Instrumentation", "role": "Software Engineer", "score": 0.6}
+{"degree": "BTech Instrumentation", "role": "Backend Developer", "score": 0.6}
+{"degree": "BTech Instrumentation", "role": "Frontend Developer", "score": 0.6}
+{"degree": "BTech Mechanical Engineering", "role": "Software Engineer", "score": 0.15}
+{"degree": "BTech Mechanical Engineering", "role": "Backend Developer", "score": 0.15}
+{"degree": "BTech Mechanical Engineering", "role": "Frontend Developer", "score": 0.15}
+{"degree": "BTech Civil Engineering", "role": "Software Engineer", "score": 0.12}
+{"degree": "BTech Civil Engineering", "role": "Backend Developer", "score": 0.12}
+{"degree": "BTech Civil Engineering", "role": "Frontend Developer", "score": 0.12}
+{"degree": "BTech Chemical Engineering", "role": "Software Engineer", "score": 0.15}
+{"degree": "BTech Chemical Engineering", "role": "Backend Developer", "score": 0.15}
+{"degree": "BTech Chemical Engineering", "role": "Frontend Developer", "score": 0.15}
+{"degree": "BTech Aerospace Engineering", "role": "Software Engineer", "score": 0.18}
+{"degree": "BTech Aerospace Engineering", "role": "Backend Developer", "score": 0.18}
+{"degree": "BTech Aerospace Engineering", "role": "Frontend Developer", "score": 0.18}
+{"degree": "Business Administration", "role": "Product Manager", "score": 0.85}
+{"degree": "Business Administration", "role": "Product Owner", "score": 0.85}
+{"degree": "Business Administration", "role": "Business Analyst", "score": 0.85}
+{"degree": "MBA", "role": "Product Manager", "score": 0.88}
+{"degree": "MBA", "role": "Product Owner", "score": 0.88}
+{"degree": "MBA", "role": "Business Analyst", "score": 0.88}
+{"degree": "Management", "role": "Product Manager", "score": 0.82}
+{"degree": "Management", "role": "Product Owner", "score": 0.82}
+{"degree": "Management", "role": "Business Analyst", "score": 0.82}
+{"degree": "Computer Science", "role": "Data Engineer", "score": 0.92}
+{"degree": "Information Technology", "role": "Data Engineer", "score": 0.88}
+{"degree": "Data Science", "role": "Data Engineer", "score": 0.95}
+{"degree": "Electrical Engineering", "role": "Data Engineer", "score": 0.75}
+{"degree": "Mathematics", "role": "Data Analyst", "score": 0.85}
+{"degree": "MSc Mathematics", "role": "Data Analyst", "score": 0.87}
+{"degree": "Statistics", "role": "Data Analyst", "score": 0.9}
+{"degree": "MSc Statistics", "role": "Data Analyst", "score": 0.92}
+{"degree": "Economics", "role": "Data Analyst", "score": 0.7}
+{"degree": "MSc Economics", "role": "Data Analyst", "score": 0.72}
+{"degree": "Physics", "role": "Data Scientist", "score": 0.72}
+{"degree": "MSc Physics", "role": "Data Scientist", "score": 0.74}
+{"degree": "Computational Physics", "role": "Data Scientist", "score": 0.82}
+{"degree": "MSc Computational Physics", "role": "Data Scientist", "score": 0.84}
+{"degree": "Applied Statistics", "role": "ML Engineer", "score": 0.88}
+{"degree": "MSc Applied Statistics", "role": "ML Engineer", "score": 0.9}
+{"degree": "Cybersecurity", "role": "Security Engineer", "score": 0.95}
+{"degree": "Information Security", "role": "Security Engineer", "score": 0.95}
+{"degree": "Computer Science", "role": "Security Engineer", "score": 0.85}
+{"degree": "Network Security", "role": "Security Engineer", "score": 0.92}
+{"degree": "Computer Science", "role": "QA Engineer", "score": 0.8}
+{"degree": "Software Engineering", "role": "QA Engineer", "score": 0.85}
+{"degree": "Information Technology", "role": "QA Engineer", "score": 0.82}
+{"degree": "BSc Science", "role": "Backend Developer", "score": 0.6}
+{"degree": "BSc Science", "role": "Data Analyst", "score": 0.55}
+{"degree": "Mathematics", "role": "Backend Developer", "score": 0.68}
+{"degree": "Mathematics", "role": "Frontend Developer", "score": 0.65}
+{"degree": "Physics", "role": "Backend Developer", "score": 0.62}
+{"degree": "Chemistry", "role": "Software Engineer", "score": 0.4}
+{"degree": "Biology", "role": "Software Engineer", "score": 0.35}
+{"degree": "Mechanical Engineering", "role": "Data Scientist", "score": 0.15}
+{"degree": "Civil Engineering", "role": "Backend Developer", "score": 0.12}
+{"degree": "Architecture", "role": "Software Engineer", "score": 0.1}
+{"degree": "Arts", "role": "Software Engineer", "score": 0.08}
+{"degree": "Commerce", "role": "Software Engineer", "score": 0.1}
+{"degree": "History", "role": "Data Scientist", "score": 0.08}
+{"degree": "Literature", "role": "Backend Developer", "score": 0.08}
+{"degree": "Computational Biology", "role": "Data Scientist", "score": 0.78}
+{"degree": "Bioinformatics", "role": "Data Engineer", "score": 0.75}
+{"degree": "Financial Engineering", "role": "Backend Developer", "score": 0.72}
+{"degree": "Quantitative Finance", "role": "Data Scientist", "score": 0.8}
+{"degree": "MTech Computer Science", "role": "Software Engineer", "score": 0.96}
+{"degree": "MSc Computer Science", "role": "Software Engineer", "score": 0.96}
+{"degree": "Master's Computer Science", "role": "Backend Developer", "score": 0.96}
+{"degree": "MTech Information Technology", "role": "Full Stack Developer", "score": 0.92}
+{"degree": "MSc Data Science", "role": "Data Scientist", "score": 0.98}
+{"degree": "Master's Data Science", "role": "ML Engineer", "score": 0.96}
+{"degree": "MTech Software Engineering", "role": "Software Engineer", "score": 0.98}
+{"degree": "Bachelor of Technology in Computer Science", "role": "Software Engineer", "score": 0.95}
+{"degree": "Bachelor of Science in Computer Science", "role": "Backend Developer", "score": 0.95}
+{"degree": "Bachelor of Engineering in Computer Engineering", "role": "Software Engineer", "score": 0.92}
+{"degree": "Master of Technology in Data Science", "role": "Data Scientist", "score": 0.98}
+{"degree": "Master of Science in Mathematics", "role": "Data Scientist", "score": 0.85}
+{"degree": "Grande \u00c9cole Engineering", "role": "Software Engineer", "score": 0.92}
+{"degree": "Licence Computer Science", "role": "Software Engineer", "score": 0.88}
+{"degree": "Master Computer Science", "role": "Senior Software Engineer", "score": 0.95}
+{"degree": "Computer Science", "role": "Mobile Engineer", "score": 0.9}
+{"degree": "BSc Computer Science", "role": "Mobile Engineer", "score": 0.9}
+{"degree": "MSc Computer Science", "role": "Mobile Engineer", "score": 0.93}
+{"degree": "Computer Science", "role": "Cloud Engineer", "score": 0.88}
+{"degree": "BSc Computer Science", "role": "Cloud Engineer", "score": 0.88}
+{"degree": "MSc Computer Science", "role": "Cloud Engineer", "score": 0.91}
+{"degree": "Information Technology", "role": "DevOps Engineer", "score": 0.85}
+{"degree": "BSc Information Technology", "role": "DevOps Engineer", "score": 0.85}
+{"degree": "MSc Information Technology", "role": "DevOps Engineer", "score": 0.88}
+{"degree": "Software Engineering", "role": "QA Automation Engineer", "score": 0.88}
+{"degree": "BSc Software Engineering", "role": "QA Automation Engineer", "score": 0.88}
+{"degree": "MSc Software Engineering", "role": "QA Automation Engineer", "score": 0.91}
+{"degree": "Data Science", "role": "Business Intelligence Analyst", "score": 0.85}
+{"degree": "BSc Data Science", "role": "Business Intelligence Analyst", "score": 0.85}
+{"degree": "MSc Data Science", "role": "Business Intelligence Analyst", "score": 0.88}
+{"degree": "Mathematics", "role": "Quantitative Analyst", "score": 0.9}
+{"degree": "BSc Mathematics", "role": "Quantitative Analyst", "score": 0.9}
+{"degree": "MSc Mathematics", "role": "Quantitative Analyst", "score": 0.93}
+{"degree": "Statistics", "role": "Research Scientist", "score": 0.85}
+{"degree": "BSc Statistics", "role": "Research Scientist", "score": 0.85}
+{"degree": "MSc Statistics", "role": "Research Scientist", "score": 0.88}
+{"degree": "Mechanical Engineering", "role": "Mechanical Engineer", "score": 0.98}
+{"degree": "Civil Engineering", "role": "Civil Engineer", "score": 0.98}
+{"degree": "Electrical Engineering", "role": "Electrical Engineer", "score": 0.98}
+{"degree": "Chemical Engineering", "role": "Chemical Engineer", "score": 0.98}
+{"degree": "Mathematics", "role": "Software Engineer", "score": 0.7}
+{"degree": "Physics", "role": "Software Engineer", "score": 0.65}
+{"degree": "Statistics", "role": "Backend Developer", "score": 0.72}
+{"degree": "Applied Mathematics", "role": "Data Engineer", "score": 0.75}
+{"degree": "Computational Physics", "role": "Backend Developer", "score": 0.68}
+{"degree": "Diploma Computer Science", "role": "Software Engineer", "score": 0.7}
+{"degree": "Associate Computer Science", "role": "Backend Developer", "score": 0.68}
+{"degree": "Polytechnic Diploma IT", "role": "Software Engineer", "score": 0.65}
+{"degree": "PhD Computer Science", "role": "Software Engineer", "score": 1.0}
+{"degree": "PhD Data Science", "role": "Data Scientist", "score": 1.0}
+{"degree": "PhD Mathematics", "role": "Data Scientist", "score": 0.92}
+{"degree": "PhD Physics", "role": "ML Engineer", "score": 0.88}
+{"degree": "B.Tech Computer Science", "role": "Software Engineer", "score": 0.92}
+{"degree": "B.Sc Computer Science", "role": "Software Engineer", "score": 0.92}
+{"degree": "M.Tech Computer Science", "role": "Software Engineer", "score": 0.95}
+{"degree": "M.Sc Computer Science", "role": "Software Engineer", "score": 0.95}
+{"degree": "B.Tech Computer Science", "role": "Backend Developer", "score": 0.92}
+{"degree": "B.Sc Computer Science", "role": "Backend Developer", "score": 0.92}
+{"degree": "M.Tech Computer Science", "role": "Backend Developer", "score": 0.95}
+{"degree": "M.Sc Computer Science", "role": "Backend Developer", "score": 0.95}
+{"degree": "B.Tech Computer Science", "role": "Frontend Developer", "score": 0.92}
+{"degree": "B.Sc Computer Science", "role": "Frontend Developer", "score": 0.92}
+{"degree": "M.Tech Computer Science", "role": "Frontend Developer", "score": 0.95}
+{"degree": "M.Sc Computer Science", "role": "Frontend Developer", "score": 0.95}
+{"degree": "B.Tech Computer Science", "role": "Data Scientist", "score": 0.92}
+{"degree": "B.Sc Computer Science", "role": "Data Scientist", "score": 0.92}
+{"degree": "M.Tech Computer Science", "role": "Data Scientist", "score": 0.95}
+{"degree": "M.Sc Computer Science", "role": "Data Scientist", "score": 0.95}
+{"degree": "B.Tech Computer Science", "role": "ML Engineer", "score": 0.92}
+{"degree": "B.Sc Computer Science", "role": "ML Engineer", "score": 0.92}
+{"degree": "M.Tech Computer Science", "role": "ML Engineer", "score": 0.95}
+{"degree": "M.Sc Computer Science", "role": "ML Engineer", "score": 0.95}
+{"degree": "B.Tech Software Engineering", "role": "Software Engineer", "score": 0.92}
+{"degree": "B.Sc Software Engineering", "role": "Software Engineer", "score": 0.92}
+{"degree": "M.Tech Software Engineering", "role": "Software Engineer", "score": 0.95}
+{"degree": "M.Sc Software Engineering", "role": "Software Engineer", "score": 0.95}
+{"degree": "B.Tech Software Engineering", "role": "Backend Developer", "score": 0.92}
+{"degree": "B.Sc Software Engineering", "role": "Backend Developer", "score": 0.92}
+{"degree": "M.Tech Software Engineering", "role": "Backend Developer", "score": 0.95}
+{"degree": "M.Sc Software Engineering", "role": "Backend Developer", "score": 0.95}
+{"degree": "B.Tech Software Engineering", "role": "Frontend Developer", "score": 0.92}
+{"degree": "B.Sc Software Engineering", "role": "Frontend Developer", "score": 0.92}
+{"degree": "M.Tech Software Engineering", "role": "Frontend Developer", "score": 0.95}
+{"degree": "M.Sc Software Engineering", "role": "Frontend Developer", "score": 0.95}
+{"degree": "B.Tech Software Engineering", "role": "Data Scientist", "score": 0.92}
+{"degree": "B.Sc Software Engineering", "role": "Data Scientist", "score": 0.92}
+{"degree": "M.Tech Software Engineering", "role": "Data Scientist", "score": 0.95}
+{"degree": "M.Sc Software Engineering", "role": "Data Scientist", "score": 0.95}
+{"degree": "B.Tech Software Engineering", "role": "ML Engineer", "score": 0.92}
+{"degree": "B.Sc Software Engineering", "role": "ML Engineer", "score": 0.92}
+{"degree": "M.Tech Software Engineering", "role": "ML Engineer", "score": 0.95}
+{"degree": "M.Sc Software Engineering", "role": "ML Engineer", "score": 0.95}
+{"degree": "B.Tech Information Technology", "role": "Software Engineer", "score": 0.92}
+{"degree": "B.Sc Information Technology", "role": "Software Engineer", "score": 0.92}
+{"degree": "M.Tech Information Technology", "role": "Software Engineer", "score": 0.95}
+{"degree": "M.Sc Information Technology", "role": "Software Engineer", "score": 0.95}
+{"degree": "B.Tech Information Technology", "role": "Backend Developer", "score": 0.92}
+{"degree": "B.Sc Information Technology", "role": "Backend Developer", "score": 0.92}
+{"degree": "M.Tech Information Technology", "role": "Backend Developer", "score": 0.95}
+{"degree": "M.Sc Information Technology", "role": "Backend Developer", "score": 0.95}
+{"degree": "B.Tech Information Technology", "role": "Frontend Developer", "score": 0.92}
+{"degree": "B.Sc Information Technology", "role": "Frontend Developer", "score": 0.92}
+{"degree": "M.Tech Information Technology", "role": "Frontend Developer", "score": 0.95}
+{"degree": "M.Sc Information Technology", "role": "Frontend Developer", "score": 0.95}
+{"degree": "B.Tech Information Technology", "role": "Data Scientist", "score": 0.92}
+{"degree": "B.Sc Information Technology", "role": "Data Scientist", "score": 0.92}
+{"degree": "M.Tech Information Technology", "role": "Data Scientist", "score": 0.95}
+{"degree": "M.Sc Information Technology", "role": "Data Scientist", "score": 0.95}
+{"degree": "B.Tech Information Technology", "role": "ML Engineer", "score": 0.92}
+{"degree": "B.Sc Information Technology", "role": "ML Engineer", "score": 0.92}
+{"degree": "M.Tech Information Technology", "role": "ML Engineer", "score": 0.95}
+{"degree": "M.Sc Information Technology", "role": "ML Engineer", "score": 0.95}
+{"degree": "B.Tech Data Science", "role": "Software Engineer", "score": 0.92}
+{"degree": "B.Sc Data Science", "role": "Software Engineer", "score": 0.92}
+{"degree": "M.Tech Data Science", "role": "Software Engineer", "score": 0.95}
+{"degree": "M.Sc Data Science", "role": "Software Engineer", "score": 0.95}
+{"degree": "B.Tech Data Science", "role": "Backend Developer", "score": 0.92}
+{"degree": "B.Sc Data Science", "role": "Backend Developer", "score": 0.92}
+{"degree": "M.Tech Data Science", "role": "Backend Developer", "score": 0.95}
+{"degree": "M.Sc Data Science", "role": "Backend Developer", "score": 0.95}
+{"degree": "B.Tech Data Science", "role": "Frontend Developer", "score": 0.92}
+{"degree": "B.Sc Data Science", "role": "Frontend Developer", "score": 0.92}
+{"degree": "M.Tech Data Science", "role": "Frontend Developer", "score": 0.95}
+{"degree": "M.Sc Data Science", "role": "Frontend Developer", "score": 0.95}
+{"degree": "B.Tech Data Science", "role": "Data Scientist", "score": 0.92}
+{"degree": "B.Sc Data Science", "role": "Data Scientist", "score": 0.92}
+{"degree": "M.Tech Data Science", "role": "Data Scientist", "score": 0.95}
+{"degree": "M.Sc Data Science", "role": "Data Scientist", "score": 0.95}
+{"degree": "B.Tech Data Science", "role": "ML Engineer", "score": 0.92}
+{"degree": "B.Sc Data Science", "role": "ML Engineer", "score": 0.92}
+{"degree": "M.Tech Data Science", "role": "ML Engineer", "score": 0.95}
+{"degree": "M.Sc Data Science", "role": "ML Engineer", "score": 0.95}
+{"degree": "BSc Science", "role": "Software Engineer", "score": 0.62}
+{"degree": "BSc Science", "role": "Backend Developer", "score": 0.6}
+{"degree": "BSc Science", "role": "Frontend Developer", "score": 0.58}
+{"degree": "BSc Science", "role": "Data Analyst", "score": 0.55}
+{"degree": "Bachelor of Science", "role": "Software Engineer", "score": 0.62}
+{"degree": "Science", "role": "Software Engineer", "score": 0.6}
+{"degree": "Science", "role": "Backend Developer", "score": 0.58}
+{"degree": "BSc General Science", "role": "Software Engineer", "score": 0.6}
+{"degree": "Bachelor's in Science", "role": "Backend Developer", "score": 0.6}
+{"degree": "Mathematics", "role": "Software Engineer", "score": 0.72}
+{"degree": "BSc Mathematics", "role": "Software Engineer", "score": 0.72}
+{"degree": "Bachelor's Mathematics", "role": "Backend Developer", "score": 0.7}
+{"degree": "Applied Mathematics", "role": "Software Engineer", "score": 0.74}
+{"degree": "Mathematics", "role": "Backend Developer", "score": 0.72}
+{"degree": "Grande \u00c9cole Engineering", "role": "Software Engineer", "score": 0.88}
+{"degree": "Engineering", "role": "Software Engineer", "score": 0.88}
+{"degree": "Grande \u00c9cole Computer Science", "role": "Software Engineer", "score": 0.92}
+{"degree": "Computer Science", "role": "Software Engineer", "score": 0.92}
+{"degree": "Grande \u00c9cole Computer Engineering", "role": "Backend Developer", "score": 0.9}
+{"degree": "Computer Engineering", "role": "Backend Developer", "score": 0.9}
+{"degree": "Grande \u00c9cole Information Systems", "role": "Software Engineer", "score": 0.88}
+{"degree": "Information Systems", "role": "Software Engineer", "score": 0.88}
+{"degree": "Physics", "role": "Software Engineer", "score": 0.66}
+{"degree": "BSc Physics", "role": "Backend Developer", "score": 0.65}
+{"degree": "Applied Physics", "role": "Data Engineer", "score": 0.68}
+{"degree": "Chemistry", "role": "Software Engineer", "score": 0.42}
+{"degree": "BSc Chemistry", "role": "Data Analyst", "score": 0.45}
