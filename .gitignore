@@ -14,3 +14,11 @@ dist/
 pyproject.toml
 .python-version
 ML/test_embed.py
+test_ethics.py
+data/postings.csv
+data/cleaned_postings.csv
+models
+parsed_cvs
+data
+checkpoints
+Local Disk (D).lnk

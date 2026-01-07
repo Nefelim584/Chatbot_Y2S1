@@ -1,0 +1,491 @@
+{"cv_experience": "Senior at Google, 8 years", "job_experience": "Mid-level, 3+ years", "score": 1.0}
+{"cv_experience": "Staff Engineer at Google, 12 years", "job_experience": "Senior, 7+ years", "score": 1.0}
+{"cv_experience": "Lead at Google, 10 years", "job_experience": "Mid-level, 5+ years", "score": 1.0}
+{"cv_experience": "Senior at Meta, 8 years", "job_experience": "Mid-level, 3+ years", "score": 1.0}
+{"cv_experience": "Staff Engineer at Meta, 12 years", "job_experience": "Senior, 7+ years", "score": 1.0}
+{"cv_experience": "Lead at Meta, 10 years", "job_experience": "Mid-level, 5+ years", "score": 1.0}
+{"cv_experience": "Senior at Amazon, 8 years", "job_experience": "Mid-level, 3+ years", "score": 1.0}
+{"cv_experience": "Staff Engineer at Amazon, 12 years", "job_experience": "Senior, 7+ years", "score": 1.0}
+{"cv_experience": "Lead at Amazon, 10 years", "job_experience": "Mid-level, 5+ years", "score": 1.0}
+{"cv_experience": "Senior at Microsoft, 8 years", "job_experience": "Mid-level, 3+ years", "score": 1.0}
+{"cv_experience": "Staff Engineer at Microsoft, 12 years", "job_experience": "Senior, 7+ years", "score": 1.0}
+{"cv_experience": "Lead at Microsoft, 10 years", "job_experience": "Mid-level, 5+ years", "score": 1.0}
+{"cv_experience": "Senior at Apple, 8 years", "job_experience": "Mid-level, 3+ years", "score": 1.0}
+{"cv_experience": "Staff Engineer at Apple, 12 years", "job_experience": "Senior, 7+ years", "score": 1.0}
+{"cv_experience": "Lead at Apple, 10 years", "job_experience": "Mid-level, 5+ years", "score": 1.0}
+{"cv_experience": "Senior at Netflix, 8 years", "job_experience": "Mid-level, 3+ years", "score": 1.0}
+{"cv_experience": "Staff Engineer at Netflix, 12 years", "job_experience": "Senior, 7+ years", "score": 1.0}
+{"cv_experience": "Lead at Netflix, 10 years", "job_experience": "Mid-level, 5+ years", "score": 1.0}
+{"cv_experience": "Senior at Google, 7 years", "job_experience": "Senior, 6+ years", "score": 1.0}
+{"cv_experience": "Mid-level at Google, 4 years", "job_experience": "Mid-level, 3+ years", "score": 1.0}
+{"cv_experience": "Senior at Meta, 7 years", "job_experience": "Senior, 6+ years", "score": 1.0}
+{"cv_experience": "Mid-level at Meta, 4 years", "job_experience": "Mid-level, 3+ years", "score": 1.0}
+{"cv_experience": "Senior at Amazon, 7 years", "job_experience": "Senior, 6+ years", "score": 1.0}
+{"cv_experience": "Mid-level at Amazon, 4 years", "job_experience": "Mid-level, 3+ years", "score": 1.0}
+{"cv_experience": "Senior at Microsoft, 7 years", "job_experience": "Senior, 6+ years", "score": 1.0}
+{"cv_experience": "Mid-level at Microsoft, 4 years", "job_experience": "Mid-level, 3+ years", "score": 1.0}
+{"cv_experience": "Senior at Apple, 7 years", "job_experience": "Senior, 6+ years", "score": 1.0}
+{"cv_experience": "Mid-level at Apple, 4 years", "job_experience": "Mid-level, 3+ years", "score": 1.0}
+{"cv_experience": "Senior at Netflix, 7 years", "job_experience": "Senior, 6+ years", "score": 1.0}
+{"cv_experience": "Mid-level at Netflix, 4 years", "job_experience": "Mid-level, 3+ years", "score": 1.0}
+{"cv_experience": "Senior at Stripe, 7 years", "job_experience": "Senior, 6+ years", "score": 1.0}
+{"cv_experience": "Mid-level at Stripe, 4 years", "job_experience": "Mid-level, 3+ years", "score": 1.0}
+{"cv_experience": "Senior at Airbnb, 7 years", "job_experience": "Senior, 6+ years", "score": 1.0}
+{"cv_experience": "Mid-level at Airbnb, 4 years", "job_experience": "Mid-level, 3+ years", "score": 1.0}
+{"cv_experience": "Senior at Uber, 7 years", "job_experience": "Senior, 6+ years", "score": 1.0}
+{"cv_experience": "Mid-level at Uber, 4 years", "job_experience": "Mid-level, 3+ years", "score": 1.0}
+{"cv_experience": "Senior at OpenAI, 7 years", "job_experience": "Senior, 6+ years", "score": 1.0}
+{"cv_experience": "Mid-level at OpenAI, 4 years", "job_experience": "Mid-level, 3+ years", "score": 1.0}
+{"cv_experience": "Senior at Databricks, 7 years", "job_experience": "Senior, 6+ years", "score": 1.0}
+{"cv_experience": "Mid-level at Databricks, 4 years", "job_experience": "Mid-level, 3+ years", "score": 1.0}
+{"cv_experience": "Junior at Google, 2 years", "job_experience": "Senior, 6+ years", "score": 0.25}
+{"cv_experience": "Mid-level at Google, 3 years", "job_experience": "Senior, 7+ years", "score": 0.4}
+{"cv_experience": "Junior at Meta, 2 years", "job_experience": "Senior, 6+ years", "score": 0.25}
+{"cv_experience": "Mid-level at Meta, 3 years", "job_experience": "Senior, 7+ years", "score": 0.4}
+{"cv_experience": "Junior at Amazon, 2 years", "job_experience": "Senior, 6+ years", "score": 0.25}
+{"cv_experience": "Mid-level at Amazon, 3 years", "job_experience": "Senior, 7+ years", "score": 0.4}
+{"cv_experience": "Junior at Microsoft, 2 years", "job_experience": "Senior, 6+ years", "score": 0.25}
+{"cv_experience": "Mid-level at Microsoft, 3 years", "job_experience": "Senior, 7+ years", "score": 0.4}
+{"cv_experience": "Junior at Apple, 2 years", "job_experience": "Senior, 6+ years", "score": 0.25}
+{"cv_experience": "Mid-level at Apple, 3 years", "job_experience": "Senior, 7+ years", "score": 0.4}
+{"cv_experience": "Junior at Netflix, 2 years", "job_experience": "Senior, 6+ years", "score": 0.25}
+{"cv_experience": "Mid-level at Netflix, 3 years", "job_experience": "Senior, 7+ years", "score": 0.4}
+{"cv_experience": "Senior at TCS, 8 years", "job_experience": "Senior, 7+ years", "score": 0.78}
+{"cv_experience": "Senior at TCS, 9 years", "job_experience": "Senior at FAANG, 8+ years", "score": 0.68}
+{"cv_experience": "Senior at Infosys, 8 years", "job_experience": "Senior, 7+ years", "score": 0.78}
+{"cv_experience": "Senior at Infosys, 9 years", "job_experience": "Senior at FAANG, 8+ years", "score": 0.68}
+{"cv_experience": "Senior at Wipro, 8 years", "job_experience": "Senior, 7+ years", "score": 0.78}
+{"cv_experience": "Senior at Wipro, 9 years", "job_experience": "Senior at FAANG, 8+ years", "score": 0.68}
+{"cv_experience": "Senior at Cognizant, 8 years", "job_experience": "Senior, 7+ years", "score": 0.78}
+{"cv_experience": "Senior at Cognizant, 9 years", "job_experience": "Senior at FAANG, 8+ years", "score": 0.68}
+{"cv_experience": "Senior Software Engineer\nGoogle Inc.\n2016-2024 (8 years)\n\u2022 Led team of 5 engineers\n\u2022 Designed scalable backend systems\n\u2022 Technologies: Python, AWS, Kubernetes", "job_experience": "Mid-level Developer\n3+ years experience required\nBackend development", "score": 1.0}
+{"cv_experience": "Staff Engineer\nGoogle\n2012-2024 (12 years total experience)\n\u2022 Architecture design\n\u2022 Mentored 10+ engineers\n\u2022 Built distributed systems handling 100M+ requests", "job_experience": "Senior Engineer\n7+ years experience\nSystem design experience preferred", "score": 1.0}
+{"cv_experience": "Senior Software Engineer\nMeta Inc.\n2016-2024 (8 years)\n\u2022 Led team of 5 engineers\n\u2022 Designed scalable backend systems\n\u2022 Technologies: Python, AWS, Kubernetes", "job_experience": "Mid-level Developer\n3+ years experience required\nBackend development", "score": 1.0}
+{"cv_experience": "Staff Engineer\nMeta\n2012-2024 (12 years total experience)\n\u2022 Architecture design\n\u2022 Mentored 10+ engineers\n\u2022 Built distributed systems handling 100M+ requests", "job_experience": "Senior Engineer\n7+ years experience\nSystem design experience preferred", "score": 1.0}
+{"cv_experience": "Senior Software Engineer\nAmazon Inc.\n2016-2024 (8 years)\n\u2022 Led team of 5 engineers\n\u2022 Designed scalable backend systems\n\u2022 Technologies: Python, AWS, Kubernetes", "job_experience": "Mid-level Developer\n3+ years experience required\nBackend development", "score": 1.0}
+{"cv_experience": "Staff Engineer\nAmazon\n2012-2024 (12 years total experience)\n\u2022 Architecture design\n\u2022 Mentored 10+ engineers\n\u2022 Built distributed systems handling 100M+ requests", "job_experience": "Senior Engineer\n7+ years experience\nSystem design experience preferred", "score": 1.0}
+{"cv_experience": "Senior Software Engineer\nMicrosoft Inc.\n2016-2024 (8 years)\n\u2022 Led team of 5 engineers\n\u2022 Designed scalable backend systems\n\u2022 Technologies: Python, AWS, Kubernetes", "job_experience": "Mid-level Developer\n3+ years experience required\nBackend development", "score": 1.0}
+{"cv_experience": "Staff Engineer\nMicrosoft\n2012-2024 (12 years total experience)\n\u2022 Architecture design\n\u2022 Mentored 10+ engineers\n\u2022 Built distributed systems handling 100M+ requests", "job_experience": "Senior Engineer\n7+ years experience\nSystem design experience preferred", "score": 1.0}
+{"cv_experience": "Senior Software Engineer\nApple Inc.\n2016-2024 (8 years)\n\u2022 Led team of 5 engineers\n\u2022 Designed scalable backend systems\n\u2022 Technologies: Python, AWS, Kubernetes", "job_experience": "Mid-level Developer\n3+ years experience required\nBackend development", "score": 1.0}
+{"cv_experience": "Staff Engineer\nApple\n2012-2024 (12 years total experience)\n\u2022 Architecture design\n\u2022 Mentored 10+ engineers\n\u2022 Built distributed systems handling 100M+ requests", "job_experience": "Senior Engineer\n7+ years experience\nSystem design experience preferred", "score": 1.0}
+{"cv_experience": "Senior Software Engineer\nNetflix Inc.\n2016-2024 (8 years)\n\u2022 Led team of 5 engineers\n\u2022 Designed scalable backend systems\n\u2022 Technologies: Python, AWS, Kubernetes", "job_experience": "Mid-level Developer\n3+ years experience required\nBackend development", "score": 1.0}
+{"cv_experience": "Staff Engineer\nNetflix\n2012-2024 (12 years total experience)\n\u2022 Architecture design\n\u2022 Mentored 10+ engineers\n\u2022 Built distributed systems handling 100M+ requests", "job_experience": "Senior Engineer\n7+ years experience\nSystem design experience preferred", "score": 1.0}
+{"cv_experience": "Senior Engineer\nGoogle\n2017-2024 (7 years)\n\u2022 Backend development\n\u2022 API design\n\u2022 Microservices architecture", "job_experience": "Senior Engineer\n6+ years required\nBackend development experience", "score": 1.0}
+{"cv_experience": "Mid-level Developer\nGoogle\n2020-2024 (4 years)\n\u2022 Full-stack development\n\u2022 React, Node.js, PostgreSQL", "job_experience": "Mid-level Developer\n3+ years experience\nFull-stack preferred", "score": 1.0}
+{"cv_experience": "Senior Engineer\nMeta\n2017-2024 (7 years)\n\u2022 Backend development\n\u2022 API design\n\u2022 Microservices architecture", "job_experience": "Senior Engineer\n6+ years required\nBackend development experience", "score": 1.0}
+{"cv_experience": "Mid-level Developer\nMeta\n2020-2024 (4 years)\n\u2022 Full-stack development\n\u2022 React, Node.js, PostgreSQL", "job_experience": "Mid-level Developer\n3+ years experience\nFull-stack preferred", "score": 1.0}
+{"cv_experience": "Senior Engineer\nAmazon\n2017-2024 (7 years)\n\u2022 Backend development\n\u2022 API design\n\u2022 Microservices architecture", "job_experience": "Senior Engineer\n6+ years required\nBackend development experience", "score": 1.0}
+{"cv_experience": "Mid-level Developer\nAmazon\n2020-2024 (4 years)\n\u2022 Full-stack development\n\u2022 React, Node.js, PostgreSQL", "job_experience": "Mid-level Developer\n3+ years experience\nFull-stack preferred", "score": 1.0}
+{"cv_experience": "Senior Engineer\nMicrosoft\n2017-2024 (7 years)\n\u2022 Backend development\n\u2022 API design\n\u2022 Microservices architecture", "job_experience": "Senior Engineer\n6+ years required\nBackend development experience", "score": 1.0}
+{"cv_experience": "Mid-level Developer\nMicrosoft\n2020-2024 (4 years)\n\u2022 Full-stack development\n\u2022 React, Node.js, PostgreSQL", "job_experience": "Mid-level Developer\n3+ years experience\nFull-stack preferred", "score": 1.0}
+{"cv_experience": "Senior Engineer\nApple\n2017-2024 (7 years)\n\u2022 Backend development\n\u2022 API design\n\u2022 Microservices architecture", "job_experience": "Senior Engineer\n6+ years required\nBackend development experience", "score": 1.0}
+{"cv_experience": "Mid-level Developer\nApple\n2020-2024 (4 years)\n\u2022 Full-stack development\n\u2022 React, Node.js, PostgreSQL", "job_experience": "Mid-level Developer\n3+ years experience\nFull-stack preferred", "score": 1.0}
+{"cv_experience": "Senior Engineer\nNetflix\n2017-2024 (7 years)\n\u2022 Backend development\n\u2022 API design\n\u2022 Microservices architecture", "job_experience": "Senior Engineer\n6+ years required\nBackend development experience", "score": 1.0}
+{"cv_experience": "Mid-level Developer\nNetflix\n2020-2024 (4 years)\n\u2022 Full-stack development\n\u2022 React, Node.js, PostgreSQL", "job_experience": "Mid-level Developer\n3+ years experience\nFull-stack preferred", "score": 1.0}
+{"cv_experience": "Senior Engineer\nStripe\n2017-2024 (7 years)\n\u2022 Backend development\n\u2022 API design\n\u2022 Microservices architecture", "job_experience": "Senior Engineer\n6+ years required\nBackend development experience", "score": 1.0}
+{"cv_experience": "Mid-level Developer\nStripe\n2020-2024 (4 years)\n\u2022 Full-stack development\n\u2022 React, Node.js, PostgreSQL", "job_experience": "Mid-level Developer\n3+ years experience\nFull-stack preferred", "score": 1.0}
+{"cv_experience": "Senior Engineer\nAirbnb\n2017-2024 (7 years)\n\u2022 Backend development\n\u2022 API design\n\u2022 Microservices architecture", "job_experience": "Senior Engineer\n6+ years required\nBackend development experience", "score": 1.0}
+{"cv_experience": "Mid-level Developer\nAirbnb\n2020-2024 (4 years)\n\u2022 Full-stack development\n\u2022 React, Node.js, PostgreSQL", "job_experience": "Mid-level Developer\n3+ years experience\nFull-stack preferred", "score": 1.0}
+{"cv_experience": "Senior Engineer\nUber\n2017-2024 (7 years)\n\u2022 Backend development\n\u2022 API design\n\u2022 Microservices architecture", "job_experience": "Senior Engineer\n6+ years required\nBackend development experience", "score": 1.0}
+{"cv_experience": "Mid-level Developer\nUber\n2020-2024 (4 years)\n\u2022 Full-stack development\n\u2022 React, Node.js, PostgreSQL", "job_experience": "Mid-level Developer\n3+ years experience\nFull-stack preferred", "score": 1.0}
+{"cv_experience": "Senior Engineer\nOpenAI\n2017-2024 (7 years)\n\u2022 Backend development\n\u2022 API design\n\u2022 Microservices architecture", "job_experience": "Senior Engineer\n6+ years required\nBackend development experience", "score": 1.0}
+{"cv_experience": "Mid-level Developer\nOpenAI\n2020-2024 (4 years)\n\u2022 Full-stack development\n\u2022 React, Node.js, PostgreSQL", "job_experience": "Mid-level Developer\n3+ years experience\nFull-stack preferred", "score": 1.0}
+{"cv_experience": "Senior Engineer\nDatabricks\n2017-2024 (7 years)\n\u2022 Backend development\n\u2022 API design\n\u2022 Microservices architecture", "job_experience": "Senior Engineer\n6+ years required\nBackend development experience", "score": 1.0}
+{"cv_experience": "Mid-level Developer\nDatabricks\n2020-2024 (4 years)\n\u2022 Full-stack development\n\u2022 React, Node.js, PostgreSQL", "job_experience": "Mid-level Developer\n3+ years experience\nFull-stack preferred", "score": 1.0}
+{"cv_experience": "Junior Developer\nGoogle\n2022-2024 (2 years)\n\u2022 Fixed bugs\n\u2022 Wrote unit tests\n\u2022 Code reviews", "job_experience": "Senior Engineer\n6+ years required\nTeam leadership experience\nSystem design skills", "score": 0.25}
+{"cv_experience": "Mid-level Engineer\nGoogle\n2021-2024 (3 years)\n\u2022 Feature development\n\u2022 Collaborated with team", "job_experience": "Senior Engineer\n7+ years experience required\nLead complex projects", "score": 0.4}
+{"cv_experience": "Junior Developer\nMeta\n2022-2024 (2 years)\n\u2022 Fixed bugs\n\u2022 Wrote unit tests\n\u2022 Code reviews", "job_experience": "Senior Engineer\n6+ years required\nTeam leadership experience\nSystem design skills", "score": 0.25}
+{"cv_experience": "Mid-level Engineer\nMeta\n2021-2024 (3 years)\n\u2022 Feature development\n\u2022 Collaborated with team", "job_experience": "Senior Engineer\n7+ years experience required\nLead complex projects", "score": 0.4}
+{"cv_experience": "Junior Developer\nAmazon\n2022-2024 (2 years)\n\u2022 Fixed bugs\n\u2022 Wrote unit tests\n\u2022 Code reviews", "job_experience": "Senior Engineer\n6+ years required\nTeam leadership experience\nSystem design skills", "score": 0.25}
+{"cv_experience": "Mid-level Engineer\nAmazon\n2021-2024 (3 years)\n\u2022 Feature development\n\u2022 Collaborated with team", "job_experience": "Senior Engineer\n7+ years experience required\nLead complex projects", "score": 0.4}
+{"cv_experience": "Junior Developer\nMicrosoft\n2022-2024 (2 years)\n\u2022 Fixed bugs\n\u2022 Wrote unit tests\n\u2022 Code reviews", "job_experience": "Senior Engineer\n6+ years required\nTeam leadership experience\nSystem design skills", "score": 0.25}
+{"cv_experience": "Mid-level Engineer\nMicrosoft\n2021-2024 (3 years)\n\u2022 Feature development\n\u2022 Collaborated with team", "job_experience": "Senior Engineer\n7+ years experience required\nLead complex projects", "score": 0.4}
+{"cv_experience": "Junior Developer\nApple\n2022-2024 (2 years)\n\u2022 Fixed bugs\n\u2022 Wrote unit tests\n\u2022 Code reviews", "job_experience": "Senior Engineer\n6+ years required\nTeam leadership experience\nSystem design skills", "score": 0.25}
+{"cv_experience": "Mid-level Engineer\nApple\n2021-2024 (3 years)\n\u2022 Feature development\n\u2022 Collaborated with team", "job_experience": "Senior Engineer\n7+ years experience required\nLead complex projects", "score": 0.4}
+{"cv_experience": "Junior Developer\nNetflix\n2022-2024 (2 years)\n\u2022 Fixed bugs\n\u2022 Wrote unit tests\n\u2022 Code reviews", "job_experience": "Senior Engineer\n6+ years required\nTeam leadership experience\nSystem design skills", "score": 0.25}
+{"cv_experience": "Mid-level Engineer\nNetflix\n2021-2024 (3 years)\n\u2022 Feature development\n\u2022 Collaborated with team", "job_experience": "Senior Engineer\n7+ years experience required\nLead complex projects", "score": 0.4}
+{"cv_experience": "Senior Software Engineer\nTCS\n2016-2024 (8 years total)\n\u2022 Client projects\n\u2022 Team coordination\n\u2022 Java, Spring Boot", "job_experience": "Senior Engineer\n7+ years required\nProduct development", "score": 0.78}
+{"cv_experience": "Senior Engineer\nTCS\n2015-2024 (9 years)\n\u2022 Multiple client engagements\n\u2022 Technical lead", "job_experience": "Senior Engineer at tech company\n8+ years required\nProduct mindset", "score": 0.68}
+{"cv_experience": "Senior Software Engineer\nInfosys\n2016-2024 (8 years total)\n\u2022 Client projects\n\u2022 Team coordination\n\u2022 Java, Spring Boot", "job_experience": "Senior Engineer\n7+ years required\nProduct development", "score": 0.78}
+{"cv_experience": "Senior Engineer\nInfosys\n2015-2024 (9 years)\n\u2022 Multiple client engagements\n\u2022 Technical lead", "job_experience": "Senior Engineer at tech company\n8+ years required\nProduct mindset", "score": 0.68}
+{"cv_experience": "Senior Software Engineer\nWipro\n2016-2024 (8 years total)\n\u2022 Client projects\n\u2022 Team coordination\n\u2022 Java, Spring Boot", "job_experience": "Senior Engineer\n7+ years required\nProduct development", "score": 0.78}
+{"cv_experience": "Senior Engineer\nWipro\n2015-2024 (9 years)\n\u2022 Multiple client engagements\n\u2022 Technical lead", "job_experience": "Senior Engineer at tech company\n8+ years required\nProduct mindset", "score": 0.68}
+{"cv_experience": "Senior Software Engineer\nCognizant\n2016-2024 (8 years total)\n\u2022 Client projects\n\u2022 Team coordination\n\u2022 Java, Spring Boot", "job_experience": "Senior Engineer\n7+ years required\nProduct development", "score": 0.78}
+{"cv_experience": "Senior Engineer\nCognizant\n2015-2024 (9 years)\n\u2022 Multiple client engagements\n\u2022 Technical lead", "job_experience": "Senior Engineer at tech company\n8+ years required\nProduct mindset", "score": 0.68}
+{"cv_experience": "Lead Engineer\nGoogle, 2014-2024\n10 years total experience\n\u2022 Led 3 teams (5-8 engineers each)\n\u2022 Shipped 5 major products\n\u2022 Mentored 20+ junior engineers\nTechnologies: Go, Python, AWS, Kubernetes, PostgreSQL", "job_experience": "Senior Engineer, 6+ years, team leadership preferred", "score": 1.0}
+{"cv_experience": "Staff Engineer\nGoogle\n2012-2024 (12 years)\n\u2022 System architecture\n\u2022 Performance optimization (improved latency by 60%)\n\u2022 Cross-team collaboration", "job_experience": "Senior, 8+ years, architecture experience", "score": 1.0}
+{"cv_experience": "Lead Engineer\nMeta, 2014-2024\n10 years total experience\n\u2022 Led 3 teams (5-8 engineers each)\n\u2022 Shipped 5 major products\n\u2022 Mentored 20+ junior engineers\nTechnologies: Go, Python, AWS, Kubernetes, PostgreSQL", "job_experience": "Senior Engineer, 6+ years, team leadership preferred", "score": 1.0}
+{"cv_experience": "Staff Engineer\nMeta\n2012-2024 (12 years)\n\u2022 System architecture\n\u2022 Performance optimization (improved latency by 60%)\n\u2022 Cross-team collaboration", "job_experience": "Senior, 8+ years, architecture experience", "score": 1.0}
+{"cv_experience": "Lead Engineer\nAmazon, 2014-2024\n10 years total experience\n\u2022 Led 3 teams (5-8 engineers each)\n\u2022 Shipped 5 major products\n\u2022 Mentored 20+ junior engineers\nTechnologies: Go, Python, AWS, Kubernetes, PostgreSQL", "job_experience": "Senior Engineer, 6+ years, team leadership preferred", "score": 1.0}
+{"cv_experience": "Staff Engineer\nAmazon\n2012-2024 (12 years)\n\u2022 System architecture\n\u2022 Performance optimization (improved latency by 60%)\n\u2022 Cross-team collaboration", "job_experience": "Senior, 8+ years, architecture experience", "score": 1.0}
+{"cv_experience": "Senior at Google, 8 years", "job_experience": "Mid-level, 3+ years", "score": 1.0}
+{"cv_experience": "Senior at Google, 10 years", "job_experience": "Mid-level, 5+ years", "score": 1.0}
+{"cv_experience": "Senior at Google, 12 years", "job_experience": "Mid-level, 7+ years", "score": 1.0}
+{"cv_experience": "Senior at Google, 15 years", "job_experience": "Mid-level, 10+ years", "score": 1.0}
+{"cv_experience": "Senior Engineer\nGoogle\n2015-2024 (9 years)\n\u2022 Team leadership\n\u2022 System design\n\u2022 Code reviews", "job_experience": "Mid-level Engineer\n4+ years required\nTeam collaboration", "score": 1.0}
+{"cv_experience": "Senior Engineer\nGoogle\n2013-2024 (11 years)\n\u2022 Team leadership\n\u2022 System design\n\u2022 Code reviews", "job_experience": "Mid-level Engineer\n6+ years required\nTeam collaboration", "score": 1.0}
+{"cv_experience": "Senior Engineer\nGoogle\n2011-2024 (13 years)\n\u2022 Team leadership\n\u2022 System design\n\u2022 Code reviews", "job_experience": "Mid-level Engineer\n8+ years required\nTeam collaboration", "score": 1.0}
+{"cv_experience": "Senior at Meta, 8 years", "job_experience": "Mid-level, 3+ years", "score": 1.0}
+{"cv_experience": "Senior at Meta, 10 years", "job_experience": "Mid-level, 5+ years", "score": 1.0}
+{"cv_experience": "Senior at Meta, 12 years", "job_experience": "Mid-level, 7+ years", "score": 1.0}
+{"cv_experience": "Senior at Meta, 15 years", "job_experience": "Mid-level, 10+ years", "score": 1.0}
+{"cv_experience": "Senior Engineer\nMeta\n2015-2024 (9 years)\n\u2022 Team leadership\n\u2022 System design\n\u2022 Code reviews", "job_experience": "Mid-level Engineer\n4+ years required\nTeam collaboration", "score": 1.0}
+{"cv_experience": "Senior Engineer\nMeta\n2013-2024 (11 years)\n\u2022 Team leadership\n\u2022 System design\n\u2022 Code reviews", "job_experience": "Mid-level Engineer\n6+ years required\nTeam collaboration", "score": 1.0}
+{"cv_experience": "Senior Engineer\nMeta\n2011-2024 (13 years)\n\u2022 Team leadership\n\u2022 System design\n\u2022 Code reviews", "job_experience": "Mid-level Engineer\n8+ years required\nTeam collaboration", "score": 1.0}
+{"cv_experience": "Senior at Amazon, 8 years", "job_experience": "Mid-level, 3+ years", "score": 1.0}
+{"cv_experience": "Senior at Amazon, 10 years", "job_experience": "Mid-level, 5+ years", "score": 1.0}
+{"cv_experience": "Senior at Amazon, 12 years", "job_experience": "Mid-level, 7+ years", "score": 1.0}
+{"cv_experience": "Senior at Amazon, 15 years", "job_experience": "Mid-level, 10+ years", "score": 1.0}
+{"cv_experience": "Senior Engineer\nAmazon\n2015-2024 (9 years)\n\u2022 Team leadership\n\u2022 System design\n\u2022 Code reviews", "job_experience": "Mid-level Engineer\n4+ years required\nTeam collaboration", "score": 1.0}
+{"cv_experience": "Senior Engineer\nAmazon\n2013-2024 (11 years)\n\u2022 Team leadership\n\u2022 System design\n\u2022 Code reviews", "job_experience": "Mid-level Engineer\n6+ years required\nTeam collaboration", "score": 1.0}
+{"cv_experience": "Senior Engineer\nAmazon\n2011-2024 (13 years)\n\u2022 Team leadership\n\u2022 System design\n\u2022 Code reviews", "job_experience": "Mid-level Engineer\n8+ years required\nTeam collaboration", "score": 1.0}
+{"cv_experience": "Senior at Microsoft, 8 years", "job_experience": "Mid-level, 3+ years", "score": 1.0}
+{"cv_experience": "Senior at Microsoft, 10 years", "job_experience": "Mid-level, 5+ years", "score": 1.0}
+{"cv_experience": "Senior at Microsoft, 12 years", "job_experience": "Mid-level, 7+ years", "score": 1.0}
+{"cv_experience": "Senior at Microsoft, 15 years", "job_experience": "Mid-level, 10+ years", "score": 1.0}
+{"cv_experience": "Senior Engineer\nMicrosoft\n2015-2024 (9 years)\n\u2022 Team leadership\n\u2022 System design\n\u2022 Code reviews", "job_experience": "Mid-level Engineer\n4+ years required\nTeam collaboration", "score": 1.0}
+{"cv_experience": "Senior Engineer\nMicrosoft\n2013-2024 (11 years)\n\u2022 Team leadership\n\u2022 System design\n\u2022 Code reviews", "job_experience": "Mid-level Engineer\n6+ years required\nTeam collaboration", "score": 1.0}
+{"cv_experience": "Senior Engineer\nMicrosoft\n2011-2024 (13 years)\n\u2022 Team leadership\n\u2022 System design\n\u2022 Code reviews", "job_experience": "Mid-level Engineer\n8+ years required\nTeam collaboration", "score": 1.0}
+{"cv_experience": "Senior at Apple, 8 years", "job_experience": "Mid-level, 3+ years", "score": 1.0}
+{"cv_experience": "Senior at Apple, 10 years", "job_experience": "Mid-level, 5+ years", "score": 1.0}
+{"cv_experience": "Senior at Apple, 12 years", "job_experience": "Mid-level, 7+ years", "score": 1.0}
+{"cv_experience": "Senior at Apple, 15 years", "job_experience": "Mid-level, 10+ years", "score": 1.0}
+{"cv_experience": "Senior Engineer\nApple\n2015-2024 (9 years)\n\u2022 Team leadership\n\u2022 System design\n\u2022 Code reviews", "job_experience": "Mid-level Engineer\n4+ years required\nTeam collaboration", "score": 1.0}
+{"cv_experience": "Senior Engineer\nApple\n2013-2024 (11 years)\n\u2022 Team leadership\n\u2022 System design\n\u2022 Code reviews", "job_experience": "Mid-level Engineer\n6+ years required\nTeam collaboration", "score": 1.0}
+{"cv_experience": "Senior Engineer\nApple\n2011-2024 (13 years)\n\u2022 Team leadership\n\u2022 System design\n\u2022 Code reviews", "job_experience": "Mid-level Engineer\n8+ years required\nTeam collaboration", "score": 1.0}
+{"cv_experience": "Senior at Netflix, 8 years", "job_experience": "Mid-level, 3+ years", "score": 1.0}
+{"cv_experience": "Senior at Netflix, 10 years", "job_experience": "Mid-level, 5+ years", "score": 1.0}
+{"cv_experience": "Senior at Netflix, 12 years", "job_experience": "Mid-level, 7+ years", "score": 1.0}
+{"cv_experience": "Senior at Netflix, 15 years", "job_experience": "Mid-level, 10+ years", "score": 1.0}
+{"cv_experience": "Senior Engineer\nNetflix\n2015-2024 (9 years)\n\u2022 Team leadership\n\u2022 System design\n\u2022 Code reviews", "job_experience": "Mid-level Engineer\n4+ years required\nTeam collaboration", "score": 1.0}
+{"cv_experience": "Senior Engineer\nNetflix\n2013-2024 (11 years)\n\u2022 Team leadership\n\u2022 System design\n\u2022 Code reviews", "job_experience": "Mid-level Engineer\n6+ years required\nTeam collaboration", "score": 1.0}
+{"cv_experience": "Senior Engineer\nNetflix\n2011-2024 (13 years)\n\u2022 Team leadership\n\u2022 System design\n\u2022 Code reviews", "job_experience": "Mid-level Engineer\n8+ years required\nTeam collaboration", "score": 1.0}
+{"cv_experience": "Senior at Stripe, 8 years", "job_experience": "Mid-level, 3+ years", "score": 0.98}
+{"cv_experience": "Senior at Stripe, 10 years", "job_experience": "Mid-level, 5+ years", "score": 0.98}
+{"cv_experience": "Senior at Stripe, 12 years", "job_experience": "Mid-level, 7+ years", "score": 0.98}
+{"cv_experience": "Senior at Stripe, 15 years", "job_experience": "Mid-level, 10+ years", "score": 0.98}
+{"cv_experience": "Senior Engineer\nStripe\n2015-2024 (9 years)\n\u2022 Team leadership\n\u2022 System design\n\u2022 Code reviews", "job_experience": "Mid-level Engineer\n4+ years required\nTeam collaboration", "score": 0.98}
+{"cv_experience": "Senior Engineer\nStripe\n2013-2024 (11 years)\n\u2022 Team leadership\n\u2022 System design\n\u2022 Code reviews", "job_experience": "Mid-level Engineer\n6+ years required\nTeam collaboration", "score": 0.98}
+{"cv_experience": "Senior Engineer\nStripe\n2011-2024 (13 years)\n\u2022 Team leadership\n\u2022 System design\n\u2022 Code reviews", "job_experience": "Mid-level Engineer\n8+ years required\nTeam collaboration", "score": 0.98}
+{"cv_experience": "Senior at Airbnb, 8 years", "job_experience": "Mid-level, 3+ years", "score": 0.98}
+{"cv_experience": "Senior at Airbnb, 10 years", "job_experience": "Mid-level, 5+ years", "score": 0.98}
+{"cv_experience": "Senior at Airbnb, 12 years", "job_experience": "Mid-level, 7+ years", "score": 0.98}
+{"cv_experience": "Senior at Airbnb, 15 years", "job_experience": "Mid-level, 10+ years", "score": 0.98}
+{"cv_experience": "Senior Engineer\nAirbnb\n2015-2024 (9 years)\n\u2022 Team leadership\n\u2022 System design\n\u2022 Code reviews", "job_experience": "Mid-level Engineer\n4+ years required\nTeam collaboration", "score": 0.98}
+{"cv_experience": "Senior Engineer\nAirbnb\n2013-2024 (11 years)\n\u2022 Team leadership\n\u2022 System design\n\u2022 Code reviews", "job_experience": "Mid-level Engineer\n6+ years required\nTeam collaboration", "score": 0.98}
+{"cv_experience": "Senior Engineer\nAirbnb\n2011-2024 (13 years)\n\u2022 Team leadership\n\u2022 System design\n\u2022 Code reviews", "job_experience": "Mid-level Engineer\n8+ years required\nTeam collaboration", "score": 0.98}
+{"cv_experience": "Senior at Uber, 8 years", "job_experience": "Mid-level, 3+ years", "score": 0.98}
+{"cv_experience": "Senior at Uber, 10 years", "job_experience": "Mid-level, 5+ years", "score": 0.98}
+{"cv_experience": "Senior at Uber, 12 years", "job_experience": "Mid-level, 7+ years", "score": 0.98}
+{"cv_experience": "Senior at Uber, 15 years", "job_experience": "Mid-level, 10+ years", "score": 0.98}
+{"cv_experience": "Senior Engineer\nUber\n2015-2024 (9 years)\n\u2022 Team leadership\n\u2022 System design\n\u2022 Code reviews", "job_experience": "Mid-level Engineer\n4+ years required\nTeam collaboration", "score": 0.98}
+{"cv_experience": "Senior Engineer\nUber\n2013-2024 (11 years)\n\u2022 Team leadership\n\u2022 System design\n\u2022 Code reviews", "job_experience": "Mid-level Engineer\n6+ years required\nTeam collaboration", "score": 0.98}
+{"cv_experience": "Senior Engineer\nUber\n2011-2024 (13 years)\n\u2022 Team leadership\n\u2022 System design\n\u2022 Code reviews", "job_experience": "Mid-level Engineer\n8+ years required\nTeam collaboration", "score": 0.98}
+{"cv_experience": "Senior at OpenAI, 8 years", "job_experience": "Mid-level, 3+ years", "score": 0.98}
+{"cv_experience": "Senior at OpenAI, 10 years", "job_experience": "Mid-level, 5+ years", "score": 0.98}
+{"cv_experience": "Senior at OpenAI, 12 years", "job_experience": "Mid-level, 7+ years", "score": 0.98}
+{"cv_experience": "Senior at OpenAI, 15 years", "job_experience": "Mid-level, 10+ years", "score": 0.98}
+{"cv_experience": "Senior Engineer\nOpenAI\n2015-2024 (9 years)\n\u2022 Team leadership\n\u2022 System design\n\u2022 Code reviews", "job_experience": "Mid-level Engineer\n4+ years required\nTeam collaboration", "score": 0.98}
+{"cv_experience": "Senior Engineer\nOpenAI\n2013-2024 (11 years)\n\u2022 Team leadership\n\u2022 System design\n\u2022 Code reviews", "job_experience": "Mid-level Engineer\n6+ years required\nTeam collaboration", "score": 0.98}
+{"cv_experience": "Senior Engineer\nOpenAI\n2011-2024 (13 years)\n\u2022 Team leadership\n\u2022 System design\n\u2022 Code reviews", "job_experience": "Mid-level Engineer\n8+ years required\nTeam collaboration", "score": 0.98}
+{"cv_experience": "Senior at Databricks, 8 years", "job_experience": "Mid-level, 3+ years", "score": 0.98}
+{"cv_experience": "Senior at Databricks, 10 years", "job_experience": "Mid-level, 5+ years", "score": 0.98}
+{"cv_experience": "Senior at Databricks, 12 years", "job_experience": "Mid-level, 7+ years", "score": 0.98}
+{"cv_experience": "Senior at Databricks, 15 years", "job_experience": "Mid-level, 10+ years", "score": 0.98}
+{"cv_experience": "Senior Engineer\nDatabricks\n2015-2024 (9 years)\n\u2022 Team leadership\n\u2022 System design\n\u2022 Code reviews", "job_experience": "Mid-level Engineer\n4+ years required\nTeam collaboration", "score": 0.98}
+{"cv_experience": "Senior Engineer\nDatabricks\n2013-2024 (11 years)\n\u2022 Team leadership\n\u2022 System design\n\u2022 Code reviews", "job_experience": "Mid-level Engineer\n6+ years required\nTeam collaboration", "score": 0.98}
+{"cv_experience": "Senior Engineer\nDatabricks\n2011-2024 (13 years)\n\u2022 Team leadership\n\u2022 System design\n\u2022 Code reviews", "job_experience": "Mid-level Engineer\n8+ years required\nTeam collaboration", "score": 0.98}
+{"cv_experience": "Senior at Shopify, 8 years", "job_experience": "Mid-level, 3+ years", "score": 0.98}
+{"cv_experience": "Senior at Shopify, 10 years", "job_experience": "Mid-level, 5+ years", "score": 0.98}
+{"cv_experience": "Senior at Shopify, 12 years", "job_experience": "Mid-level, 7+ years", "score": 0.98}
+{"cv_experience": "Senior at Shopify, 15 years", "job_experience": "Mid-level, 10+ years", "score": 0.98}
+{"cv_experience": "Senior Engineer\nShopify\n2015-2024 (9 years)\n\u2022 Team leadership\n\u2022 System design\n\u2022 Code reviews", "job_experience": "Mid-level Engineer\n4+ years required\nTeam collaboration", "score": 0.98}
+{"cv_experience": "Senior Engineer\nShopify\n2013-2024 (11 years)\n\u2022 Team leadership\n\u2022 System design\n\u2022 Code reviews", "job_experience": "Mid-level Engineer\n6+ years required\nTeam collaboration", "score": 0.98}
+{"cv_experience": "Senior Engineer\nShopify\n2011-2024 (13 years)\n\u2022 Team leadership\n\u2022 System design\n\u2022 Code reviews", "job_experience": "Mid-level Engineer\n8+ years required\nTeam collaboration", "score": 0.98}
+{"cv_experience": "Senior at Flipkart, 8 years", "job_experience": "Mid-level, 3+ years", "score": 0.95}
+{"cv_experience": "Senior at Flipkart, 10 years", "job_experience": "Mid-level, 5+ years", "score": 0.95}
+{"cv_experience": "Senior at Flipkart, 12 years", "job_experience": "Mid-level, 7+ years", "score": 0.95}
+{"cv_experience": "Senior at Flipkart, 15 years", "job_experience": "Mid-level, 10+ years", "score": 0.95}
+{"cv_experience": "Senior Engineer\nFlipkart\n2015-2024 (9 years)\n\u2022 Team leadership\n\u2022 System design\n\u2022 Code reviews", "job_experience": "Mid-level Engineer\n4+ years required\nTeam collaboration", "score": 0.95}
+{"cv_experience": "Senior Engineer\nFlipkart\n2013-2024 (11 years)\n\u2022 Team leadership\n\u2022 System design\n\u2022 Code reviews", "job_experience": "Mid-level Engineer\n6+ years required\nTeam collaboration", "score": 0.95}
+{"cv_experience": "Senior Engineer\nFlipkart\n2011-2024 (13 years)\n\u2022 Team leadership\n\u2022 System design\n\u2022 Code reviews", "job_experience": "Mid-level Engineer\n8+ years required\nTeam collaboration", "score": 0.95}
+{"cv_experience": "Senior at Paytm, 8 years", "job_experience": "Mid-level, 3+ years", "score": 0.95}
+{"cv_experience": "Senior at Paytm, 10 years", "job_experience": "Mid-level, 5+ years", "score": 0.95}
+{"cv_experience": "Senior at Paytm, 12 years", "job_experience": "Mid-level, 7+ years", "score": 0.95}
+{"cv_experience": "Senior at Paytm, 15 years", "job_experience": "Mid-level, 10+ years", "score": 0.95}
+{"cv_experience": "Senior Engineer\nPaytm\n2015-2024 (9 years)\n\u2022 Team leadership\n\u2022 System design\n\u2022 Code reviews", "job_experience": "Mid-level Engineer\n4+ years required\nTeam collaboration", "score": 0.95}
+{"cv_experience": "Senior Engineer\nPaytm\n2013-2024 (11 years)\n\u2022 Team leadership\n\u2022 System design\n\u2022 Code reviews", "job_experience": "Mid-level Engineer\n6+ years required\nTeam collaboration", "score": 0.95}
+{"cv_experience": "Senior Engineer\nPaytm\n2011-2024 (13 years)\n\u2022 Team leadership\n\u2022 System design\n\u2022 Code reviews", "job_experience": "Mid-level Engineer\n8+ years required\nTeam collaboration", "score": 0.95}
+{"cv_experience": "Senior at Razorpay, 8 years", "job_experience": "Mid-level, 3+ years", "score": 0.95}
+{"cv_experience": "Senior at Razorpay, 10 years", "job_experience": "Mid-level, 5+ years", "score": 0.95}
+{"cv_experience": "Senior at Razorpay, 12 years", "job_experience": "Mid-level, 7+ years", "score": 0.95}
+{"cv_experience": "Senior at Razorpay, 15 years", "job_experience": "Mid-level, 10+ years", "score": 0.95}
+{"cv_experience": "Senior Engineer\nRazorpay\n2015-2024 (9 years)\n\u2022 Team leadership\n\u2022 System design\n\u2022 Code reviews", "job_experience": "Mid-level Engineer\n4+ years required\nTeam collaboration", "score": 0.95}
+{"cv_experience": "Senior Engineer\nRazorpay\n2013-2024 (11 years)\n\u2022 Team leadership\n\u2022 System design\n\u2022 Code reviews", "job_experience": "Mid-level Engineer\n6+ years required\nTeam collaboration", "score": 0.95}
+{"cv_experience": "Senior Engineer\nRazorpay\n2011-2024 (13 years)\n\u2022 Team leadership\n\u2022 System design\n\u2022 Code reviews", "job_experience": "Mid-level Engineer\n8+ years required\nTeam collaboration", "score": 0.95}
+{"cv_experience": "Senior at Swiggy, 8 years", "job_experience": "Mid-level, 3+ years", "score": 0.95}
+{"cv_experience": "Senior at Swiggy, 10 years", "job_experience": "Mid-level, 5+ years", "score": 0.95}
+{"cv_experience": "Senior at Swiggy, 12 years", "job_experience": "Mid-level, 7+ years", "score": 0.95}
+{"cv_experience": "Senior at Swiggy, 15 years", "job_experience": "Mid-level, 10+ years", "score": 0.95}
+{"cv_experience": "Senior Engineer\nSwiggy\n2015-2024 (9 years)\n\u2022 Team leadership\n\u2022 System design\n\u2022 Code reviews", "job_experience": "Mid-level Engineer\n4+ years required\nTeam collaboration", "score": 0.95}
+{"cv_experience": "Senior Engineer\nSwiggy\n2013-2024 (11 years)\n\u2022 Team leadership\n\u2022 System design\n\u2022 Code reviews", "job_experience": "Mid-level Engineer\n6+ years required\nTeam collaboration", "score": 0.95}
+{"cv_experience": "Senior Engineer\nSwiggy\n2011-2024 (13 years)\n\u2022 Team leadership\n\u2022 System design\n\u2022 Code reviews", "job_experience": "Mid-level Engineer\n8+ years required\nTeam collaboration", "score": 0.95}
+{"cv_experience": "Senior at Zomato, 8 years", "job_experience": "Mid-level, 3+ years", "score": 0.95}
+{"cv_experience": "Senior at Zomato, 10 years", "job_experience": "Mid-level, 5+ years", "score": 0.95}
+{"cv_experience": "Senior at Zomato, 12 years", "job_experience": "Mid-level, 7+ years", "score": 0.95}
+{"cv_experience": "Senior at Zomato, 15 years", "job_experience": "Mid-level, 10+ years", "score": 0.95}
+{"cv_experience": "Senior Engineer\nZomato\n2015-2024 (9 years)\n\u2022 Team leadership\n\u2022 System design\n\u2022 Code reviews", "job_experience": "Mid-level Engineer\n4+ years required\nTeam collaboration", "score": 0.95}
+{"cv_experience": "Senior Engineer\nZomato\n2013-2024 (11 years)\n\u2022 Team leadership\n\u2022 System design\n\u2022 Code reviews", "job_experience": "Mid-level Engineer\n6+ years required\nTeam collaboration", "score": 0.95}
+{"cv_experience": "Senior Engineer\nZomato\n2011-2024 (13 years)\n\u2022 Team leadership\n\u2022 System design\n\u2022 Code reviews", "job_experience": "Mid-level Engineer\n8+ years required\nTeam collaboration", "score": 0.95}
+{"cv_experience": "Senior at TCS, 8 years", "job_experience": "Mid-level, 3+ years", "score": 0.8}
+{"cv_experience": "Senior at TCS, 10 years", "job_experience": "Mid-level, 5+ years", "score": 0.8}
+{"cv_experience": "Senior at TCS, 12 years", "job_experience": "Mid-level, 7+ years", "score": 0.8}
+{"cv_experience": "Senior at TCS, 15 years", "job_experience": "Mid-level, 10+ years", "score": 0.8}
+{"cv_experience": "Senior Engineer\nTCS\n2015-2024 (9 years)\n\u2022 Team leadership\n\u2022 System design\n\u2022 Code reviews", "job_experience": "Mid-level Engineer\n4+ years required\nTeam collaboration", "score": 0.8}
+{"cv_experience": "Senior Engineer\nTCS\n2013-2024 (11 years)\n\u2022 Team leadership\n\u2022 System design\n\u2022 Code reviews", "job_experience": "Mid-level Engineer\n6+ years required\nTeam collaboration", "score": 0.8}
+{"cv_experience": "Senior Engineer\nTCS\n2011-2024 (13 years)\n\u2022 Team leadership\n\u2022 System design\n\u2022 Code reviews", "job_experience": "Mid-level Engineer\n8+ years required\nTeam collaboration", "score": 0.8}
+{"cv_experience": "Senior at Infosys, 8 years", "job_experience": "Mid-level, 3+ years", "score": 0.8}
+{"cv_experience": "Senior at Infosys, 10 years", "job_experience": "Mid-level, 5+ years", "score": 0.8}
+{"cv_experience": "Senior at Infosys, 12 years", "job_experience": "Mid-level, 7+ years", "score": 0.8}
+{"cv_experience": "Senior at Infosys, 15 years", "job_experience": "Mid-level, 10+ years", "score": 0.8}
+{"cv_experience": "Senior Engineer\nInfosys\n2015-2024 (9 years)\n\u2022 Team leadership\n\u2022 System design\n\u2022 Code reviews", "job_experience": "Mid-level Engineer\n4+ years required\nTeam collaboration", "score": 0.8}
+{"cv_experience": "Senior Engineer\nInfosys\n2013-2024 (11 years)\n\u2022 Team leadership\n\u2022 System design\n\u2022 Code reviews", "job_experience": "Mid-level Engineer\n6+ years required\nTeam collaboration", "score": 0.8}
+{"cv_experience": "Senior Engineer\nInfosys\n2011-2024 (13 years)\n\u2022 Team leadership\n\u2022 System design\n\u2022 Code reviews", "job_experience": "Mid-level Engineer\n8+ years required\nTeam collaboration", "score": 0.8}
+{"cv_experience": "Senior at Wipro, 8 years", "job_experience": "Mid-level, 3+ years", "score": 0.8}
+{"cv_experience": "Senior at Wipro, 10 years", "job_experience": "Mid-level, 5+ years", "score": 0.8}
+{"cv_experience": "Senior at Wipro, 12 years", "job_experience": "Mid-level, 7+ years", "score": 0.8}
+{"cv_experience": "Senior at Wipro, 15 years", "job_experience": "Mid-level, 10+ years", "score": 0.8}
+{"cv_experience": "Senior Engineer\nWipro\n2015-2024 (9 years)\n\u2022 Team leadership\n\u2022 System design\n\u2022 Code reviews", "job_experience": "Mid-level Engineer\n4+ years required\nTeam collaboration", "score": 0.8}
+{"cv_experience": "Senior Engineer\nWipro\n2013-2024 (11 years)\n\u2022 Team leadership\n\u2022 System design\n\u2022 Code reviews", "job_experience": "Mid-level Engineer\n6+ years required\nTeam collaboration", "score": 0.8}
+{"cv_experience": "Senior Engineer\nWipro\n2011-2024 (13 years)\n\u2022 Team leadership\n\u2022 System design\n\u2022 Code reviews", "job_experience": "Mid-level Engineer\n8+ years required\nTeam collaboration", "score": 0.8}
+{"cv_experience": "Senior at Cognizant, 8 years", "job_experience": "Mid-level, 3+ years", "score": 0.8}
+{"cv_experience": "Senior at Cognizant, 10 years", "job_experience": "Mid-level, 5+ years", "score": 0.8}
+{"cv_experience": "Senior at Cognizant, 12 years", "job_experience": "Mid-level, 7+ years", "score": 0.8}
+{"cv_experience": "Senior at Cognizant, 15 years", "job_experience": "Mid-level, 10+ years", "score": 0.8}
+{"cv_experience": "Senior Engineer\nCognizant\n2015-2024 (9 years)\n\u2022 Team leadership\n\u2022 System design\n\u2022 Code reviews", "job_experience": "Mid-level Engineer\n4+ years required\nTeam collaboration", "score": 0.8}
+{"cv_experience": "Senior Engineer\nCognizant\n2013-2024 (11 years)\n\u2022 Team leadership\n\u2022 System design\n\u2022 Code reviews", "job_experience": "Mid-level Engineer\n6+ years required\nTeam collaboration", "score": 0.8}
+{"cv_experience": "Senior Engineer\nCognizant\n2011-2024 (13 years)\n\u2022 Team leadership\n\u2022 System design\n\u2022 Code reviews", "job_experience": "Mid-level Engineer\n8+ years required\nTeam collaboration", "score": 0.8}
+{"cv_experience": "Senior at HCL, 8 years", "job_experience": "Mid-level, 3+ years", "score": 0.8}
+{"cv_experience": "Senior at HCL, 10 years", "job_experience": "Mid-level, 5+ years", "score": 0.8}
+{"cv_experience": "Senior at HCL, 12 years", "job_experience": "Mid-level, 7+ years", "score": 0.8}
+{"cv_experience": "Senior at HCL, 15 years", "job_experience": "Mid-level, 10+ years", "score": 0.8}
+{"cv_experience": "Senior Engineer\nHCL\n2015-2024 (9 years)\n\u2022 Team leadership\n\u2022 System design\n\u2022 Code reviews", "job_experience": "Mid-level Engineer\n4+ years required\nTeam collaboration", "score": 0.8}
+{"cv_experience": "Senior Engineer\nHCL\n2013-2024 (11 years)\n\u2022 Team leadership\n\u2022 System design\n\u2022 Code reviews", "job_experience": "Mid-level Engineer\n6+ years required\nTeam collaboration", "score": 0.8}
+{"cv_experience": "Senior Engineer\nHCL\n2011-2024 (13 years)\n\u2022 Team leadership\n\u2022 System design\n\u2022 Code reviews", "job_experience": "Mid-level Engineer\n8+ years required\nTeam collaboration", "score": 0.8}
+{"cv_experience": "Junior at Google, 1 years", "job_experience": "Senior, 5+ years", "score": 0.25}
+{"cv_experience": "Junior Developer\nGoogle\n2023-2024 (1 years)\n\u2022 Bug fixes\n\u2022 Code contributions\n\u2022 Testing", "job_experience": "Senior Engineer\n5+ years required\nLead projects\nMentor team members", "score": 0.25}
+{"cv_experience": "Junior at Google, 2 years", "job_experience": "Senior, 6+ years", "score": 0.35}
+{"cv_experience": "Junior Developer\nGoogle\n2022-2024 (2 years)\n\u2022 Bug fixes\n\u2022 Code contributions\n\u2022 Testing", "job_experience": "Senior Engineer\n6+ years required\nLead projects\nMentor team members", "score": 0.35}
+{"cv_experience": "Junior at Google, 3 years", "job_experience": "Senior, 8+ years", "score": 0.45000000000000007}
+{"cv_experience": "Junior Developer\nGoogle\n2021-2024 (3 years)\n\u2022 Bug fixes\n\u2022 Code contributions\n\u2022 Testing", "job_experience": "Senior Engineer\n8+ years required\nLead projects\nMentor team members", "score": 0.45000000000000007}
+{"cv_experience": "Junior at Meta, 1 years", "job_experience": "Senior, 5+ years", "score": 0.25}
+{"cv_experience": "Junior Developer\nMeta\n2023-2024 (1 years)\n\u2022 Bug fixes\n\u2022 Code contributions\n\u2022 Testing", "job_experience": "Senior Engineer\n5+ years required\nLead projects\nMentor team members", "score": 0.25}
+{"cv_experience": "Junior at Meta, 2 years", "job_experience": "Senior, 6+ years", "score": 0.35}
+{"cv_experience": "Junior Developer\nMeta\n2022-2024 (2 years)\n\u2022 Bug fixes\n\u2022 Code contributions\n\u2022 Testing", "job_experience": "Senior Engineer\n6+ years required\nLead projects\nMentor team members", "score": 0.35}
+{"cv_experience": "Junior at Meta, 3 years", "job_experience": "Senior, 8+ years", "score": 0.45000000000000007}
+{"cv_experience": "Junior Developer\nMeta\n2021-2024 (3 years)\n\u2022 Bug fixes\n\u2022 Code contributions\n\u2022 Testing", "job_experience": "Senior Engineer\n8+ years required\nLead projects\nMentor team members", "score": 0.45000000000000007}
+{"cv_experience": "Junior at Amazon, 1 years", "job_experience": "Senior, 5+ years", "score": 0.25}
+{"cv_experience": "Junior Developer\nAmazon\n2023-2024 (1 years)\n\u2022 Bug fixes\n\u2022 Code contributions\n\u2022 Testing", "job_experience": "Senior Engineer\n5+ years required\nLead projects\nMentor team members", "score": 0.25}
+{"cv_experience": "Junior at Amazon, 2 years", "job_experience": "Senior, 6+ years", "score": 0.35}
+{"cv_experience": "Junior Developer\nAmazon\n2022-2024 (2 years)\n\u2022 Bug fixes\n\u2022 Code contributions\n\u2022 Testing", "job_experience": "Senior Engineer\n6+ years required\nLead projects\nMentor team members", "score": 0.35}
+{"cv_experience": "Junior at Amazon, 3 years", "job_experience": "Senior, 8+ years", "score": 0.45000000000000007}
+{"cv_experience": "Junior Developer\nAmazon\n2021-2024 (3 years)\n\u2022 Bug fixes\n\u2022 Code contributions\n\u2022 Testing", "job_experience": "Senior Engineer\n8+ years required\nLead projects\nMentor team members", "score": 0.45000000000000007}
+{"cv_experience": "Junior at Microsoft, 1 years", "job_experience": "Senior, 5+ years", "score": 0.25}
+{"cv_experience": "Junior Developer\nMicrosoft\n2023-2024 (1 years)\n\u2022 Bug fixes\n\u2022 Code contributions\n\u2022 Testing", "job_experience": "Senior Engineer\n5+ years required\nLead projects\nMentor team members", "score": 0.25}
+{"cv_experience": "Junior at Microsoft, 2 years", "job_experience": "Senior, 6+ years", "score": 0.35}
+{"cv_experience": "Junior Developer\nMicrosoft\n2022-2024 (2 years)\n\u2022 Bug fixes\n\u2022 Code contributions\n\u2022 Testing", "job_experience": "Senior Engineer\n6+ years required\nLead projects\nMentor team members", "score": 0.35}
+{"cv_experience": "Junior at Microsoft, 3 years", "job_experience": "Senior, 8+ years", "score": 0.45000000000000007}
+{"cv_experience": "Junior Developer\nMicrosoft\n2021-2024 (3 years)\n\u2022 Bug fixes\n\u2022 Code contributions\n\u2022 Testing", "job_experience": "Senior Engineer\n8+ years required\nLead projects\nMentor team members", "score": 0.45000000000000007}
+{"cv_experience": "Junior at Apple, 1 years", "job_experience": "Senior, 5+ years", "score": 0.25}
+{"cv_experience": "Junior Developer\nApple\n2023-2024 (1 years)\n\u2022 Bug fixes\n\u2022 Code contributions\n\u2022 Testing", "job_experience": "Senior Engineer\n5+ years required\nLead projects\nMentor team members", "score": 0.25}
+{"cv_experience": "Junior at Apple, 2 years", "job_experience": "Senior, 6+ years", "score": 0.35}
+{"cv_experience": "Junior Developer\nApple\n2022-2024 (2 years)\n\u2022 Bug fixes\n\u2022 Code contributions\n\u2022 Testing", "job_experience": "Senior Engineer\n6+ years required\nLead projects\nMentor team members", "score": 0.35}
+{"cv_experience": "Junior at Apple, 3 years", "job_experience": "Senior, 8+ years", "score": 0.45000000000000007}
+{"cv_experience": "Junior Developer\nApple\n2021-2024 (3 years)\n\u2022 Bug fixes\n\u2022 Code contributions\n\u2022 Testing", "job_experience": "Senior Engineer\n8+ years required\nLead projects\nMentor team members", "score": 0.45000000000000007}
+{"cv_experience": "Junior at Netflix, 1 years", "job_experience": "Senior, 5+ years", "score": 0.25}
+{"cv_experience": "Junior Developer\nNetflix\n2023-2024 (1 years)\n\u2022 Bug fixes\n\u2022 Code contributions\n\u2022 Testing", "job_experience": "Senior Engineer\n5+ years required\nLead projects\nMentor team members", "score": 0.25}
+{"cv_experience": "Junior at Netflix, 2 years", "job_experience": "Senior, 6+ years", "score": 0.35}
+{"cv_experience": "Junior Developer\nNetflix\n2022-2024 (2 years)\n\u2022 Bug fixes\n\u2022 Code contributions\n\u2022 Testing", "job_experience": "Senior Engineer\n6+ years required\nLead projects\nMentor team members", "score": 0.35}
+{"cv_experience": "Junior at Netflix, 3 years", "job_experience": "Senior, 8+ years", "score": 0.45000000000000007}
+{"cv_experience": "Junior Developer\nNetflix\n2021-2024 (3 years)\n\u2022 Bug fixes\n\u2022 Code contributions\n\u2022 Testing", "job_experience": "Senior Engineer\n8+ years required\nLead projects\nMentor team members", "score": 0.45000000000000007}
+{"cv_experience": "Senior at TCS, 6 years", "job_experience": "Senior, 5+ years", "score": 0.76}
+{"cv_experience": "Senior Engineer\nTCS\n2018-2024 (6 years total)\n\u2022 Client projects\n\u2022 Team coordination\n\u2022 Technical delivery", "job_experience": "Senior Engineer\n5+ years required\nProduct development experience", "score": 0.76}
+{"cv_experience": "Senior at TCS, 7 years", "job_experience": "Senior, 6+ years", "score": 0.77}
+{"cv_experience": "Senior Engineer\nTCS\n2017-2024 (7 years total)\n\u2022 Client projects\n\u2022 Team coordination\n\u2022 Technical delivery", "job_experience": "Senior Engineer\n6+ years required\nProduct development experience", "score": 0.77}
+{"cv_experience": "Senior at TCS, 8 years", "job_experience": "Senior, 7+ years", "score": 0.78}
+{"cv_experience": "Senior Engineer\nTCS\n2016-2024 (8 years total)\n\u2022 Client projects\n\u2022 Team coordination\n\u2022 Technical delivery", "job_experience": "Senior Engineer\n7+ years required\nProduct development experience", "score": 0.78}
+{"cv_experience": "Senior at TCS, 9 years", "job_experience": "Senior, 8+ years", "score": 0.79}
+{"cv_experience": "Senior Engineer\nTCS\n2015-2024 (9 years total)\n\u2022 Client projects\n\u2022 Team coordination\n\u2022 Technical delivery", "job_experience": "Senior Engineer\n8+ years required\nProduct development experience", "score": 0.79}
+{"cv_experience": "Senior at TCS, 10 years", "job_experience": "Senior, 9+ years", "score": 0.8}
+{"cv_experience": "Senior Engineer\nTCS\n2014-2024 (10 years total)\n\u2022 Client projects\n\u2022 Team coordination\n\u2022 Technical delivery", "job_experience": "Senior Engineer\n9+ years required\nProduct development experience", "score": 0.8}
+{"cv_experience": "Senior at Infosys, 6 years", "job_experience": "Senior, 5+ years", "score": 0.76}
+{"cv_experience": "Senior Engineer\nInfosys\n2018-2024 (6 years total)\n\u2022 Client projects\n\u2022 Team coordination\n\u2022 Technical delivery", "job_experience": "Senior Engineer\n5+ years required\nProduct development experience", "score": 0.76}
+{"cv_experience": "Senior at Infosys, 7 years", "job_experience": "Senior, 6+ years", "score": 0.77}
+{"cv_experience": "Senior Engineer\nInfosys\n2017-2024 (7 years total)\n\u2022 Client projects\n\u2022 Team coordination\n\u2022 Technical delivery", "job_experience": "Senior Engineer\n6+ years required\nProduct development experience", "score": 0.77}
+{"cv_experience": "Senior at Infosys, 8 years", "job_experience": "Senior, 7+ years", "score": 0.78}
+{"cv_experience": "Senior Engineer\nInfosys\n2016-2024 (8 years total)\n\u2022 Client projects\n\u2022 Team coordination\n\u2022 Technical delivery", "job_experience": "Senior Engineer\n7+ years required\nProduct development experience", "score": 0.78}
+{"cv_experience": "Senior at Infosys, 9 years", "job_experience": "Senior, 8+ years", "score": 0.79}
+{"cv_experience": "Senior Engineer\nInfosys\n2015-2024 (9 years total)\n\u2022 Client projects\n\u2022 Team coordination\n\u2022 Technical delivery", "job_experience": "Senior Engineer\n8+ years required\nProduct development experience", "score": 0.79}
+{"cv_experience": "Senior at Infosys, 10 years", "job_experience": "Senior, 9+ years", "score": 0.8}
+{"cv_experience": "Senior Engineer\nInfosys\n2014-2024 (10 years total)\n\u2022 Client projects\n\u2022 Team coordination\n\u2022 Technical delivery", "job_experience": "Senior Engineer\n9+ years required\nProduct development experience", "score": 0.8}
+{"cv_experience": "Senior at Wipro, 6 years", "job_experience": "Senior, 5+ years", "score": 0.76}
+{"cv_experience": "Senior Engineer\nWipro\n2018-2024 (6 years total)\n\u2022 Client projects\n\u2022 Team coordination\n\u2022 Technical delivery", "job_experience": "Senior Engineer\n5+ years required\nProduct development experience", "score": 0.76}
+{"cv_experience": "Senior at Wipro, 7 years", "job_experience": "Senior, 6+ years", "score": 0.77}
+{"cv_experience": "Senior Engineer\nWipro\n2017-2024 (7 years total)\n\u2022 Client projects\n\u2022 Team coordination\n\u2022 Technical delivery", "job_experience": "Senior Engineer\n6+ years required\nProduct development experience", "score": 0.77}
+{"cv_experience": "Senior at Wipro, 8 years", "job_experience": "Senior, 7+ years", "score": 0.78}
+{"cv_experience": "Senior Engineer\nWipro\n2016-2024 (8 years total)\n\u2022 Client projects\n\u2022 Team coordination\n\u2022 Technical delivery", "job_experience": "Senior Engineer\n7+ years required\nProduct development experience", "score": 0.78}
+{"cv_experience": "Senior at Wipro, 9 years", "job_experience": "Senior, 8+ years", "score": 0.79}
+{"cv_experience": "Senior Engineer\nWipro\n2015-2024 (9 years total)\n\u2022 Client projects\n\u2022 Team coordination\n\u2022 Technical delivery", "job_experience": "Senior Engineer\n8+ years required\nProduct development experience", "score": 0.79}
+{"cv_experience": "Senior at Wipro, 10 years", "job_experience": "Senior, 9+ years", "score": 0.8}
+{"cv_experience": "Senior Engineer\nWipro\n2014-2024 (10 years total)\n\u2022 Client projects\n\u2022 Team coordination\n\u2022 Technical delivery", "job_experience": "Senior Engineer\n9+ years required\nProduct development experience", "score": 0.8}
+{"cv_experience": "Senior at Cognizant, 6 years", "job_experience": "Senior, 5+ years", "score": 0.76}
+{"cv_experience": "Senior Engineer\nCognizant\n2018-2024 (6 years total)\n\u2022 Client projects\n\u2022 Team coordination\n\u2022 Technical delivery", "job_experience": "Senior Engineer\n5+ years required\nProduct development experience", "score": 0.76}
+{"cv_experience": "Senior at Cognizant, 7 years", "job_experience": "Senior, 6+ years", "score": 0.77}
+{"cv_experience": "Senior Engineer\nCognizant\n2017-2024 (7 years total)\n\u2022 Client projects\n\u2022 Team coordination\n\u2022 Technical delivery", "job_experience": "Senior Engineer\n6+ years required\nProduct development experience", "score": 0.77}
+{"cv_experience": "Senior at Cognizant, 8 years", "job_experience": "Senior, 7+ years", "score": 0.78}
+{"cv_experience": "Senior Engineer\nCognizant\n2016-2024 (8 years total)\n\u2022 Client projects\n\u2022 Team coordination\n\u2022 Technical delivery", "job_experience": "Senior Engineer\n7+ years required\nProduct development experience", "score": 0.78}
+{"cv_experience": "Senior at Cognizant, 9 years", "job_experience": "Senior, 8+ years", "score": 0.79}
+{"cv_experience": "Senior Engineer\nCognizant\n2015-2024 (9 years total)\n\u2022 Client projects\n\u2022 Team coordination\n\u2022 Technical delivery", "job_experience": "Senior Engineer\n8+ years required\nProduct development experience", "score": 0.79}
+{"cv_experience": "Senior at Cognizant, 10 years", "job_experience": "Senior, 9+ years", "score": 0.8}
+{"cv_experience": "Senior Engineer\nCognizant\n2014-2024 (10 years total)\n\u2022 Client projects\n\u2022 Team coordination\n\u2022 Technical delivery", "job_experience": "Senior Engineer\n9+ years required\nProduct development experience", "score": 0.8}
+{"cv_experience": "Senior at HCL, 6 years", "job_experience": "Senior, 5+ years", "score": 0.76}
+{"cv_experience": "Senior Engineer\nHCL\n2018-2024 (6 years total)\n\u2022 Client projects\n\u2022 Team coordination\n\u2022 Technical delivery", "job_experience": "Senior Engineer\n5+ years required\nProduct development experience", "score": 0.76}
+{"cv_experience": "Senior at HCL, 7 years", "job_experience": "Senior, 6+ years", "score": 0.77}
+{"cv_experience": "Senior Engineer\nHCL\n2017-2024 (7 years total)\n\u2022 Client projects\n\u2022 Team coordination\n\u2022 Technical delivery", "job_experience": "Senior Engineer\n6+ years required\nProduct development experience", "score": 0.77}
+{"cv_experience": "Senior at HCL, 8 years", "job_experience": "Senior, 7+ years", "score": 0.78}
+{"cv_experience": "Senior Engineer\nHCL\n2016-2024 (8 years total)\n\u2022 Client projects\n\u2022 Team coordination\n\u2022 Technical delivery", "job_experience": "Senior Engineer\n7+ years required\nProduct development experience", "score": 0.78}
+{"cv_experience": "Senior at HCL, 9 years", "job_experience": "Senior, 8+ years", "score": 0.79}
+{"cv_experience": "Senior Engineer\nHCL\n2015-2024 (9 years total)\n\u2022 Client projects\n\u2022 Team coordination\n\u2022 Technical delivery", "job_experience": "Senior Engineer\n8+ years required\nProduct development experience", "score": 0.79}
+{"cv_experience": "Senior at HCL, 10 years", "job_experience": "Senior, 9+ years", "score": 0.8}
+{"cv_experience": "Senior Engineer\nHCL\n2014-2024 (10 years total)\n\u2022 Client projects\n\u2022 Team coordination\n\u2022 Technical delivery", "job_experience": "Senior Engineer\n9+ years required\nProduct development experience", "score": 0.8}
+{"cv_experience": "Junior at Google, 2 years", "job_experience": "Junior, 1+ years", "score": 1.0}
+{"cv_experience": "Junior Engineer\nGoogle\n2022-2024 (2 years)\n\u2022 Various projects\n\u2022 Technical work", "job_experience": "Junior\n1+ years required", "score": 1.0}
+{"cv_experience": "Mid-level at Google, 4 years", "job_experience": "Mid-level, 3+ years", "score": 1.0}
+{"cv_experience": "Mid-level Engineer\nGoogle\n2020-2024 (4 years)\n\u2022 Various projects\n\u2022 Technical work", "job_experience": "Mid-level\n3+ years required", "score": 1.0}
+{"cv_experience": "Senior at Google, 7 years", "job_experience": "Senior, 6+ years", "score": 1.0}
+{"cv_experience": "Senior Engineer\nGoogle\n2017-2024 (7 years)\n\u2022 Various projects\n\u2022 Technical work", "job_experience": "Senior\n6+ years required", "score": 1.0}
+{"cv_experience": "Staff at Google, 11 years", "job_experience": "Staff, 10+ years", "score": 1.0}
+{"cv_experience": "Staff Engineer\nGoogle\n2013-2024 (11 years)\n\u2022 Various projects\n\u2022 Technical work", "job_experience": "Staff\n10+ years required", "score": 1.0}
+{"cv_experience": "Junior at Meta, 2 years", "job_experience": "Junior, 1+ years", "score": 1.0}
+{"cv_experience": "Junior Engineer\nMeta\n2022-2024 (2 years)\n\u2022 Various projects\n\u2022 Technical work", "job_experience": "Junior\n1+ years required", "score": 1.0}
+{"cv_experience": "Mid-level at Meta, 4 years", "job_experience": "Mid-level, 3+ years", "score": 1.0}
+{"cv_experience": "Mid-level Engineer\nMeta\n2020-2024 (4 years)\n\u2022 Various projects\n\u2022 Technical work", "job_experience": "Mid-level\n3+ years required", "score": 1.0}
+{"cv_experience": "Senior at Meta, 7 years", "job_experience": "Senior, 6+ years", "score": 1.0}
+{"cv_experience": "Senior Engineer\nMeta\n2017-2024 (7 years)\n\u2022 Various projects\n\u2022 Technical work", "job_experience": "Senior\n6+ years required", "score": 1.0}
+{"cv_experience": "Staff at Meta, 11 years", "job_experience": "Staff, 10+ years", "score": 1.0}
+{"cv_experience": "Staff Engineer\nMeta\n2013-2024 (11 years)\n\u2022 Various projects\n\u2022 Technical work", "job_experience": "Staff\n10+ years required", "score": 1.0}
+{"cv_experience": "Junior at Amazon, 2 years", "job_experience": "Junior, 1+ years", "score": 1.0}
+{"cv_experience": "Junior Engineer\nAmazon\n2022-2024 (2 years)\n\u2022 Various projects\n\u2022 Technical work", "job_experience": "Junior\n1+ years required", "score": 1.0}
+{"cv_experience": "Mid-level at Amazon, 4 years", "job_experience": "Mid-level, 3+ years", "score": 1.0}
+{"cv_experience": "Mid-level Engineer\nAmazon\n2020-2024 (4 years)\n\u2022 Various projects\n\u2022 Technical work", "job_experience": "Mid-level\n3+ years required", "score": 1.0}
+{"cv_experience": "Senior at Amazon, 7 years", "job_experience": "Senior, 6+ years", "score": 1.0}
+{"cv_experience": "Senior Engineer\nAmazon\n2017-2024 (7 years)\n\u2022 Various projects\n\u2022 Technical work", "job_experience": "Senior\n6+ years required", "score": 1.0}
+{"cv_experience": "Staff at Amazon, 11 years", "job_experience": "Staff, 10+ years", "score": 1.0}
+{"cv_experience": "Staff Engineer\nAmazon\n2013-2024 (11 years)\n\u2022 Various projects\n\u2022 Technical work", "job_experience": "Staff\n10+ years required", "score": 1.0}
+{"cv_experience": "Junior at Microsoft, 2 years", "job_experience": "Junior, 1+ years", "score": 1.0}
+{"cv_experience": "Junior Engineer\nMicrosoft\n2022-2024 (2 years)\n\u2022 Various projects\n\u2022 Technical work", "job_experience": "Junior\n1+ years required", "score": 1.0}
+{"cv_experience": "Mid-level at Microsoft, 4 years", "job_experience": "Mid-level, 3+ years", "score": 1.0}
+{"cv_experience": "Mid-level Engineer\nMicrosoft\n2020-2024 (4 years)\n\u2022 Various projects\n\u2022 Technical work", "job_experience": "Mid-level\n3+ years required", "score": 1.0}
+{"cv_experience": "Senior at Microsoft, 7 years", "job_experience": "Senior, 6+ years", "score": 1.0}
+{"cv_experience": "Senior Engineer\nMicrosoft\n2017-2024 (7 years)\n\u2022 Various projects\n\u2022 Technical work", "job_experience": "Senior\n6+ years required", "score": 1.0}
+{"cv_experience": "Staff at Microsoft, 11 years", "job_experience": "Staff, 10+ years", "score": 1.0}
+{"cv_experience": "Staff Engineer\nMicrosoft\n2013-2024 (11 years)\n\u2022 Various projects\n\u2022 Technical work", "job_experience": "Staff\n10+ years required", "score": 1.0}
+{"cv_experience": "Junior at Apple, 2 years", "job_experience": "Junior, 1+ years", "score": 1.0}
+{"cv_experience": "Junior Engineer\nApple\n2022-2024 (2 years)\n\u2022 Various projects\n\u2022 Technical work", "job_experience": "Junior\n1+ years required", "score": 1.0}
+{"cv_experience": "Mid-level at Apple, 4 years", "job_experience": "Mid-level, 3+ years", "score": 1.0}
+{"cv_experience": "Mid-level Engineer\nApple\n2020-2024 (4 years)\n\u2022 Various projects\n\u2022 Technical work", "job_experience": "Mid-level\n3+ years required", "score": 1.0}
+{"cv_experience": "Senior at Apple, 7 years", "job_experience": "Senior, 6+ years", "score": 1.0}
+{"cv_experience": "Senior Engineer\nApple\n2017-2024 (7 years)\n\u2022 Various projects\n\u2022 Technical work", "job_experience": "Senior\n6+ years required", "score": 1.0}
+{"cv_experience": "Staff at Apple, 11 years", "job_experience": "Staff, 10+ years", "score": 1.0}
+{"cv_experience": "Staff Engineer\nApple\n2013-2024 (11 years)\n\u2022 Various projects\n\u2022 Technical work", "job_experience": "Staff\n10+ years required", "score": 1.0}
+{"cv_experience": "Junior at Netflix, 2 years", "job_experience": "Junior, 1+ years", "score": 1.0}
+{"cv_experience": "Junior Engineer\nNetflix\n2022-2024 (2 years)\n\u2022 Various projects\n\u2022 Technical work", "job_experience": "Junior\n1+ years required", "score": 1.0}
+{"cv_experience": "Mid-level at Netflix, 4 years", "job_experience": "Mid-level, 3+ years", "score": 1.0}
+{"cv_experience": "Mid-level Engineer\nNetflix\n2020-2024 (4 years)\n\u2022 Various projects\n\u2022 Technical work", "job_experience": "Mid-level\n3+ years required", "score": 1.0}
+{"cv_experience": "Senior at Netflix, 7 years", "job_experience": "Senior, 6+ years", "score": 1.0}
+{"cv_experience": "Senior Engineer\nNetflix\n2017-2024 (7 years)\n\u2022 Various projects\n\u2022 Technical work", "job_experience": "Senior\n6+ years required", "score": 1.0}
+{"cv_experience": "Staff at Netflix, 11 years", "job_experience": "Staff, 10+ years", "score": 1.0}
+{"cv_experience": "Staff Engineer\nNetflix\n2013-2024 (11 years)\n\u2022 Various projects\n\u2022 Technical work", "job_experience": "Staff\n10+ years required", "score": 1.0}
+{"cv_experience": "Junior at Stripe, 2 years", "job_experience": "Junior, 1+ years", "score": 0.98}
+{"cv_experience": "Junior Engineer\nStripe\n2022-2024 (2 years)\n\u2022 Various projects\n\u2022 Technical work", "job_experience": "Junior\n1+ years required", "score": 0.98}
+{"cv_experience": "Mid-level at Stripe, 4 years", "job_experience": "Mid-level, 3+ years", "score": 0.98}
+{"cv_experience": "Mid-level Engineer\nStripe\n2020-2024 (4 years)\n\u2022 Various projects\n\u2022 Technical work", "job_experience": "Mid-level\n3+ years required", "score": 0.98}
+{"cv_experience": "Senior at Stripe, 7 years", "job_experience": "Senior, 6+ years", "score": 0.98}
+{"cv_experience": "Senior Engineer\nStripe\n2017-2024 (7 years)\n\u2022 Various projects\n\u2022 Technical work", "job_experience": "Senior\n6+ years required", "score": 0.98}
+{"cv_experience": "Staff at Stripe, 11 years", "job_experience": "Staff, 10+ years", "score": 0.98}
+{"cv_experience": "Staff Engineer\nStripe\n2013-2024 (11 years)\n\u2022 Various projects\n\u2022 Technical work", "job_experience": "Staff\n10+ years required", "score": 0.98}
+{"cv_experience": "Junior at Airbnb, 2 years", "job_experience": "Junior, 1+ years", "score": 0.98}
+{"cv_experience": "Junior Engineer\nAirbnb\n2022-2024 (2 years)\n\u2022 Various projects\n\u2022 Technical work", "job_experience": "Junior\n1+ years required", "score": 0.98}
+{"cv_experience": "Mid-level at Airbnb, 4 years", "job_experience": "Mid-level, 3+ years", "score": 0.98}
+{"cv_experience": "Mid-level Engineer\nAirbnb\n2020-2024 (4 years)\n\u2022 Various projects\n\u2022 Technical work", "job_experience": "Mid-level\n3+ years required", "score": 0.98}
+{"cv_experience": "Senior at Airbnb, 7 years", "job_experience": "Senior, 6+ years", "score": 0.98}
+{"cv_experience": "Senior Engineer\nAirbnb\n2017-2024 (7 years)\n\u2022 Various projects\n\u2022 Technical work", "job_experience": "Senior\n6+ years required", "score": 0.98}
+{"cv_experience": "Staff at Airbnb, 11 years", "job_experience": "Staff, 10+ years", "score": 0.98}
+{"cv_experience": "Staff Engineer\nAirbnb\n2013-2024 (11 years)\n\u2022 Various projects\n\u2022 Technical work", "job_experience": "Staff\n10+ years required", "score": 0.98}
+{"cv_experience": "Junior at Uber, 2 years", "job_experience": "Junior, 1+ years", "score": 0.98}
+{"cv_experience": "Junior Engineer\nUber\n2022-2024 (2 years)\n\u2022 Various projects\n\u2022 Technical work", "job_experience": "Junior\n1+ years required", "score": 0.98}
+{"cv_experience": "Mid-level at Uber, 4 years", "job_experience": "Mid-level, 3+ years", "score": 0.98}
+{"cv_experience": "Mid-level Engineer\nUber\n2020-2024 (4 years)\n\u2022 Various projects\n\u2022 Technical work", "job_experience": "Mid-level\n3+ years required", "score": 0.98}
+{"cv_experience": "Senior at Uber, 7 years", "job_experience": "Senior, 6+ years", "score": 0.98}
+{"cv_experience": "Senior Engineer\nUber\n2017-2024 (7 years)\n\u2022 Various projects\n\u2022 Technical work", "job_experience": "Senior\n6+ years required", "score": 0.98}
+{"cv_experience": "Staff at Uber, 11 years", "job_experience": "Staff, 10+ years", "score": 0.98}
+{"cv_experience": "Staff Engineer\nUber\n2013-2024 (11 years)\n\u2022 Various projects\n\u2022 Technical work", "job_experience": "Staff\n10+ years required", "score": 0.98}
+{"cv_experience": "Junior at OpenAI, 2 years", "job_experience": "Junior, 1+ years", "score": 0.98}
+{"cv_experience": "Junior Engineer\nOpenAI\n2022-2024 (2 years)\n\u2022 Various projects\n\u2022 Technical work", "job_experience": "Junior\n1+ years required", "score": 0.98}
+{"cv_experience": "Mid-level at OpenAI, 4 years", "job_experience": "Mid-level, 3+ years", "score": 0.98}
+{"cv_experience": "Mid-level Engineer\nOpenAI\n2020-2024 (4 years)\n\u2022 Various projects\n\u2022 Technical work", "job_experience": "Mid-level\n3+ years required", "score": 0.98}
+{"cv_experience": "Senior at OpenAI, 7 years", "job_experience": "Senior, 6+ years", "score": 0.98}
+{"cv_experience": "Senior Engineer\nOpenAI\n2017-2024 (7 years)\n\u2022 Various projects\n\u2022 Technical work", "job_experience": "Senior\n6+ years required", "score": 0.98}
+{"cv_experience": "Staff at OpenAI, 11 years", "job_experience": "Staff, 10+ years", "score": 0.98}
+{"cv_experience": "Staff Engineer\nOpenAI\n2013-2024 (11 years)\n\u2022 Various projects\n\u2022 Technical work", "job_experience": "Staff\n10+ years required", "score": 0.98}
+{"cv_experience": "Junior at Databricks, 2 years", "job_experience": "Junior, 1+ years", "score": 0.98}
+{"cv_experience": "Junior Engineer\nDatabricks\n2022-2024 (2 years)\n\u2022 Various projects\n\u2022 Technical work", "job_experience": "Junior\n1+ years required", "score": 0.98}
+{"cv_experience": "Mid-level at Databricks, 4 years", "job_experience": "Mid-level, 3+ years", "score": 0.98}
+{"cv_experience": "Mid-level Engineer\nDatabricks\n2020-2024 (4 years)\n\u2022 Various projects\n\u2022 Technical work", "job_experience": "Mid-level\n3+ years required", "score": 0.98}
+{"cv_experience": "Senior at Databricks, 7 years", "job_experience": "Senior, 6+ years", "score": 0.98}
+{"cv_experience": "Senior Engineer\nDatabricks\n2017-2024 (7 years)\n\u2022 Various projects\n\u2022 Technical work", "job_experience": "Senior\n6+ years required", "score": 0.98}
+{"cv_experience": "Staff at Databricks, 11 years", "job_experience": "Staff, 10+ years", "score": 0.98}
+{"cv_experience": "Staff Engineer\nDatabricks\n2013-2024 (11 years)\n\u2022 Various projects\n\u2022 Technical work", "job_experience": "Staff\n10+ years required", "score": 0.98}
+{"cv_experience": "Junior at Shopify, 2 years", "job_experience": "Junior, 1+ years", "score": 0.98}
+{"cv_experience": "Junior Engineer\nShopify\n2022-2024 (2 years)\n\u2022 Various projects\n\u2022 Technical work", "job_experience": "Junior\n1+ years required", "score": 0.98}
+{"cv_experience": "Mid-level at Shopify, 4 years", "job_experience": "Mid-level, 3+ years", "score": 0.98}
+{"cv_experience": "Mid-level Engineer\nShopify\n2020-2024 (4 years)\n\u2022 Various projects\n\u2022 Technical work", "job_experience": "Mid-level\n3+ years required", "score": 0.98}
+{"cv_experience": "Senior at Shopify, 7 years", "job_experience": "Senior, 6+ years", "score": 0.98}
+{"cv_experience": "Senior Engineer\nShopify\n2017-2024 (7 years)\n\u2022 Various projects\n\u2022 Technical work", "job_experience": "Senior\n6+ years required", "score": 0.98}
+{"cv_experience": "Staff at Shopify, 11 years", "job_experience": "Staff, 10+ years", "score": 0.98}
+{"cv_experience": "Staff Engineer\nShopify\n2013-2024 (11 years)\n\u2022 Various projects\n\u2022 Technical work", "job_experience": "Staff\n10+ years required", "score": 0.98}
+{"cv_experience": "Principal Engineer\nGoogle Inc., Mountain View, CA\n2010-2024 (14 years total experience)\n\nResponsibilities:\n\u2022 Led architecture for distributed systems serving 1B+ users\n\u2022 Managed team of 8 senior engineers\n\u2022 Designed and implemented microservices architecture\n\u2022 Reduced system latency by 70% through optimization\n\nTechnologies:\n\u2022 Languages: Go, Python, C++\n\u2022 Infrastructure: Kubernetes, Docker, Terraform\n\u2022 Databases: Spanner, BigTable, PostgreSQL\n\u2022 Cloud: GCP, AWS\n\nKey Achievements:\n\u2022 Filed 3 patents in distributed systems\n\u2022 Promoted twice in 4 years\n\u2022 Mentored 15+ engineers", "job_experience": "Senior Engineer\n8+ years experience required\nDistributed systems experience\nTeam leadership preferred", "score": 1.0}
+{"cv_experience": "Senior Backend Engineer\nMeta (Facebook)\nMenlo Park, CA\nJanuary 2017 - December 2024 (7 years)\n\nKey Responsibilities:\n\u2022 Developed and maintained backend services for News Feed\n\u2022 Optimized API performance handling 50M requests/day\n\u2022 Led team of 4 engineers on critical infrastructure project\n\u2022 Conducted code reviews and mentored junior developers\n\nTechnical Skills:\n\u2022 Python, PHP, Hack\n\u2022 GraphQL, REST APIs\n\u2022 MySQL, Redis, Memcached\n\u2022 Thrift, Protocol Buffers\n\nAccomplishments:\n\u2022 Improved API response time by 40%\n\u2022 Reduced server costs by $2M annually\n\u2022 Led migration of legacy systems to modern stack", "job_experience": "Senior Backend Developer\n6+ years required\nHigh-traffic systems experience\nAPI design and optimization", "score": 1.0}
+{"cv_experience": "Software Engineer \u2192 Senior Engineer\nAmazon Web Services\n2018-2024 (6 years total)\nStarted as SDE-1, promoted to SDE-2 in 2020, SDE-3 in 2023\n\u2022 Built serverless architecture\n\u2022 Led 3-person team\n\u2022 Ownership of critical services", "job_experience": "Senior Engineer, 5+ years, career growth demonstrated", "score": 1.0}
+{"cv_experience": "Senior Engineer (4 years combined)\n- Google: 2 years (2020-2022)\n- Meta: 2 years (2022-2024)\nConsistent backend development across companies", "job_experience": "Senior Engineer, 4+ years", "score": 1.0}
+{"cv_experience": "Founding Engineer \u2192 Senior Engineer\nStartup (acquired by Uber): 3 years (2019-2022)\nUber: 3 years (2022-2024)\nTotal: 6 years\nBuilt product from 0 to 10M users", "job_experience": "Senior Engineer, 5+ years, startup experience", "score": 0.95}
+{"cv_experience": "Junior at Google, 1 years", "job_experience": "Junior, 2+ years", "score": 0.5}
+{"cv_experience": "Junior at Google, 2 years", "job_experience": "Junior, 2+ years", "score": 1.0}
+{"cv_experience": "Mid-level at Google, 3 years", "job_experience": "Junior, 2+ years", "score": 1.0}
+{"cv_experience": "Mid-level at Google, 4 years", "job_experience": "Junior, 2+ years", "score": 1.0}
+{"cv_experience": "Mid-level at Google, 3 years", "job_experience": "Mid-level, 4+ years", "score": 0.75}
+{"cv_experience": "Mid-level at Google, 4 years", "job_experience": "Mid-level, 4+ years", "score": 1.0}
+{"cv_experience": "Mid-level at Google, 5 years", "job_experience": "Mid-level, 4+ years", "score": 1.0}
+{"cv_experience": "Senior at Google, 6 years", "job_experience": "Mid-level, 4+ years", "score": 1.0}
+{"cv_experience": "Senior at Google, 6 years", "job_experience": "Senior, 7+ years", "score": 0.8571428571428571}
+{"cv_experience": "Senior at Google, 7 years", "job_experience": "Senior, 7+ years", "score": 1.0}
+{"cv_experience": "Senior at Google, 8 years", "job_experience": "Senior, 7+ years", "score": 1.0}
+{"cv_experience": "Senior at Google, 9 years", "job_experience": "Senior, 7+ years", "score": 1.0}
+{"cv_experience": "Senior at Google, 9 years", "job_experience": "Senior, 10+ years", "score": 0.9}
+{"cv_experience": "Senior at Google, 10 years", "job_experience": "Senior, 10+ years", "score": 1.0}
+{"cv_experience": "Senior at Google, 11 years", "job_experience": "Senior, 10+ years", "score": 1.0}
+{"cv_experience": "Senior at Google, 12 years", "job_experience": "Senior, 10+ years", "score": 1.0}
+{"cv_experience": "Senior Software Engineer\nGoogle\nSan Francisco Bay Area\nMarch 2018 - Present (6+ years)\n\nJob Description:\n\u2022 Design and implement scalable backend systems\n\u2022 Lead technical initiatives across multiple teams  \n\u2022 Mentor junior and mid-level engineers\n\u2022 Participate in technical design reviews\n\u2022 On-call rotation for production systems\n\nKey Projects:\n\u2022 Microservices migration (reduced latency by 50%)\n\u2022 Real-time data pipeline (processing 1M events/sec)\n\u2022 API redesign (improved developer experience)\n\nSkills: Python \u2022 Go \u2022 Kubernetes \u2022 PostgreSQL \u2022 Redis \u2022 AWS", "job_experience": "Senior Engineer, 5+ years, backend development", "score": 1.0}
+{"cv_experience": "Mid-level Developer\nGoogle\nRemote\nJuly 2020 - November 2024 (4 years)\n\nResponsibilities:\n\u2022 Full-stack development\n\u2022 Feature implementation\n\u2022 Bug fixes and optimization\n\u2022 Code reviews\n\nTech Stack:\nReact, Node.js, TypeScript, MongoDB\n\nAchievements:\n\u2022 Shipped 10+ features\n\u2022 Improved page load time by 30%", "job_experience": "Mid-level, 4+ years, full-stack", "score": 1.0}
+{"cv_experience": "Senior Software Engineer\nMeta\nSan Francisco Bay Area\nMarch 2018 - Present (6+ years)\n\nJob Description:\n\u2022 Design and implement scalable backend systems\n\u2022 Lead technical initiatives across multiple teams  \n\u2022 Mentor junior and mid-level engineers\n\u2022 Participate in technical design reviews\n\u2022 On-call rotation for production systems\n\nKey Projects:\n\u2022 Microservices migration (reduced latency by 50%)\n\u2022 Real-time data pipeline (processing 1M events/sec)\n\u2022 API redesign (improved developer experience)\n\nSkills: Python \u2022 Go \u2022 Kubernetes \u2022 PostgreSQL \u2022 Redis \u2022 AWS", "job_experience": "Senior Engineer, 5+ years, backend development", "score": 1.0}
+{"cv_experience": "Mid-level Developer\nMeta\nRemote\nJuly 2020 - November 2024 (4 years)\n\nResponsibilities:\n\u2022 Full-stack development\n\u2022 Feature implementation\n\u2022 Bug fixes and optimization\n\u2022 Code reviews\n\nTech Stack:\nReact, Node.js, TypeScript, MongoDB\n\nAchievements:\n\u2022 Shipped 10+ features\n\u2022 Improved page load time by 30%", "job_experience": "Mid-level, 4+ years, full-stack", "score": 1.0}
+{"cv_experience": "Senior Software Engineer\nAmazon\nSan Francisco Bay Area\nMarch 2018 - Present (6+ years)\n\nJob Description:\n\u2022 Design and implement scalable backend systems\n\u2022 Lead technical initiatives across multiple teams  \n\u2022 Mentor junior and mid-level engineers\n\u2022 Participate in technical design reviews\n\u2022 On-call rotation for production systems\n\nKey Projects:\n\u2022 Microservices migration (reduced latency by 50%)\n\u2022 Real-time data pipeline (processing 1M events/sec)\n\u2022 API redesign (improved developer experience)\n\nSkills: Python \u2022 Go \u2022 Kubernetes \u2022 PostgreSQL \u2022 Redis \u2022 AWS", "job_experience": "Senior Engineer, 5+ years, backend development", "score": 1.0}
+{"cv_experience": "Mid-level Developer\nAmazon\nRemote\nJuly 2020 - November 2024 (4 years)\n\nResponsibilities:\n\u2022 Full-stack development\n\u2022 Feature implementation\n\u2022 Bug fixes and optimization\n\u2022 Code reviews\n\nTech Stack:\nReact, Node.js, TypeScript, MongoDB\n\nAchievements:\n\u2022 Shipped 10+ features\n\u2022 Improved page load time by 30%", "job_experience": "Mid-level, 4+ years, full-stack", "score": 1.0}
+{"cv_experience": "Senior Software Engineer\nMicrosoft\nSan Francisco Bay Area\nMarch 2018 - Present (6+ years)\n\nJob Description:\n\u2022 Design and implement scalable backend systems\n\u2022 Lead technical initiatives across multiple teams  \n\u2022 Mentor junior and mid-level engineers\n\u2022 Participate in technical design reviews\n\u2022 On-call rotation for production systems\n\nKey Projects:\n\u2022 Microservices migration (reduced latency by 50%)\n\u2022 Real-time data pipeline (processing 1M events/sec)\n\u2022 API redesign (improved developer experience)\n\nSkills: Python \u2022 Go \u2022 Kubernetes \u2022 PostgreSQL \u2022 Redis \u2022 AWS", "job_experience": "Senior Engineer, 5+ years, backend development", "score": 1.0}
+{"cv_experience": "Mid-level Developer\nMicrosoft\nRemote\nJuly 2020 - November 2024 (4 years)\n\nResponsibilities:\n\u2022 Full-stack development\n\u2022 Feature implementation\n\u2022 Bug fixes and optimization\n\u2022 Code reviews\n\nTech Stack:\nReact, Node.js, TypeScript, MongoDB\n\nAchievements:\n\u2022 Shipped 10+ features\n\u2022 Improved page load time by 30%", "job_experience": "Mid-level, 4+ years, full-stack", "score": 1.0}
+{"cv_experience": "Senior Software Engineer\nApple\nSan Francisco Bay Area\nMarch 2018 - Present (6+ years)\n\nJob Description:\n\u2022 Design and implement scalable backend systems\n\u2022 Lead technical initiatives across multiple teams  \n\u2022 Mentor junior and mid-level engineers\n\u2022 Participate in technical design reviews\n\u2022 On-call rotation for production systems\n\nKey Projects:\n\u2022 Microservices migration (reduced latency by 50%)\n\u2022 Real-time data pipeline (processing 1M events/sec)\n\u2022 API redesign (improved developer experience)\n\nSkills: Python \u2022 Go \u2022 Kubernetes \u2022 PostgreSQL \u2022 Redis \u2022 AWS", "job_experience": "Senior Engineer, 5+ years, backend development", "score": 1.0}
+{"cv_experience": "Mid-level Developer\nApple\nRemote\nJuly 2020 - November 2024 (4 years)\n\nResponsibilities:\n\u2022 Full-stack development\n\u2022 Feature implementation\n\u2022 Bug fixes and optimization\n\u2022 Code reviews\n\nTech Stack:\nReact, Node.js, TypeScript, MongoDB\n\nAchievements:\n\u2022 Shipped 10+ features\n\u2022 Improved page load time by 30%", "job_experience": "Mid-level, 4+ years, full-stack", "score": 1.0}
+{"cv_experience": "Senior Software Engineer\nStripe\nSan Francisco Bay Area\nMarch 2018 - Present (6+ years)\n\nJob Description:\n\u2022 Design and implement scalable backend systems\n\u2022 Lead technical initiatives across multiple teams  \n\u2022 Mentor junior and mid-level engineers\n\u2022 Participate in technical design reviews\n\u2022 On-call rotation for production systems\n\nKey Projects:\n\u2022 Microservices migration (reduced latency by 50%)\n\u2022 Real-time data pipeline (processing 1M events/sec)\n\u2022 API redesign (improved developer experience)\n\nSkills: Python \u2022 Go \u2022 Kubernetes \u2022 PostgreSQL \u2022 Redis \u2022 AWS", "job_experience": "Senior Engineer, 5+ years, backend development", "score": 1.0}
+{"cv_experience": "Mid-level Developer\nStripe\nRemote\nJuly 2020 - November 2024 (4 years)\n\nResponsibilities:\n\u2022 Full-stack development\n\u2022 Feature implementation\n\u2022 Bug fixes and optimization\n\u2022 Code reviews\n\nTech Stack:\nReact, Node.js, TypeScript, MongoDB\n\nAchievements:\n\u2022 Shipped 10+ features\n\u2022 Improved page load time by 30%", "job_experience": "Mid-level, 4+ years, full-stack", "score": 1.0}
+{"cv_experience": "Senior Software Engineer\nUber\nSan Francisco Bay Area\nMarch 2018 - Present (6+ years)\n\nJob Description:\n\u2022 Design and implement scalable backend systems\n\u2022 Lead technical initiatives across multiple teams  \n\u2022 Mentor junior and mid-level engineers\n\u2022 Participate in technical design reviews\n\u2022 On-call rotation for production systems\n\nKey Projects:\n\u2022 Microservices migration (reduced latency by 50%)\n\u2022 Real-time data pipeline (processing 1M events/sec)\n\u2022 API redesign (improved developer experience)\n\nSkills: Python \u2022 Go \u2022 Kubernetes \u2022 PostgreSQL \u2022 Redis \u2022 AWS", "job_experience": "Senior Engineer, 5+ years, backend development", "score": 1.0}
+{"cv_experience": "Mid-level Developer\nUber\nRemote\nJuly 2020 - November 2024 (4 years)\n\nResponsibilities:\n\u2022 Full-stack development\n\u2022 Feature implementation\n\u2022 Bug fixes and optimization\n\u2022 Code reviews\n\nTech Stack:\nReact, Node.js, TypeScript, MongoDB\n\nAchievements:\n\u2022 Shipped 10+ features\n\u2022 Improved page load time by 30%", "job_experience": "Mid-level, 4+ years, full-stack", "score": 1.0}

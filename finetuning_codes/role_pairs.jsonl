@@ -1,0 +1,689 @@
+{"role1": "Software Engineer", "role2": "Backend Developer", "score": 0.95}
+{"role1": "Software Engineer", "role2": "Frontend Developer", "score": 0.93}
+{"role1": "Software Engineer", "role2": "Full Stack Developer", "score": 0.96}
+{"role1": "Backend Developer", "role2": "Software Engineer", "score": 0.95}
+{"role1": "Frontend Developer", "role2": "Software Engineer", "score": 0.93}
+{"role1": "Full Stack Developer", "role2": "Software Engineer", "score": 0.96}
+{"role1": "Backend Developer", "role2": "Backend Engineer", "score": 0.98}
+{"role1": "Frontend Developer", "role2": "Frontend Engineer", "score": 0.98}
+{"role1": "Data Scientist", "role2": "ML Engineer", "score": 0.88}
+{"role1": "Data Scientist", "role2": "Machine Learning Engineer", "score": 0.88}
+{"role1": "ML Engineer", "role2": "Data Scientist", "score": 0.88}
+{"role1": "Machine Learning Engineer", "role2": "Data Scientist", "score": 0.88}
+{"role1": "Data Engineer", "role2": "Backend Developer", "score": 0.75}
+{"role1": "Data Engineer", "role2": "Software Engineer", "score": 0.8}
+{"role1": "DevOps Engineer", "role2": "SRE", "score": 0.92}
+{"role1": "SRE", "role2": "DevOps Engineer", "score": 0.92}
+{"role1": "Site Reliability Engineer", "role2": "DevOps Engineer", "score": 0.92}
+{"role1": "iOS Engineer", "role2": "Mobile Engineer", "score": 0.98}
+{"role1": "Android Engineer", "role2": "Mobile Engineer", "score": 0.98}
+{"role1": "Mobile Engineer", "role2": "iOS Engineer", "score": 0.95}
+{"role1": "Mobile Engineer", "role2": "Android Engineer", "score": 0.95}
+{"role1": "Mobile Developer", "role2": "Mobile Engineer", "score": 0.98}
+{"role1": "Security Engineer", "role2": "Software Engineer", "score": 0.75}
+{"role1": "QA Engineer", "role2": "Software Engineer", "score": 0.7}
+{"role1": "QA Engineer", "role2": "Test Engineer", "score": 0.98}
+{"role1": "SDET", "role2": "QA Engineer", "score": 0.95}
+{"role1": "Product Manager", "role2": "Product Owner", "score": 0.9}
+{"role1": "Data Analyst", "role2": "Business Analyst", "score": 0.75}
+{"role1": "Data Analyst", "role2": "Data Scientist", "score": 0.7}
+{"role1": "Software Engineer\nBackend development", "role2": "Backend Developer", "score": 0.95}
+{"role1": "Senior Software Engineer\nFull-stack development", "role2": "Full Stack Developer", "score": 0.96}
+{"role1": "Backend Developer\nAPI design & implementation", "role2": "Software Engineer", "score": 0.95}
+{"role1": "Frontend Developer\nReact, Vue.js", "role2": "Software Engineer", "score": 0.93}
+{"role1": "Data Scientist\nML, AI, Python", "role2": "ML Engineer", "score": 0.88}
+{"role1": "Machine Learning Engineer\nDeep learning, NLP", "role2": "Data Scientist", "score": 0.88}
+{"role1": "DevOps Engineer\nCI/CD, Kubernetes, AWS", "role2": "SRE", "score": 0.92}
+{"role1": "Site Reliability Engineer\n99.9% uptime", "role2": "DevOps Engineer", "score": 0.92}
+{"role1": "Mobile Developer\niOS & Android", "role2": "Mobile Engineer", "score": 0.98}
+{"role1": "iOS Engineer\nSwift, Objective-C", "role2": "Mobile Engineer", "score": 0.98}
+{"role1": "Android Engineer\nKotlin, Java", "role2": "Mobile Engineer", "score": 0.98}
+{"role1": "Security Engineer\nPenetration testing", "role2": "Software Engineer", "score": 0.75}
+{"role1": "QA Automation Engineer\nSelenium, pytest", "role2": "QA Engineer", "score": 0.98}
+{"role1": "Product Manager\nAgile, Scrum", "role2": "Product Owner", "score": 0.9}
+{"role1": "Data Analyst\nSQL, Tableau, Power BI", "role2": "Business Analyst", "score": 0.75}
+{"role1": "Dish washer", "role2": "Software Engineer", "score": 0.05}
+{"role1": "Waiter", "role2": "Backend Developer", "score": 0.05}
+{"role1": "Chef", "role2": "Data Scientist", "score": 0.05}
+{"role1": "Bartender", "role2": "ML Engineer", "score": 0.05}
+{"role1": "Cashier", "role2": "Frontend Developer", "score": 0.05}
+{"role1": "Accountant", "role2": "Software Engineer", "score": 0.08}
+{"role1": "Financial Analyst", "role2": "Data Engineer", "score": 0.12}
+{"role1": "Marketing Manager", "role2": "Product Manager", "score": 0.15}
+{"role1": "Sales Representative", "role2": "Software Engineer", "score": 0.08}
+{"role1": "HR Manager", "role2": "Engineering Manager", "score": 0.12}
+{"role1": "Teacher", "role2": "Software Engineer", "score": 0.08}
+{"role1": "Nurse", "role2": "Data Scientist", "score": 0.08}
+{"role1": "Lawyer", "role2": "Backend Developer", "score": 0.08}
+{"role1": "Construction Worker", "role2": "DevOps Engineer", "score": 0.05}
+{"role1": "Electrician", "role2": "Software Engineer", "score": 0.1}
+{"role1": "Plumber", "role2": "Backend Developer", "score": 0.05}
+{"role1": "Truck Driver", "role2": "Data Engineer", "score": 0.05}
+{"role1": "Retail Manager", "role2": "Product Manager", "score": 0.12}
+{"role1": "Dish washer\nRestaurant service", "role2": "Software Engineer", "score": 0.05}
+{"role1": "Chef\nCulinary arts, 5-star restaurant", "role2": "Data Scientist", "score": 0.05}
+{"role1": "Accountant\nFinancial reporting, tax preparation", "role2": "Software Engineer", "score": 0.08}
+{"role1": "Financial Analyst\nBudget planning, forecasting", "role2": "Data Engineer", "score": 0.12}
+{"role1": "Marketing Manager\nDigital marketing, SEO", "role2": "Product Manager", "score": 0.15}
+{"role1": "Sales Manager\nB2B sales, client relationships", "role2": "Software Engineer", "score": 0.08}
+{"role1": "Teacher\nHigh school mathematics", "role2": "Backend Developer", "score": 0.08}
+{"role1": "Registered Nurse\nICU, patient care", "role2": "Data Scientist", "score": 0.08}
+{"role1": "Attorney\nCorporate law", "role2": "Software Engineer", "score": 0.08}
+{"role1": "Construction Manager\nProject management", "role2": "Engineering Manager", "score": 0.1}
+{"role1": "Electrician\nResidential & commercial", "role2": "DevOps Engineer", "score": 0.1}
+{"role1": "Real Estate Agent\nProperty sales", "role2": "Software Engineer", "score": 0.08}
+{"role1": "Frontend Developer", "role2": "Backend Developer", "score": 0.7}
+{"role1": "Mobile Engineer", "role2": "Backend Developer", "score": 0.68}
+{"role1": "Data Scientist", "role2": "Backend Developer", "score": 0.65}
+{"role1": "Security Engineer", "role2": "Backend Developer", "score": 0.6}
+{"role1": "QA Engineer", "role2": "Backend Developer", "score": 0.62}
+{"role1": "DevOps Engineer", "role2": "Backend Developer", "score": 0.75}
+{"role1": "Backend Developer", "role2": "Frontend Developer", "score": 0.7}
+{"role1": "Backend Developer", "role2": "Mobile Engineer", "score": 0.68}
+{"role1": "Backend Developer", "role2": "Data Scientist", "score": 0.65}
+{"role1": "Backend Developer", "role2": "Security Engineer", "score": 0.6}
+{"role1": "Backend Developer", "role2": "QA Engineer", "score": 0.62}
+{"role1": "Backend Developer", "role2": "DevOps Engineer", "score": 0.75}
+{"role1": "Data Engineer\nETL pipelines, Spark", "role2": "Backend Developer\nAPI development", "score": 0.75}
+{"role1": "Security Engineer\nCybersecurity", "role2": "Frontend Developer\nReact, CSS", "score": 0.55}
+{"role1": "QA Automation\nTesting frameworks", "role2": "Mobile Developer\niOS apps", "score": 0.58}
+{"role1": "Software Engineer", "role2": "Software Engineer", "score": 1.0}
+{"role1": "Software Engineer\nVarious responsibilities", "role2": "Software Engineer", "score": 1.0}
+{"role1": "Backend Developer", "role2": "Backend Developer", "score": 1.0}
+{"role1": "Backend Developer\nVarious responsibilities", "role2": "Backend Developer", "score": 1.0}
+{"role1": "Frontend Developer", "role2": "Frontend Developer", "score": 1.0}
+{"role1": "Frontend Developer\nVarious responsibilities", "role2": "Frontend Developer", "score": 1.0}
+{"role1": "Data Scientist", "role2": "Data Scientist", "score": 1.0}
+{"role1": "Data Scientist\nVarious responsibilities", "role2": "Data Scientist", "score": 1.0}
+{"role1": "ML Engineer", "role2": "ML Engineer", "score": 1.0}
+{"role1": "ML Engineer\nVarious responsibilities", "role2": "ML Engineer", "score": 1.0}
+{"role1": "DevOps Engineer", "role2": "DevOps Engineer", "score": 1.0}
+{"role1": "DevOps Engineer\nVarious responsibilities", "role2": "DevOps Engineer", "score": 1.0}
+{"role1": "Mobile Engineer", "role2": "Mobile Engineer", "score": 1.0}
+{"role1": "Mobile Engineer\nVarious responsibilities", "role2": "Mobile Engineer", "score": 1.0}
+{"role1": "Software Engineer", "role2": "Backend Developer", "score": 0.65}
+{"role1": "Software Engineer\nTechnical development", "role2": "Backend Developer\nSoftware development", "score": 0.65}
+{"role1": "Software Engineer", "role2": "Frontend Developer", "score": 0.65}
+{"role1": "Software Engineer\nTechnical development", "role2": "Frontend Developer\nSoftware development", "score": 0.65}
+{"role1": "Software Engineer", "role2": "Full Stack Developer", "score": 0.65}
+{"role1": "Software Engineer\nTechnical development", "role2": "Full Stack Developer\nSoftware development", "score": 0.65}
+{"role1": "Software Engineer", "role2": "Data Scientist", "score": 0.65}
+{"role1": "Software Engineer\nTechnical development", "role2": "Data Scientist\nSoftware development", "score": 0.65}
+{"role1": "Software Engineer", "role2": "ML Engineer", "score": 0.7}
+{"role1": "Software Engineer\nTechnical development", "role2": "ML Engineer\nSoftware development", "score": 0.7}
+{"role1": "Software Engineer", "role2": "Data Engineer", "score": 0.7}
+{"role1": "Software Engineer\nTechnical development", "role2": "Data Engineer\nSoftware development", "score": 0.7}
+{"role1": "Software Engineer", "role2": "DevOps Engineer", "score": 0.7}
+{"role1": "Software Engineer\nTechnical development", "role2": "DevOps Engineer\nSoftware development", "score": 0.7}
+{"role1": "Software Engineer", "role2": "SRE", "score": 0.65}
+{"role1": "Software Engineer\nTechnical development", "role2": "SRE\nSoftware development", "score": 0.65}
+{"role1": "Software Engineer", "role2": "Mobile Engineer", "score": 0.7}
+{"role1": "Software Engineer\nTechnical development", "role2": "Mobile Engineer\nSoftware development", "score": 0.7}
+{"role1": "Software Engineer", "role2": "iOS Engineer", "score": 0.7}
+{"role1": "Software Engineer\nTechnical development", "role2": "iOS Engineer\nSoftware development", "score": 0.7}
+{"role1": "Software Engineer", "role2": "Android Engineer", "score": 0.7}
+{"role1": "Software Engineer\nTechnical development", "role2": "Android Engineer\nSoftware development", "score": 0.7}
+{"role1": "Software Engineer", "role2": "Security Engineer", "score": 0.7}
+{"role1": "Software Engineer\nTechnical development", "role2": "Security Engineer\nSoftware development", "score": 0.7}
+{"role1": "Software Engineer", "role2": "QA Engineer", "score": 0.7}
+{"role1": "Software Engineer\nTechnical development", "role2": "QA Engineer\nSoftware development", "score": 0.7}
+{"role1": "Backend Developer", "role2": "Frontend Developer", "score": 0.9}
+{"role1": "Backend Developer\nTechnical development", "role2": "Frontend Developer\nSoftware development", "score": 0.9}
+{"role1": "Backend Developer", "role2": "Full Stack Developer", "score": 0.9}
+{"role1": "Backend Developer\nTechnical development", "role2": "Full Stack Developer\nSoftware development", "score": 0.9}
+{"role1": "Backend Developer", "role2": "Data Scientist", "score": 0.65}
+{"role1": "Backend Developer\nTechnical development", "role2": "Data Scientist\nSoftware development", "score": 0.65}
+{"role1": "Backend Developer", "role2": "ML Engineer", "score": 0.65}
+{"role1": "Backend Developer\nTechnical development", "role2": "ML Engineer\nSoftware development", "score": 0.65}
+{"role1": "Backend Developer", "role2": "Data Engineer", "score": 0.65}
+{"role1": "Backend Developer\nTechnical development", "role2": "Data Engineer\nSoftware development", "score": 0.65}
+{"role1": "Backend Developer", "role2": "DevOps Engineer", "score": 0.65}
+{"role1": "Backend Developer\nTechnical development", "role2": "DevOps Engineer\nSoftware development", "score": 0.65}
+{"role1": "Backend Developer", "role2": "SRE", "score": 0.65}
+{"role1": "Backend Developer\nTechnical development", "role2": "SRE\nSoftware development", "score": 0.65}
+{"role1": "Backend Developer", "role2": "Mobile Engineer", "score": 0.65}
+{"role1": "Backend Developer\nTechnical development", "role2": "Mobile Engineer\nSoftware development", "score": 0.65}
+{"role1": "Backend Developer", "role2": "iOS Engineer", "score": 0.65}
+{"role1": "Backend Developer\nTechnical development", "role2": "iOS Engineer\nSoftware development", "score": 0.65}
+{"role1": "Backend Developer", "role2": "Android Engineer", "score": 0.65}
+{"role1": "Backend Developer\nTechnical development", "role2": "Android Engineer\nSoftware development", "score": 0.65}
+{"role1": "Backend Developer", "role2": "Security Engineer", "score": 0.65}
+{"role1": "Backend Developer\nTechnical development", "role2": "Security Engineer\nSoftware development", "score": 0.65}
+{"role1": "Backend Developer", "role2": "QA Engineer", "score": 0.65}
+{"role1": "Backend Developer\nTechnical development", "role2": "QA Engineer\nSoftware development", "score": 0.65}
+{"role1": "Frontend Developer", "role2": "Full Stack Developer", "score": 0.9}
+{"role1": "Frontend Developer\nTechnical development", "role2": "Full Stack Developer\nSoftware development", "score": 0.9}
+{"role1": "Frontend Developer", "role2": "Data Scientist", "score": 0.65}
+{"role1": "Frontend Developer\nTechnical development", "role2": "Data Scientist\nSoftware development", "score": 0.65}
+{"role1": "Frontend Developer", "role2": "ML Engineer", "score": 0.65}
+{"role1": "Frontend Developer\nTechnical development", "role2": "ML Engineer\nSoftware development", "score": 0.65}
+{"role1": "Frontend Developer", "role2": "Data Engineer", "score": 0.65}
+{"role1": "Frontend Developer\nTechnical development", "role2": "Data Engineer\nSoftware development", "score": 0.65}
+{"role1": "Frontend Developer", "role2": "DevOps Engineer", "score": 0.65}
+{"role1": "Frontend Developer\nTechnical development", "role2": "DevOps Engineer\nSoftware development", "score": 0.65}
+{"role1": "Frontend Developer", "role2": "SRE", "score": 0.65}
+{"role1": "Frontend Developer\nTechnical development", "role2": "SRE\nSoftware development", "score": 0.65}
+{"role1": "Frontend Developer", "role2": "Mobile Engineer", "score": 0.65}
+{"role1": "Frontend Developer\nTechnical development", "role2": "Mobile Engineer\nSoftware development", "score": 0.65}
+{"role1": "Frontend Developer", "role2": "iOS Engineer", "score": 0.65}
+{"role1": "Frontend Developer\nTechnical development", "role2": "iOS Engineer\nSoftware development", "score": 0.65}
+{"role1": "Frontend Developer", "role2": "Android Engineer", "score": 0.65}
+{"role1": "Frontend Developer\nTechnical development", "role2": "Android Engineer\nSoftware development", "score": 0.65}
+{"role1": "Frontend Developer", "role2": "Security Engineer", "score": 0.65}
+{"role1": "Frontend Developer\nTechnical development", "role2": "Security Engineer\nSoftware development", "score": 0.65}
+{"role1": "Frontend Developer", "role2": "QA Engineer", "score": 0.65}
+{"role1": "Frontend Developer\nTechnical development", "role2": "QA Engineer\nSoftware development", "score": 0.65}
+{"role1": "Full Stack Developer", "role2": "Data Scientist", "score": 0.65}
+{"role1": "Full Stack Developer\nTechnical development", "role2": "Data Scientist\nSoftware development", "score": 0.65}
+{"role1": "Full Stack Developer", "role2": "ML Engineer", "score": 0.65}
+{"role1": "Full Stack Developer\nTechnical development", "role2": "ML Engineer\nSoftware development", "score": 0.65}
+{"role1": "Full Stack Developer", "role2": "Data Engineer", "score": 0.65}
+{"role1": "Full Stack Developer\nTechnical development", "role2": "Data Engineer\nSoftware development", "score": 0.65}
+{"role1": "Full Stack Developer", "role2": "DevOps Engineer", "score": 0.65}
+{"role1": "Full Stack Developer\nTechnical development", "role2": "DevOps Engineer\nSoftware development", "score": 0.65}
+{"role1": "Full Stack Developer", "role2": "SRE", "score": 0.65}
+{"role1": "Full Stack Developer\nTechnical development", "role2": "SRE\nSoftware development", "score": 0.65}
+{"role1": "Full Stack Developer", "role2": "Mobile Engineer", "score": 0.65}
+{"role1": "Full Stack Developer\nTechnical development", "role2": "Mobile Engineer\nSoftware development", "score": 0.65}
+{"role1": "Full Stack Developer", "role2": "iOS Engineer", "score": 0.65}
+{"role1": "Full Stack Developer\nTechnical development", "role2": "iOS Engineer\nSoftware development", "score": 0.65}
+{"role1": "Full Stack Developer", "role2": "Android Engineer", "score": 0.65}
+{"role1": "Full Stack Developer\nTechnical development", "role2": "Android Engineer\nSoftware development", "score": 0.65}
+{"role1": "Full Stack Developer", "role2": "Security Engineer", "score": 0.65}
+{"role1": "Full Stack Developer\nTechnical development", "role2": "Security Engineer\nSoftware development", "score": 0.65}
+{"role1": "Full Stack Developer", "role2": "QA Engineer", "score": 0.65}
+{"role1": "Full Stack Developer\nTechnical development", "role2": "QA Engineer\nSoftware development", "score": 0.65}
+{"role1": "Data Scientist", "role2": "ML Engineer", "score": 0.65}
+{"role1": "Data Scientist\nTechnical development", "role2": "ML Engineer\nSoftware development", "score": 0.65}
+{"role1": "Data Scientist", "role2": "Data Engineer", "score": 0.85}
+{"role1": "Data Scientist\nTechnical development", "role2": "Data Engineer\nSoftware development", "score": 0.85}
+{"role1": "Data Scientist", "role2": "DevOps Engineer", "score": 0.65}
+{"role1": "Data Scientist\nTechnical development", "role2": "DevOps Engineer\nSoftware development", "score": 0.65}
+{"role1": "Data Scientist", "role2": "SRE", "score": 0.65}
+{"role1": "Data Scientist\nTechnical development", "role2": "SRE\nSoftware development", "score": 0.65}
+{"role1": "Data Scientist", "role2": "Mobile Engineer", "score": 0.65}
+{"role1": "Data Scientist\nTechnical development", "role2": "Mobile Engineer\nSoftware development", "score": 0.65}
+{"role1": "Data Scientist", "role2": "iOS Engineer", "score": 0.65}
+{"role1": "Data Scientist\nTechnical development", "role2": "iOS Engineer\nSoftware development", "score": 0.65}
+{"role1": "Data Scientist", "role2": "Android Engineer", "score": 0.65}
+{"role1": "Data Scientist\nTechnical development", "role2": "Android Engineer\nSoftware development", "score": 0.65}
+{"role1": "Data Scientist", "role2": "Security Engineer", "score": 0.65}
+{"role1": "Data Scientist\nTechnical development", "role2": "Security Engineer\nSoftware development", "score": 0.65}
+{"role1": "Data Scientist", "role2": "QA Engineer", "score": 0.65}
+{"role1": "Data Scientist\nTechnical development", "role2": "QA Engineer\nSoftware development", "score": 0.65}
+{"role1": "ML Engineer", "role2": "Data Engineer", "score": 0.7}
+{"role1": "ML Engineer\nTechnical development", "role2": "Data Engineer\nSoftware development", "score": 0.7}
+{"role1": "ML Engineer", "role2": "DevOps Engineer", "score": 0.7}
+{"role1": "ML Engineer\nTechnical development", "role2": "DevOps Engineer\nSoftware development", "score": 0.7}
+{"role1": "ML Engineer", "role2": "SRE", "score": 0.65}
+{"role1": "ML Engineer\nTechnical development", "role2": "SRE\nSoftware development", "score": 0.65}
+{"role1": "ML Engineer", "role2": "Mobile Engineer", "score": 0.7}
+{"role1": "ML Engineer\nTechnical development", "role2": "Mobile Engineer\nSoftware development", "score": 0.7}
+{"role1": "ML Engineer", "role2": "iOS Engineer", "score": 0.7}
+{"role1": "ML Engineer\nTechnical development", "role2": "iOS Engineer\nSoftware development", "score": 0.7}
+{"role1": "ML Engineer", "role2": "Android Engineer", "score": 0.7}
+{"role1": "ML Engineer\nTechnical development", "role2": "Android Engineer\nSoftware development", "score": 0.7}
+{"role1": "ML Engineer", "role2": "Security Engineer", "score": 0.7}
+{"role1": "ML Engineer\nTechnical development", "role2": "Security Engineer\nSoftware development", "score": 0.7}
+{"role1": "ML Engineer", "role2": "QA Engineer", "score": 0.7}
+{"role1": "ML Engineer\nTechnical development", "role2": "QA Engineer\nSoftware development", "score": 0.7}
+{"role1": "Data Engineer", "role2": "DevOps Engineer", "score": 0.7}
+{"role1": "Data Engineer\nTechnical development", "role2": "DevOps Engineer\nSoftware development", "score": 0.7}
+{"role1": "Data Engineer", "role2": "SRE", "score": 0.65}
+{"role1": "Data Engineer\nTechnical development", "role2": "SRE\nSoftware development", "score": 0.65}
+{"role1": "Data Engineer", "role2": "Mobile Engineer", "score": 0.7}
+{"role1": "Data Engineer\nTechnical development", "role2": "Mobile Engineer\nSoftware development", "score": 0.7}
+{"role1": "Data Engineer", "role2": "iOS Engineer", "score": 0.7}
+{"role1": "Data Engineer\nTechnical development", "role2": "iOS Engineer\nSoftware development", "score": 0.7}
+{"role1": "Data Engineer", "role2": "Android Engineer", "score": 0.7}
+{"role1": "Data Engineer\nTechnical development", "role2": "Android Engineer\nSoftware development", "score": 0.7}
+{"role1": "Data Engineer", "role2": "Security Engineer", "score": 0.7}
+{"role1": "Data Engineer\nTechnical development", "role2": "Security Engineer\nSoftware development", "score": 0.7}
+{"role1": "Data Engineer", "role2": "QA Engineer", "score": 0.7}
+{"role1": "Data Engineer\nTechnical development", "role2": "QA Engineer\nSoftware development", "score": 0.7}
+{"role1": "DevOps Engineer", "role2": "SRE", "score": 0.65}
+{"role1": "DevOps Engineer\nTechnical development", "role2": "SRE\nSoftware development", "score": 0.65}
+{"role1": "DevOps Engineer", "role2": "Mobile Engineer", "score": 0.7}
+{"role1": "DevOps Engineer\nTechnical development", "role2": "Mobile Engineer\nSoftware development", "score": 0.7}
+{"role1": "DevOps Engineer", "role2": "iOS Engineer", "score": 0.7}
+{"role1": "DevOps Engineer\nTechnical development", "role2": "iOS Engineer\nSoftware development", "score": 0.7}
+{"role1": "DevOps Engineer", "role2": "Android Engineer", "score": 0.7}
+{"role1": "DevOps Engineer\nTechnical development", "role2": "Android Engineer\nSoftware development", "score": 0.7}
+{"role1": "DevOps Engineer", "role2": "Security Engineer", "score": 0.7}
+{"role1": "DevOps Engineer\nTechnical development", "role2": "Security Engineer\nSoftware development", "score": 0.7}
+{"role1": "DevOps Engineer", "role2": "QA Engineer", "score": 0.7}
+{"role1": "DevOps Engineer\nTechnical development", "role2": "QA Engineer\nSoftware development", "score": 0.7}
+{"role1": "SRE", "role2": "Mobile Engineer", "score": 0.65}
+{"role1": "SRE\nTechnical development", "role2": "Mobile Engineer\nSoftware development", "score": 0.65}
+{"role1": "SRE", "role2": "iOS Engineer", "score": 0.65}
+{"role1": "SRE\nTechnical development", "role2": "iOS Engineer\nSoftware development", "score": 0.65}
+{"role1": "SRE", "role2": "Android Engineer", "score": 0.65}
+{"role1": "SRE\nTechnical development", "role2": "Android Engineer\nSoftware development", "score": 0.65}
+{"role1": "SRE", "role2": "Security Engineer", "score": 0.65}
+{"role1": "SRE\nTechnical development", "role2": "Security Engineer\nSoftware development", "score": 0.65}
+{"role1": "SRE", "role2": "QA Engineer", "score": 0.65}
+{"role1": "SRE\nTechnical development", "role2": "QA Engineer\nSoftware development", "score": 0.65}
+{"role1": "Mobile Engineer", "role2": "iOS Engineer", "score": 0.7}
+{"role1": "Mobile Engineer\nTechnical development", "role2": "iOS Engineer\nSoftware development", "score": 0.7}
+{"role1": "Mobile Engineer", "role2": "Android Engineer", "score": 0.7}
+{"role1": "Mobile Engineer\nTechnical development", "role2": "Android Engineer\nSoftware development", "score": 0.7}
+{"role1": "Mobile Engineer", "role2": "Security Engineer", "score": 0.7}
+{"role1": "Mobile Engineer\nTechnical development", "role2": "Security Engineer\nSoftware development", "score": 0.7}
+{"role1": "Mobile Engineer", "role2": "QA Engineer", "score": 0.7}
+{"role1": "Mobile Engineer\nTechnical development", "role2": "QA Engineer\nSoftware development", "score": 0.7}
+{"role1": "iOS Engineer", "role2": "Android Engineer", "score": 0.7}
+{"role1": "iOS Engineer\nTechnical development", "role2": "Android Engineer\nSoftware development", "score": 0.7}
+{"role1": "iOS Engineer", "role2": "Security Engineer", "score": 0.7}
+{"role1": "iOS Engineer\nTechnical development", "role2": "Security Engineer\nSoftware development", "score": 0.7}
+{"role1": "iOS Engineer", "role2": "QA Engineer", "score": 0.7}
+{"role1": "iOS Engineer\nTechnical development", "role2": "QA Engineer\nSoftware development", "score": 0.7}
+{"role1": "Android Engineer", "role2": "Security Engineer", "score": 0.7}
+{"role1": "Android Engineer\nTechnical development", "role2": "Security Engineer\nSoftware development", "score": 0.7}
+{"role1": "Android Engineer", "role2": "QA Engineer", "score": 0.7}
+{"role1": "Android Engineer\nTechnical development", "role2": "QA Engineer\nSoftware development", "score": 0.7}
+{"role1": "Security Engineer", "role2": "QA Engineer", "score": 0.7}
+{"role1": "Security Engineer\nTechnical development", "role2": "QA Engineer\nSoftware development", "score": 0.7}
+{"role1": "Cashier", "role2": "Software Engineer", "score": 0.05}
+{"role1": "Cashier\nExperienced professional", "role2": "Software Engineer\nTechnical role", "score": 0.05}
+{"role1": "Cashier", "role2": "Data Scientist", "score": 0.05}
+{"role1": "Cashier\nExperienced professional", "role2": "Data Scientist\nTechnical role", "score": 0.05}
+{"role1": "Cashier", "role2": "Backend Developer", "score": 0.05}
+{"role1": "Cashier\nExperienced professional", "role2": "Backend Developer\nTechnical role", "score": 0.05}
+{"role1": "Cashier", "role2": "ML Engineer", "score": 0.05}
+{"role1": "Cashier\nExperienced professional", "role2": "ML Engineer\nTechnical role", "score": 0.05}
+{"role1": "Waiter", "role2": "Software Engineer", "score": 0.05}
+{"role1": "Waiter\nExperienced professional", "role2": "Software Engineer\nTechnical role", "score": 0.05}
+{"role1": "Waiter", "role2": "Data Scientist", "score": 0.05}
+{"role1": "Waiter\nExperienced professional", "role2": "Data Scientist\nTechnical role", "score": 0.05}
+{"role1": "Waiter", "role2": "Backend Developer", "score": 0.05}
+{"role1": "Waiter\nExperienced professional", "role2": "Backend Developer\nTechnical role", "score": 0.05}
+{"role1": "Waiter", "role2": "ML Engineer", "score": 0.05}
+{"role1": "Waiter\nExperienced professional", "role2": "ML Engineer\nTechnical role", "score": 0.05}
+{"role1": "Chef", "role2": "Software Engineer", "score": 0.05}
+{"role1": "Chef\nExperienced professional", "role2": "Software Engineer\nTechnical role", "score": 0.05}
+{"role1": "Chef", "role2": "Data Scientist", "score": 0.05}
+{"role1": "Chef\nExperienced professional", "role2": "Data Scientist\nTechnical role", "score": 0.05}
+{"role1": "Chef", "role2": "Backend Developer", "score": 0.05}
+{"role1": "Chef\nExperienced professional", "role2": "Backend Developer\nTechnical role", "score": 0.05}
+{"role1": "Chef", "role2": "ML Engineer", "score": 0.05}
+{"role1": "Chef\nExperienced professional", "role2": "ML Engineer\nTechnical role", "score": 0.05}
+{"role1": "Bartender", "role2": "Software Engineer", "score": 0.05}
+{"role1": "Bartender\nExperienced professional", "role2": "Software Engineer\nTechnical role", "score": 0.05}
+{"role1": "Bartender", "role2": "Data Scientist", "score": 0.05}
+{"role1": "Bartender\nExperienced professional", "role2": "Data Scientist\nTechnical role", "score": 0.05}
+{"role1": "Bartender", "role2": "Backend Developer", "score": 0.05}
+{"role1": "Bartender\nExperienced professional", "role2": "Backend Developer\nTechnical role", "score": 0.05}
+{"role1": "Bartender", "role2": "ML Engineer", "score": 0.05}
+{"role1": "Bartender\nExperienced professional", "role2": "ML Engineer\nTechnical role", "score": 0.05}
+{"role1": "Dish washer", "role2": "Software Engineer", "score": 0.05}
+{"role1": "Dish washer\nExperienced professional", "role2": "Software Engineer\nTechnical role", "score": 0.05}
+{"role1": "Dish washer", "role2": "Data Scientist", "score": 0.05}
+{"role1": "Dish washer\nExperienced professional", "role2": "Data Scientist\nTechnical role", "score": 0.05}
+{"role1": "Dish washer", "role2": "Backend Developer", "score": 0.05}
+{"role1": "Dish washer\nExperienced professional", "role2": "Backend Developer\nTechnical role", "score": 0.05}
+{"role1": "Dish washer", "role2": "ML Engineer", "score": 0.05}
+{"role1": "Dish washer\nExperienced professional", "role2": "ML Engineer\nTechnical role", "score": 0.05}
+{"role1": "Server", "role2": "Software Engineer", "score": 0.05}
+{"role1": "Server\nExperienced professional", "role2": "Software Engineer\nTechnical role", "score": 0.05}
+{"role1": "Server", "role2": "Data Scientist", "score": 0.05}
+{"role1": "Server\nExperienced professional", "role2": "Data Scientist\nTechnical role", "score": 0.05}
+{"role1": "Server", "role2": "Backend Developer", "score": 0.05}
+{"role1": "Server\nExperienced professional", "role2": "Backend Developer\nTechnical role", "score": 0.05}
+{"role1": "Server", "role2": "ML Engineer", "score": 0.05}
+{"role1": "Server\nExperienced professional", "role2": "ML Engineer\nTechnical role", "score": 0.05}
+{"role1": "Cook", "role2": "Software Engineer", "score": 0.05}
+{"role1": "Cook\nExperienced professional", "role2": "Software Engineer\nTechnical role", "score": 0.05}
+{"role1": "Cook", "role2": "Data Scientist", "score": 0.05}
+{"role1": "Cook\nExperienced professional", "role2": "Data Scientist\nTechnical role", "score": 0.05}
+{"role1": "Cook", "role2": "Backend Developer", "score": 0.05}
+{"role1": "Cook\nExperienced professional", "role2": "Backend Developer\nTechnical role", "score": 0.05}
+{"role1": "Cook", "role2": "ML Engineer", "score": 0.05}
+{"role1": "Cook\nExperienced professional", "role2": "ML Engineer\nTechnical role", "score": 0.05}
+{"role1": "Accountant", "role2": "Software Engineer", "score": 0.08}
+{"role1": "Accountant\nExperienced professional", "role2": "Software Engineer\nTechnical role", "score": 0.08}
+{"role1": "Accountant", "role2": "Data Scientist", "score": 0.08}
+{"role1": "Accountant\nExperienced professional", "role2": "Data Scientist\nTechnical role", "score": 0.08}
+{"role1": "Accountant", "role2": "Backend Developer", "score": 0.08}
+{"role1": "Accountant\nExperienced professional", "role2": "Backend Developer\nTechnical role", "score": 0.08}
+{"role1": "Accountant", "role2": "ML Engineer", "score": 0.08}
+{"role1": "Accountant\nExperienced professional", "role2": "ML Engineer\nTechnical role", "score": 0.08}
+{"role1": "Auditor", "role2": "Software Engineer", "score": 0.08}
+{"role1": "Auditor\nExperienced professional", "role2": "Software Engineer\nTechnical role", "score": 0.08}
+{"role1": "Auditor", "role2": "Data Scientist", "score": 0.08}
+{"role1": "Auditor\nExperienced professional", "role2": "Data Scientist\nTechnical role", "score": 0.08}
+{"role1": "Auditor", "role2": "Backend Developer", "score": 0.08}
+{"role1": "Auditor\nExperienced professional", "role2": "Backend Developer\nTechnical role", "score": 0.08}
+{"role1": "Auditor", "role2": "ML Engineer", "score": 0.08}
+{"role1": "Auditor\nExperienced professional", "role2": "ML Engineer\nTechnical role", "score": 0.08}
+{"role1": "Bookkeeper", "role2": "Software Engineer", "score": 0.08}
+{"role1": "Bookkeeper\nExperienced professional", "role2": "Software Engineer\nTechnical role", "score": 0.08}
+{"role1": "Bookkeeper", "role2": "Data Scientist", "score": 0.08}
+{"role1": "Bookkeeper\nExperienced professional", "role2": "Data Scientist\nTechnical role", "score": 0.08}
+{"role1": "Bookkeeper", "role2": "Backend Developer", "score": 0.08}
+{"role1": "Bookkeeper\nExperienced professional", "role2": "Backend Developer\nTechnical role", "score": 0.08}
+{"role1": "Bookkeeper", "role2": "ML Engineer", "score": 0.08}
+{"role1": "Bookkeeper\nExperienced professional", "role2": "ML Engineer\nTechnical role", "score": 0.08}
+{"role1": "Financial Analyst", "role2": "Software Engineer", "score": 0.1}
+{"role1": "Financial Analyst\nExperienced professional", "role2": "Software Engineer\nTechnical role", "score": 0.1}
+{"role1": "Financial Analyst", "role2": "Data Scientist", "score": 0.1}
+{"role1": "Financial Analyst\nExperienced professional", "role2": "Data Scientist\nTechnical role", "score": 0.1}
+{"role1": "Financial Analyst", "role2": "Backend Developer", "score": 0.1}
+{"role1": "Financial Analyst\nExperienced professional", "role2": "Backend Developer\nTechnical role", "score": 0.1}
+{"role1": "Financial Analyst", "role2": "ML Engineer", "score": 0.1}
+{"role1": "Financial Analyst\nExperienced professional", "role2": "ML Engineer\nTechnical role", "score": 0.1}
+{"role1": "Tax Specialist", "role2": "Software Engineer", "score": 0.08}
+{"role1": "Tax Specialist\nExperienced professional", "role2": "Software Engineer\nTechnical role", "score": 0.08}
+{"role1": "Tax Specialist", "role2": "Data Scientist", "score": 0.08}
+{"role1": "Tax Specialist\nExperienced professional", "role2": "Data Scientist\nTechnical role", "score": 0.08}
+{"role1": "Tax Specialist", "role2": "Backend Developer", "score": 0.08}
+{"role1": "Tax Specialist\nExperienced professional", "role2": "Backend Developer\nTechnical role", "score": 0.08}
+{"role1": "Tax Specialist", "role2": "ML Engineer", "score": 0.08}
+{"role1": "Tax Specialist\nExperienced professional", "role2": "ML Engineer\nTechnical role", "score": 0.08}
+{"role1": "Marketing Manager", "role2": "Software Engineer", "score": 0.08}
+{"role1": "Marketing Manager\nExperienced professional", "role2": "Software Engineer\nTechnical role", "score": 0.08}
+{"role1": "Marketing Manager", "role2": "Data Scientist", "score": 0.08}
+{"role1": "Marketing Manager\nExperienced professional", "role2": "Data Scientist\nTechnical role", "score": 0.08}
+{"role1": "Marketing Manager", "role2": "Backend Developer", "score": 0.08}
+{"role1": "Marketing Manager\nExperienced professional", "role2": "Backend Developer\nTechnical role", "score": 0.08}
+{"role1": "Marketing Manager", "role2": "ML Engineer", "score": 0.08}
+{"role1": "Marketing Manager\nExperienced professional", "role2": "ML Engineer\nTechnical role", "score": 0.08}
+{"role1": "Sales Manager", "role2": "Software Engineer", "score": 0.08}
+{"role1": "Sales Manager\nExperienced professional", "role2": "Software Engineer\nTechnical role", "score": 0.08}
+{"role1": "Sales Manager", "role2": "Data Scientist", "score": 0.08}
+{"role1": "Sales Manager\nExperienced professional", "role2": "Data Scientist\nTechnical role", "score": 0.08}
+{"role1": "Sales Manager", "role2": "Backend Developer", "score": 0.08}
+{"role1": "Sales Manager\nExperienced professional", "role2": "Backend Developer\nTechnical role", "score": 0.08}
+{"role1": "Sales Manager", "role2": "ML Engineer", "score": 0.08}
+{"role1": "Sales Manager\nExperienced professional", "role2": "ML Engineer\nTechnical role", "score": 0.08}
+{"role1": "HR Manager", "role2": "Software Engineer", "score": 0.1}
+{"role1": "HR Manager\nExperienced professional", "role2": "Software Engineer\nTechnical role", "score": 0.1}
+{"role1": "HR Manager", "role2": "Data Scientist", "score": 0.1}
+{"role1": "HR Manager\nExperienced professional", "role2": "Data Scientist\nTechnical role", "score": 0.1}
+{"role1": "HR Manager", "role2": "Backend Developer", "score": 0.1}
+{"role1": "HR Manager\nExperienced professional", "role2": "Backend Developer\nTechnical role", "score": 0.1}
+{"role1": "HR Manager", "role2": "ML Engineer", "score": 0.1}
+{"role1": "HR Manager\nExperienced professional", "role2": "ML Engineer\nTechnical role", "score": 0.1}
+{"role1": "Recruiter", "role2": "Software Engineer", "score": 0.05}
+{"role1": "Recruiter\nExperienced professional", "role2": "Software Engineer\nTechnical role", "score": 0.05}
+{"role1": "Recruiter", "role2": "Data Scientist", "score": 0.05}
+{"role1": "Recruiter\nExperienced professional", "role2": "Data Scientist\nTechnical role", "score": 0.05}
+{"role1": "Recruiter", "role2": "Backend Developer", "score": 0.05}
+{"role1": "Recruiter\nExperienced professional", "role2": "Backend Developer\nTechnical role", "score": 0.05}
+{"role1": "Recruiter", "role2": "ML Engineer", "score": 0.05}
+{"role1": "Recruiter\nExperienced professional", "role2": "ML Engineer\nTechnical role", "score": 0.05}
+{"role1": "Social Media Manager", "role2": "Software Engineer", "score": 0.1}
+{"role1": "Social Media Manager\nExperienced professional", "role2": "Software Engineer\nTechnical role", "score": 0.1}
+{"role1": "Social Media Manager", "role2": "Data Scientist", "score": 0.1}
+{"role1": "Social Media Manager\nExperienced professional", "role2": "Data Scientist\nTechnical role", "score": 0.1}
+{"role1": "Social Media Manager", "role2": "Backend Developer", "score": 0.1}
+{"role1": "Social Media Manager\nExperienced professional", "role2": "Backend Developer\nTechnical role", "score": 0.1}
+{"role1": "Social Media Manager", "role2": "ML Engineer", "score": 0.1}
+{"role1": "Social Media Manager\nExperienced professional", "role2": "ML Engineer\nTechnical role", "score": 0.1}
+{"role1": "Teacher", "role2": "Software Engineer", "score": 0.08}
+{"role1": "Teacher\nExperienced professional", "role2": "Software Engineer\nTechnical role", "score": 0.08}
+{"role1": "Teacher", "role2": "Data Scientist", "score": 0.08}
+{"role1": "Teacher\nExperienced professional", "role2": "Data Scientist\nTechnical role", "score": 0.08}
+{"role1": "Teacher", "role2": "Backend Developer", "score": 0.08}
+{"role1": "Teacher\nExperienced professional", "role2": "Backend Developer\nTechnical role", "score": 0.08}
+{"role1": "Teacher", "role2": "ML Engineer", "score": 0.08}
+{"role1": "Teacher\nExperienced professional", "role2": "ML Engineer\nTechnical role", "score": 0.08}
+{"role1": "Professor", "role2": "Software Engineer", "score": 0.08}
+{"role1": "Professor\nExperienced professional", "role2": "Software Engineer\nTechnical role", "score": 0.08}
+{"role1": "Professor", "role2": "Data Scientist", "score": 0.08}
+{"role1": "Professor\nExperienced professional", "role2": "Data Scientist\nTechnical role", "score": 0.08}
+{"role1": "Professor", "role2": "Backend Developer", "score": 0.08}
+{"role1": "Professor\nExperienced professional", "role2": "Backend Developer\nTechnical role", "score": 0.08}
+{"role1": "Professor", "role2": "ML Engineer", "score": 0.08}
+{"role1": "Professor\nExperienced professional", "role2": "ML Engineer\nTechnical role", "score": 0.08}
+{"role1": "Instructor", "role2": "Software Engineer", "score": 0.08}
+{"role1": "Instructor\nExperienced professional", "role2": "Software Engineer\nTechnical role", "score": 0.08}
+{"role1": "Instructor", "role2": "Data Scientist", "score": 0.08}
+{"role1": "Instructor\nExperienced professional", "role2": "Data Scientist\nTechnical role", "score": 0.08}
+{"role1": "Instructor", "role2": "Backend Developer", "score": 0.08}
+{"role1": "Instructor\nExperienced professional", "role2": "Backend Developer\nTechnical role", "score": 0.08}
+{"role1": "Instructor", "role2": "ML Engineer", "score": 0.08}
+{"role1": "Instructor\nExperienced professional", "role2": "ML Engineer\nTechnical role", "score": 0.08}
+{"role1": "Nurse", "role2": "Software Engineer", "score": 0.08}
+{"role1": "Nurse\nExperienced professional", "role2": "Software Engineer\nTechnical role", "score": 0.08}
+{"role1": "Nurse", "role2": "Data Scientist", "score": 0.08}
+{"role1": "Nurse\nExperienced professional", "role2": "Data Scientist\nTechnical role", "score": 0.08}
+{"role1": "Nurse", "role2": "Backend Developer", "score": 0.08}
+{"role1": "Nurse\nExperienced professional", "role2": "Backend Developer\nTechnical role", "score": 0.08}
+{"role1": "Nurse", "role2": "ML Engineer", "score": 0.08}
+{"role1": "Nurse\nExperienced professional", "role2": "ML Engineer\nTechnical role", "score": 0.08}
+{"role1": "Doctor", "role2": "Software Engineer", "score": 0.08}
+{"role1": "Doctor\nExperienced professional", "role2": "Software Engineer\nTechnical role", "score": 0.08}
+{"role1": "Doctor", "role2": "Data Scientist", "score": 0.08}
+{"role1": "Doctor\nExperienced professional", "role2": "Data Scientist\nTechnical role", "score": 0.08}
+{"role1": "Doctor", "role2": "Backend Developer", "score": 0.08}
+{"role1": "Doctor\nExperienced professional", "role2": "Backend Developer\nTechnical role", "score": 0.08}
+{"role1": "Doctor", "role2": "ML Engineer", "score": 0.08}
+{"role1": "Doctor\nExperienced professional", "role2": "ML Engineer\nTechnical role", "score": 0.08}
+{"role1": "Therapist", "role2": "Software Engineer", "score": 0.08}
+{"role1": "Therapist\nExperienced professional", "role2": "Software Engineer\nTechnical role", "score": 0.08}
+{"role1": "Therapist", "role2": "Data Scientist", "score": 0.08}
+{"role1": "Therapist\nExperienced professional", "role2": "Data Scientist\nTechnical role", "score": 0.08}
+{"role1": "Therapist", "role2": "Backend Developer", "score": 0.08}
+{"role1": "Therapist\nExperienced professional", "role2": "Backend Developer\nTechnical role", "score": 0.08}
+{"role1": "Therapist", "role2": "ML Engineer", "score": 0.08}
+{"role1": "Therapist\nExperienced professional", "role2": "ML Engineer\nTechnical role", "score": 0.08}
+{"role1": "Lawyer", "role2": "Software Engineer", "score": 0.1}
+{"role1": "Lawyer\nExperienced professional", "role2": "Software Engineer\nTechnical role", "score": 0.1}
+{"role1": "Lawyer", "role2": "Data Scientist", "score": 0.1}
+{"role1": "Lawyer\nExperienced professional", "role2": "Data Scientist\nTechnical role", "score": 0.1}
+{"role1": "Lawyer", "role2": "Backend Developer", "score": 0.1}
+{"role1": "Lawyer\nExperienced professional", "role2": "Backend Developer\nTechnical role", "score": 0.1}
+{"role1": "Lawyer", "role2": "ML Engineer", "score": 0.1}
+{"role1": "Lawyer\nExperienced professional", "role2": "ML Engineer\nTechnical role", "score": 0.1}
+{"role1": "Paralegal", "role2": "Software Engineer", "score": 0.08}
+{"role1": "Paralegal\nExperienced professional", "role2": "Software Engineer\nTechnical role", "score": 0.08}
+{"role1": "Paralegal", "role2": "Data Scientist", "score": 0.08}
+{"role1": "Paralegal\nExperienced professional", "role2": "Data Scientist\nTechnical role", "score": 0.08}
+{"role1": "Paralegal", "role2": "Backend Developer", "score": 0.08}
+{"role1": "Paralegal\nExperienced professional", "role2": "Backend Developer\nTechnical role", "score": 0.08}
+{"role1": "Paralegal", "role2": "ML Engineer", "score": 0.08}
+{"role1": "Paralegal\nExperienced professional", "role2": "ML Engineer\nTechnical role", "score": 0.08}
+{"role1": "Construction Worker", "role2": "Software Engineer", "score": 0.05}
+{"role1": "Construction Worker\nExperienced professional", "role2": "Software Engineer\nTechnical role", "score": 0.05}
+{"role1": "Construction Worker", "role2": "Data Scientist", "score": 0.05}
+{"role1": "Construction Worker\nExperienced professional", "role2": "Data Scientist\nTechnical role", "score": 0.05}
+{"role1": "Construction Worker", "role2": "Backend Developer", "score": 0.05}
+{"role1": "Construction Worker\nExperienced professional", "role2": "Backend Developer\nTechnical role", "score": 0.05}
+{"role1": "Construction Worker", "role2": "ML Engineer", "score": 0.05}
+{"role1": "Construction Worker\nExperienced professional", "role2": "ML Engineer\nTechnical role", "score": 0.05}
+{"role1": "Electrician", "role2": "Software Engineer", "score": 0.1}
+{"role1": "Electrician\nExperienced professional", "role2": "Software Engineer\nTechnical role", "score": 0.1}
+{"role1": "Electrician", "role2": "Data Scientist", "score": 0.1}
+{"role1": "Electrician\nExperienced professional", "role2": "Data Scientist\nTechnical role", "score": 0.1}
+{"role1": "Electrician", "role2": "Backend Developer", "score": 0.1}
+{"role1": "Electrician\nExperienced professional", "role2": "Backend Developer\nTechnical role", "score": 0.1}
+{"role1": "Electrician", "role2": "ML Engineer", "score": 0.1}
+{"role1": "Electrician\nExperienced professional", "role2": "ML Engineer\nTechnical role", "score": 0.1}
+{"role1": "Plumber", "role2": "Software Engineer", "score": 0.05}
+{"role1": "Plumber\nExperienced professional", "role2": "Software Engineer\nTechnical role", "score": 0.05}
+{"role1": "Plumber", "role2": "Data Scientist", "score": 0.05}
+{"role1": "Plumber\nExperienced professional", "role2": "Data Scientist\nTechnical role", "score": 0.05}
+{"role1": "Plumber", "role2": "Backend Developer", "score": 0.05}
+{"role1": "Plumber\nExperienced professional", "role2": "Backend Developer\nTechnical role", "score": 0.05}
+{"role1": "Plumber", "role2": "ML Engineer", "score": 0.05}
+{"role1": "Plumber\nExperienced professional", "role2": "ML Engineer\nTechnical role", "score": 0.05}
+{"role1": "Mechanic", "role2": "Software Engineer", "score": 0.08}
+{"role1": "Mechanic\nExperienced professional", "role2": "Software Engineer\nTechnical role", "score": 0.08}
+{"role1": "Mechanic", "role2": "Data Scientist", "score": 0.08}
+{"role1": "Mechanic\nExperienced professional", "role2": "Data Scientist\nTechnical role", "score": 0.08}
+{"role1": "Mechanic", "role2": "Backend Developer", "score": 0.08}
+{"role1": "Mechanic\nExperienced professional", "role2": "Backend Developer\nTechnical role", "score": 0.08}
+{"role1": "Mechanic", "role2": "ML Engineer", "score": 0.08}
+{"role1": "Mechanic\nExperienced professional", "role2": "ML Engineer\nTechnical role", "score": 0.08}
+{"role1": "Truck Driver", "role2": "Software Engineer", "score": 0.05}
+{"role1": "Truck Driver\nExperienced professional", "role2": "Software Engineer\nTechnical role", "score": 0.05}
+{"role1": "Truck Driver", "role2": "Data Scientist", "score": 0.05}
+{"role1": "Truck Driver\nExperienced professional", "role2": "Data Scientist\nTechnical role", "score": 0.05}
+{"role1": "Truck Driver", "role2": "Backend Developer", "score": 0.05}
+{"role1": "Truck Driver\nExperienced professional", "role2": "Backend Developer\nTechnical role", "score": 0.05}
+{"role1": "Truck Driver", "role2": "ML Engineer", "score": 0.05}
+{"role1": "Truck Driver\nExperienced professional", "role2": "ML Engineer\nTechnical role", "score": 0.05}
+{"role1": "Delivery Driver", "role2": "Software Engineer", "score": 0.05}
+{"role1": "Delivery Driver\nExperienced professional", "role2": "Software Engineer\nTechnical role", "score": 0.05}
+{"role1": "Delivery Driver", "role2": "Data Scientist", "score": 0.05}
+{"role1": "Delivery Driver\nExperienced professional", "role2": "Data Scientist\nTechnical role", "score": 0.05}
+{"role1": "Delivery Driver", "role2": "Backend Developer", "score": 0.05}
+{"role1": "Delivery Driver\nExperienced professional", "role2": "Backend Developer\nTechnical role", "score": 0.05}
+{"role1": "Delivery Driver", "role2": "ML Engineer", "score": 0.05}
+{"role1": "Delivery Driver\nExperienced professional", "role2": "ML Engineer\nTechnical role", "score": 0.05}
+{"role1": "Retail Manager", "role2": "Software Engineer", "score": 0.08}
+{"role1": "Retail Manager\nExperienced professional", "role2": "Software Engineer\nTechnical role", "score": 0.08}
+{"role1": "Retail Manager", "role2": "Data Scientist", "score": 0.08}
+{"role1": "Retail Manager\nExperienced professional", "role2": "Data Scientist\nTechnical role", "score": 0.08}
+{"role1": "Retail Manager", "role2": "Backend Developer", "score": 0.08}
+{"role1": "Retail Manager\nExperienced professional", "role2": "Backend Developer\nTechnical role", "score": 0.08}
+{"role1": "Retail Manager", "role2": "ML Engineer", "score": 0.08}
+{"role1": "Retail Manager\nExperienced professional", "role2": "ML Engineer\nTechnical role", "score": 0.08}
+{"role1": "Store Clerk", "role2": "Software Engineer", "score": 0.05}
+{"role1": "Store Clerk\nExperienced professional", "role2": "Software Engineer\nTechnical role", "score": 0.05}
+{"role1": "Store Clerk", "role2": "Data Scientist", "score": 0.05}
+{"role1": "Store Clerk\nExperienced professional", "role2": "Data Scientist\nTechnical role", "score": 0.05}
+{"role1": "Store Clerk", "role2": "Backend Developer", "score": 0.05}
+{"role1": "Store Clerk\nExperienced professional", "role2": "Backend Developer\nTechnical role", "score": 0.05}
+{"role1": "Store Clerk", "role2": "ML Engineer", "score": 0.05}
+{"role1": "Store Clerk\nExperienced professional", "role2": "ML Engineer\nTechnical role", "score": 0.05}
+{"role1": "Real Estate Agent", "role2": "Software Engineer", "score": 0.08}
+{"role1": "Real Estate Agent\nExperienced professional", "role2": "Software Engineer\nTechnical role", "score": 0.08}
+{"role1": "Real Estate Agent", "role2": "Data Scientist", "score": 0.08}
+{"role1": "Real Estate Agent\nExperienced professional", "role2": "Data Scientist\nTechnical role", "score": 0.08}
+{"role1": "Real Estate Agent", "role2": "Backend Developer", "score": 0.08}
+{"role1": "Real Estate Agent\nExperienced professional", "role2": "Backend Developer\nTechnical role", "score": 0.08}
+{"role1": "Real Estate Agent", "role2": "ML Engineer", "score": 0.08}
+{"role1": "Real Estate Agent\nExperienced professional", "role2": "ML Engineer\nTechnical role", "score": 0.08}
+{"role1": "Insurance Agent", "role2": "Software Engineer", "score": 0.1}
+{"role1": "Insurance Agent\nExperienced professional", "role2": "Software Engineer\nTechnical role", "score": 0.1}
+{"role1": "Insurance Agent", "role2": "Data Scientist", "score": 0.1}
+{"role1": "Insurance Agent\nExperienced professional", "role2": "Data Scientist\nTechnical role", "score": 0.1}
+{"role1": "Insurance Agent", "role2": "Backend Developer", "score": 0.1}
+{"role1": "Insurance Agent\nExperienced professional", "role2": "Backend Developer\nTechnical role", "score": 0.1}
+{"role1": "Insurance Agent", "role2": "ML Engineer", "score": 0.1}
+{"role1": "Insurance Agent\nExperienced professional", "role2": "ML Engineer\nTechnical role", "score": 0.1}
+{"role1": "Photographer", "role2": "Software Engineer", "score": 0.1}
+{"role1": "Photographer\nExperienced professional", "role2": "Software Engineer\nTechnical role", "score": 0.1}
+{"role1": "Photographer", "role2": "Data Scientist", "score": 0.1}
+{"role1": "Photographer\nExperienced professional", "role2": "Data Scientist\nTechnical role", "score": 0.1}
+{"role1": "Photographer", "role2": "Backend Developer", "score": 0.1}
+{"role1": "Photographer\nExperienced professional", "role2": "Backend Developer\nTechnical role", "score": 0.1}
+{"role1": "Photographer", "role2": "ML Engineer", "score": 0.1}
+{"role1": "Photographer\nExperienced professional", "role2": "ML Engineer\nTechnical role", "score": 0.1}
+{"role1": "Graphic Designer", "role2": "Software Engineer", "score": 0.12}
+{"role1": "Graphic Designer\nExperienced professional", "role2": "Software Engineer\nTechnical role", "score": 0.12}
+{"role1": "Graphic Designer", "role2": "Data Scientist", "score": 0.12}
+{"role1": "Graphic Designer\nExperienced professional", "role2": "Data Scientist\nTechnical role", "score": 0.12}
+{"role1": "Graphic Designer", "role2": "Backend Developer", "score": 0.12}
+{"role1": "Graphic Designer\nExperienced professional", "role2": "Backend Developer\nTechnical role", "score": 0.12}
+{"role1": "Graphic Designer", "role2": "ML Engineer", "score": 0.12}
+{"role1": "Graphic Designer\nExperienced professional", "role2": "ML Engineer\nTechnical role", "score": 0.12}
+{"role1": "Junior Software Engineer", "role2": "Junior Software Engineer", "score": 0.98}
+{"role1": "Junior Software Engineer", "role2": "Mid-level Software Engineer", "score": 0.98}
+{"role1": "Junior Software Engineer", "role2": "Senior Software Engineer", "score": 0.98}
+{"role1": "Junior Software Engineer", "role2": "Staff Software Engineer", "score": 0.98}
+{"role1": "Junior Software Engineer", "role2": "Principal Software Engineer", "score": 0.98}
+{"role1": "Junior Software Engineer", "role2": "Lead Software Engineer", "score": 0.98}
+{"role1": "Mid-level Software Engineer", "role2": "Junior Software Engineer", "score": 0.98}
+{"role1": "Mid-level Software Engineer", "role2": "Mid-level Software Engineer", "score": 0.98}
+{"role1": "Mid-level Software Engineer", "role2": "Senior Software Engineer", "score": 0.98}
+{"role1": "Mid-level Software Engineer", "role2": "Staff Software Engineer", "score": 0.98}
+{"role1": "Mid-level Software Engineer", "role2": "Principal Software Engineer", "score": 0.98}
+{"role1": "Mid-level Software Engineer", "role2": "Lead Software Engineer", "score": 0.98}
+{"role1": "Senior Software Engineer", "role2": "Junior Software Engineer", "score": 0.98}
+{"role1": "Senior Software Engineer", "role2": "Mid-level Software Engineer", "score": 0.98}
+{"role1": "Senior Software Engineer", "role2": "Senior Software Engineer", "score": 0.98}
+{"role1": "Senior Software Engineer", "role2": "Staff Software Engineer", "score": 0.98}
+{"role1": "Senior Software Engineer", "role2": "Principal Software Engineer", "score": 0.98}
+{"role1": "Senior Software Engineer", "role2": "Lead Software Engineer", "score": 0.98}
+{"role1": "Staff Software Engineer", "role2": "Junior Software Engineer", "score": 0.98}
+{"role1": "Staff Software Engineer", "role2": "Mid-level Software Engineer", "score": 0.98}
+{"role1": "Staff Software Engineer", "role2": "Senior Software Engineer", "score": 0.98}
+{"role1": "Staff Software Engineer", "role2": "Staff Software Engineer", "score": 0.98}
+{"role1": "Staff Software Engineer", "role2": "Principal Software Engineer", "score": 0.98}
+{"role1": "Staff Software Engineer", "role2": "Lead Software Engineer", "score": 0.98}
+{"role1": "Principal Software Engineer", "role2": "Junior Software Engineer", "score": 0.98}
+{"role1": "Principal Software Engineer", "role2": "Mid-level Software Engineer", "score": 0.98}
+{"role1": "Principal Software Engineer", "role2": "Senior Software Engineer", "score": 0.98}
+{"role1": "Principal Software Engineer", "role2": "Staff Software Engineer", "score": 0.98}
+{"role1": "Principal Software Engineer", "role2": "Principal Software Engineer", "score": 0.98}
+{"role1": "Principal Software Engineer", "role2": "Lead Software Engineer", "score": 0.98}
+{"role1": "Lead Software Engineer", "role2": "Junior Software Engineer", "score": 0.98}
+{"role1": "Lead Software Engineer", "role2": "Mid-level Software Engineer", "score": 0.98}
+{"role1": "Lead Software Engineer", "role2": "Senior Software Engineer", "score": 0.98}
+{"role1": "Lead Software Engineer", "role2": "Staff Software Engineer", "score": 0.98}
+{"role1": "Lead Software Engineer", "role2": "Principal Software Engineer", "score": 0.98}
+{"role1": "Lead Software Engineer", "role2": "Lead Software Engineer", "score": 0.98}
+{"role1": "Junior Data Scientist", "role2": "Junior Data Scientist", "score": 0.98}
+{"role1": "Junior Data Scientist", "role2": "Mid-level Data Scientist", "score": 0.98}
+{"role1": "Junior Data Scientist", "role2": "Senior Data Scientist", "score": 0.98}
+{"role1": "Junior Data Scientist", "role2": "Staff Data Scientist", "score": 0.98}
+{"role1": "Junior Data Scientist", "role2": "Principal Data Scientist", "score": 0.98}
+{"role1": "Junior Data Scientist", "role2": "Lead Data Scientist", "score": 0.98}
+{"role1": "Mid-level Data Scientist", "role2": "Junior Data Scientist", "score": 0.98}
+{"role1": "Mid-level Data Scientist", "role2": "Mid-level Data Scientist", "score": 0.98}
+{"role1": "Mid-level Data Scientist", "role2": "Senior Data Scientist", "score": 0.98}
+{"role1": "Mid-level Data Scientist", "role2": "Staff Data Scientist", "score": 0.98}
+{"role1": "Mid-level Data Scientist", "role2": "Principal Data Scientist", "score": 0.98}
+{"role1": "Mid-level Data Scientist", "role2": "Lead Data Scientist", "score": 0.98}
+{"role1": "Senior Data Scientist", "role2": "Junior Data Scientist", "score": 0.98}
+{"role1": "Senior Data Scientist", "role2": "Mid-level Data Scientist", "score": 0.98}
+{"role1": "Senior Data Scientist", "role2": "Senior Data Scientist", "score": 0.98}
+{"role1": "Senior Data Scientist", "role2": "Staff Data Scientist", "score": 0.98}
+{"role1": "Senior Data Scientist", "role2": "Principal Data Scientist", "score": 0.98}
+{"role1": "Senior Data Scientist", "role2": "Lead Data Scientist", "score": 0.98}
+{"role1": "Staff Data Scientist", "role2": "Junior Data Scientist", "score": 0.98}
+{"role1": "Staff Data Scientist", "role2": "Mid-level Data Scientist", "score": 0.98}
+{"role1": "Staff Data Scientist", "role2": "Senior Data Scientist", "score": 0.98}
+{"role1": "Staff Data Scientist", "role2": "Staff Data Scientist", "score": 0.98}
+{"role1": "Staff Data Scientist", "role2": "Principal Data Scientist", "score": 0.98}
+{"role1": "Staff Data Scientist", "role2": "Lead Data Scientist", "score": 0.98}
+{"role1": "Principal Data Scientist", "role2": "Junior Data Scientist", "score": 0.98}
+{"role1": "Principal Data Scientist", "role2": "Mid-level Data Scientist", "score": 0.98}
+{"role1": "Principal Data Scientist", "role2": "Senior Data Scientist", "score": 0.98}
+{"role1": "Principal Data Scientist", "role2": "Staff Data Scientist", "score": 0.98}
+{"role1": "Principal Data Scientist", "role2": "Principal Data Scientist", "score": 0.98}
+{"role1": "Principal Data Scientist", "role2": "Lead Data Scientist", "score": 0.98}
+{"role1": "Lead Data Scientist", "role2": "Junior Data Scientist", "score": 0.98}
+{"role1": "Lead Data Scientist", "role2": "Mid-level Data Scientist", "score": 0.98}
+{"role1": "Lead Data Scientist", "role2": "Senior Data Scientist", "score": 0.98}
+{"role1": "Lead Data Scientist", "role2": "Staff Data Scientist", "score": 0.98}
+{"role1": "Lead Data Scientist", "role2": "Principal Data Scientist", "score": 0.98}
+{"role1": "Lead Data Scientist", "role2": "Lead Data Scientist", "score": 0.98}
+{"role1": "Junior Backend Developer", "role2": "Junior Backend Developer", "score": 0.98}
+{"role1": "Junior Backend Developer", "role2": "Mid-level Backend Developer", "score": 0.98}
+{"role1": "Junior Backend Developer", "role2": "Senior Backend Developer", "score": 0.98}
+{"role1": "Junior Backend Developer", "role2": "Staff Backend Developer", "score": 0.98}
+{"role1": "Junior Backend Developer", "role2": "Principal Backend Developer", "score": 0.98}
+{"role1": "Junior Backend Developer", "role2": "Lead Backend Developer", "score": 0.98}
+{"role1": "Mid-level Backend Developer", "role2": "Junior Backend Developer", "score": 0.98}
+{"role1": "Mid-level Backend Developer", "role2": "Mid-level Backend Developer", "score": 0.98}
+{"role1": "Mid-level Backend Developer", "role2": "Senior Backend Developer", "score": 0.98}
+{"role1": "Mid-level Backend Developer", "role2": "Staff Backend Developer", "score": 0.98}
+{"role1": "Mid-level Backend Developer", "role2": "Principal Backend Developer", "score": 0.98}
+{"role1": "Mid-level Backend Developer", "role2": "Lead Backend Developer", "score": 0.98}
+{"role1": "Senior Backend Developer", "role2": "Junior Backend Developer", "score": 0.98}
+{"role1": "Senior Backend Developer", "role2": "Mid-level Backend Developer", "score": 0.98}
+{"role1": "Senior Backend Developer", "role2": "Senior Backend Developer", "score": 0.98}
+{"role1": "Senior Backend Developer", "role2": "Staff Backend Developer", "score": 0.98}
+{"role1": "Senior Backend Developer", "role2": "Principal Backend Developer", "score": 0.98}
+{"role1": "Senior Backend Developer", "role2": "Lead Backend Developer", "score": 0.98}
+{"role1": "Staff Backend Developer", "role2": "Junior Backend Developer", "score": 0.98}
+{"role1": "Staff Backend Developer", "role2": "Mid-level Backend Developer", "score": 0.98}
+{"role1": "Staff Backend Developer", "role2": "Senior Backend Developer", "score": 0.98}
+{"role1": "Staff Backend Developer", "role2": "Staff Backend Developer", "score": 0.98}
+{"role1": "Staff Backend Developer", "role2": "Principal Backend Developer", "score": 0.98}
+{"role1": "Staff Backend Developer", "role2": "Lead Backend Developer", "score": 0.98}
+{"role1": "Principal Backend Developer", "role2": "Junior Backend Developer", "score": 0.98}
+{"role1": "Principal Backend Developer", "role2": "Mid-level Backend Developer", "score": 0.98}
+{"role1": "Principal Backend Developer", "role2": "Senior Backend Developer", "score": 0.98}
+{"role1": "Principal Backend Developer", "role2": "Staff Backend Developer", "score": 0.98}
+{"role1": "Principal Backend Developer", "role2": "Principal Backend Developer", "score": 0.98}
+{"role1": "Principal Backend Developer", "role2": "Lead Backend Developer", "score": 0.98}
+{"role1": "Lead Backend Developer", "role2": "Junior Backend Developer", "score": 0.98}
+{"role1": "Lead Backend Developer", "role2": "Mid-level Backend Developer", "score": 0.98}
+{"role1": "Lead Backend Developer", "role2": "Senior Backend Developer", "score": 0.98}
+{"role1": "Lead Backend Developer", "role2": "Staff Backend Developer", "score": 0.98}
+{"role1": "Lead Backend Developer", "role2": "Principal Backend Developer", "score": 0.98}
+{"role1": "Lead Backend Developer", "role2": "Lead Backend Developer", "score": 0.98}
