@@ -1,0 +1,40 @@
+{"cv_skills": ["python", "django", "rest api", "postgresql", "docker", "git", "linux"], "job_skills": ["python", "django", "rest api", "postgresql", "docker", "git"], "score": 0.98}
+{"cv_skills": ["django", "rest api", "postgresql", "docker", "git"], "job_skills": ["python", "django", "rest api", "postgresql", "docker", "git"], "score": 0.9}
+{"cv_skills": ["python", "flask", "sqlalchemy", "mysql", "git", "unit testing"], "job_skills": ["python", "django", "rest api", "postgresql", "docker", "git"], "score": 0.7}
+{"cv_skills": ["java", "spring boot", "microservices", "kubernetes", "docker", "rest api", "mysql"], "job_skills": ["java", "spring boot", "microservices", "docker", "kubernetes", "rabbitmq"], "score": 0.93}
+{"cv_skills": ["javascript", "react", "redux", "html", "css", "node.js", "typescript"], "job_skills": ["javascript", "react", "typescript", "html", "css"], "score": 0.97}
+{"cv_skills": ["javascript", "vue.js", "html", "css", "node.js", "figma"], "job_skills": ["javascript", "react", "typescript", "html", "css"], "score": 0.7}
+{"cv_skills": ["c++", "embedded systems", "rtos", "spi", "i2c", "arm cortex"], "job_skills": ["c++", "embedded systems", "linux kernel", "can bus"], "score": 0.82}
+{"cv_skills": ["python", "pandas", "numpy", "scikit-learn", "machine learning", "data visualization", "matplotlib"], "job_skills": ["python", "pandas", "numpy", "scikit-learn", "machine learning"], "score": 0.97}
+{"cv_skills": ["r", "statistics", "hypothesis testing", "ggplot2", "data cleaning"], "job_skills": ["python", "pandas", "numpy", "scikit-learn", "machine learning"], "score": 0.38}
+{"cv_skills": ["sql", "postgresql", "data modeling", "etl", "airflow", "python"], "job_skills": ["sql", "data warehousing", "etl", "airflow", "python"], "score": 0.9}
+{"cv_skills": ["excel", "vlookup", "pivot tables", "power bi", "data analysis"], "job_skills": ["sql", "data warehousing", "etl", "airflow", "python"], "score": 0.3}
+{"cv_skills": ["aws", "ec2", "s3", "lambda", "cloudwatch", "terraform"], "job_skills": ["aws", "ec2", "s3", "rds", "iam", "terraform"], "score": 0.9}
+{"cv_skills": ["azure", "vm", "blob storage", "arm templates", "devops"], "job_skills": ["aws", "ec2", "s3", "rds", "iam", "terraform"], "score": 0.35}
+{"cv_skills": ["docker", "kubernetes", "ci/cd", "github actions", "linux", "monitoring"], "job_skills": ["docker", "kubernetes", "ci/cd", "linux", "prometheus"], "score": 0.9}
+{"cv_skills": ["project management", "scrum", "kanban", "jira", "stakeholder management", "communication"], "job_skills": ["project management", "scrum", "stakeholder management", "risk management", "communication"], "score": 0.93}
+{"cv_skills": ["communication", "teamwork", "time management", "problem solving"], "job_skills": ["project management", "scrum", "stakeholder management", "risk management", "communication"], "score": 0.55}
+{"cv_skills": ["python", "pytorch", "deep learning", "computer vision", "opencv"], "job_skills": ["python", "pytorch", "deep learning", "nlp", "transformers"], "score": 0.72}
+{"cv_skills": ["python", "nlp", "transformers", "huggingface", "text classification"], "job_skills": ["python", "pytorch", "deep learning", "nlp", "transformers"], "score": 0.9}
+{"cv_skills": ["sales", "cold calling", "crm", "negotiation", "communication"], "job_skills": ["account management", "crm", "negotiation", "b2b sales"], "score": 0.78}
+{"cv_skills": ["photoshop", "illustrator", "indesign", "graphic design", "branding"], "job_skills": ["javascript", "react", "html", "css"], "score": 0.08}
+{"cv_skills": ["python", "django", "rest api", "postgresql", "docker", "teamwork", "communication"], "job_skills": ["python", "django", "rest api", "postgresql", "docker", "agile", "communication"], "score": 0.96}
+{"cv_skills": ["sql", "tableau", "power bi", "data storytelling", "stakeholder communication"], "job_skills": ["power bi", "dax", "sql", "data visualization", "stakeholder communication"], "score": 0.86}
+{"cv_skills": ["hr", "recruitment", "interviewing", "onboarding", "employee relations"], "job_skills": ["recruitment", "sourcing", "interviewing", "stakeholder communication"], "score": 0.82}
+{"cv_skills": ["python", "pandas", "time series analysis", "forecasting", "prophet"], "job_skills": ["python", "pandas", "time series forecasting", "arima"], "score": 0.88}
+{"cv_skills": ["c#", ".net", "asp.net core", "sql server", "azure"], "job_skills": ["c#", ".net", "asp.net core", "entity framework", "sql server"], "score": 0.9}
+{"cv_skills": ["go", "microservices", "grpc", "kubernetes", "postgresql"], "job_skills": ["c#", ".net", "asp.net core", "entity framework", "sql server"], "score": 0.22}
+{"cv_skills": ["python", "fastapi", "sqlalchemy", "postgresql", "docker", "kubernetes"], "job_skills": ["python", "fastapi", "postgresql", "docker", "kubernetes", "ci/cd"], "score": 0.94}
+{"cv_skills": ["typescript", "react", "next.js", "graphql", "jest"], "job_skills": ["typescript", "react", "redux", "rest api", "jest"], "score": 0.85}
+{"cv_skills": ["customer support", "ticketing systems", "communication", "problem solving", "sla management"], "job_skills": ["customer support", "communication", "conflict resolution", "problem solving"], "score": 0.9}
+{"cv_skills": ["python", "django", "rest api", "postgresql"], "job_skills": ["java", "spring", "hibernate", "mysql"], "score": 0.15}
+{"cv_skills": ["python", "machine learning", "pandas", "numpy", "communication", "teamwork"], "job_skills": ["machine learning", "python", "model deployment", "mlops", "docker"], "score": 0.8}
+{"cv_skills": ["linux", "bash", "networking", "firewalls", "vpn"], "job_skills": ["it support", "windows", "active directory", "ticketing systems"], "score": 0.4}
+{"cv_skills": ["it support", "windows", "active directory", "ticketing systems", "communication"], "job_skills": ["it support", "windows", "active directory", "ticketing systems"], "score": 0.96}
+{"cv_skills": ["ui design", "ux research", "figma", "wireframing", "user testing"], "job_skills": ["ux research", "user interviews", "prototyping", "figma"], "score": 0.9}
+{"cv_skills": ["accounting", "excel", "financial analysis", "budgeting"], "job_skills": ["python", "pandas", "data analysis", "machine learning"], "score": 0.18}
+{"cv_skills": ["python", "spark", "hadoop", "big data", "kafka"], "job_skills": ["python", "spark", "data engineering", "kafka", "airflow"], "score": 0.9}
+{"cv_skills": ["python", "django", "drf", "celery", "redis", "postgresql"], "job_skills": ["python", "django", "celery", "redis", "postgresql", "rest api"], "score": 0.96}
+{"cv_skills": ["leadership", "communication", "conflict resolution", "team management"], "job_skills": ["engineering manager", "leadership", "people management", "communication"], "score": 0.78}
+{"cv_skills": ["python", "selenium", "test automation", "pytest"], "job_skills": ["qa automation", "selenium", "cypress", "test automation"], "score": 0.8}
+{"cv_skills": ["python", "sql", "power bi", "statistics", "data visualization"], "job_skills": ["junior data analyst", "sql", "power bi", "excel", "communication"], "score": 0.88}

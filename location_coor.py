@@ -2,7 +2,9 @@ import requests
 
 
 def get_coordinates(place_name):
-
+    """
+    Fetch latitude and longitude for a given place name using Nominatim API
+    """
     url = "https://nominatim.openstreetmap.org/search"
 
     params = {
